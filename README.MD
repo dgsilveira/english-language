@@ -44,95 +44,11 @@ A intenção é que o conhecimento seja reforçado por exposição e repetição
 
 A pasta [`verbs/`](./verbs/) contém o estudo individual dos verbos.
 
-Cada verbo possui seu próprio arquivo Markdown.
+Sua página principal é [`/verbs/README.md`](./verbs/README.md)
 
-Exemplo:
-
-```text
-verbs/
-├── add.md
-├── agree.md
-├── allow.md
-├── appear.md
-├── arrange.md
-├── arrive.md
-├── ask.md
-├── ask-for.md
-├── attach.md
-├── avoid.md
-└── be.md
-```
-
-### Índice de verbos
-
-* [Add](./verbs/add.md)
-* [Agree](./verbs/agree.md)
-* [Allow](./verbs/allow.md)
-* [Appear](./verbs/appear.md)
-* [Arrange](./verbs/arrange.md)
-* [Arrive](./verbs/arrive.md)
-* [Ask](./verbs/ask.md)
-* [Ask for](./verbs/ask-for.md)
-* [Attach](./verbs/attach.md)
-* [Avoid](./verbs/avoid.md)
-* [Be](./verbs/be.md)
-
-> O índice será atualizado conforme novos verbos forem adicionados.
+Para acrescentar um verbo, utilize a [`Instrução Template de verbos`](./templates/verb-instructions.md).
 
 ---
-
-## Grammar
-
-A pasta [`grammar/`](./grammar/) será utilizada para conteúdos relacionados à gramática inglesa.
-
-Exemplos de assuntos:
-
-* tempos verbais;
-* Present Simple;
-* Present Continuous;
-* Past Simple;
-* Present Perfect;
-* Future;
-* Passive Voice;
-* artigos;
-* pronomes;
-* preposições;
-* estruturas gramaticais.
-
----
-
-## Phrasal Verbs
-
-A pasta [`phrasal-verbs/`](./phrasal-verbs/) será utilizada para estudar phrasal verbs.
-
-Quando um verbo possuir phrasal verbs relevantes, eles também poderão ser relacionados dentro do arquivo do verbo de origem.
-
----
-
-## Vocabulary
-
-A pasta [`vocabulary/`](./vocabulary/) será utilizada para vocabulário organizado por temas e contextos.
-
-Exemplos:
-
-* tecnologia;
-* programação;
-* trabalho;
-* cotidiano;
-* viagens;
-* casa;
-* comunicação.
-
----
-
-## Review
-
-A pasta [`review/`](./review/) será utilizada para materiais relacionados às revisões periódicas.
-
-O objetivo é permitir revisões recorrentes do conteúdo já estudado.
-
----
-
 
 # Padrão de revisão
 
