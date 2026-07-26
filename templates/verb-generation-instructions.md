@@ -20,7 +20,7 @@ O objetivo do template é estudar não apenas o significado do verbo, mas també
 
 Ao solicitar ajuda para criar um novo arquivo, será é entregue o verbo a ser estudado, o conteúdo desse arquivo para instruções, e o template como referência.
 
-[`TEMPLATE DE VERBOS`](verb.md).
+[`TEMPLATE DE VERBOS`](verb-template.md).
 
 A resposta deve:
 

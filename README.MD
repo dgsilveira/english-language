@@ -47,7 +47,7 @@ A pasta [`verbs/`](./verbs/) contém o estudo individual dos verbos.
 
 Sua página principal é [`/verbs/README.md`](./verbs/README.md)
 
-Para acrescentar um verbo, utilize a [`Instrução Template de verbos`](./templates/verb-instructions.md).
+Para acrescentar um verbo, utilize a [`Instrução Template de verbos`](./templates/verb-generation-instructions.md).
 
 ---
 
