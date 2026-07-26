@@ -1,7 +1,8 @@
 # Verbo: [VERBO]
-**SIGNIFICADO(S):**
 
 ## Informações gerais
+
+**SIGNIFICADO(S):**
 
 **CEFR:**
 
