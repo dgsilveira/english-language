@@ -1,4 +1,6 @@
+**Prompt Engineering:** Este documento contém as instruções oficiais para geração dos verbos deste projeto.
 # Template para estudo de verbos
+
 Cada verbo deve seguir um padrão consistente.
 
 O objetivo do template é estudar não apenas o significado do verbo, mas também:
