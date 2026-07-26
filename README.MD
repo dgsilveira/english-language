@@ -83,3 +83,11 @@ Este projeto utiliza:
 Este é um projeto contínuo de estudo.
 
 O conteúdo será ampliado e revisado conforme o aprendizado evoluir.
+
+## Filosofia do projeto
+
+Este projeto prioriza qualidade em vez de quantidade.
+
+Cada verbo é documentado seguindo um único padrão oficial.
+
+O objetivo é construir uma base de conhecimento consistente e reutilizável, permitindo revisões periódicas e evolução contínua do conteúdo.

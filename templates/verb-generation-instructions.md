@@ -80,3 +80,9 @@ Evitar frases excessivamente complexas apenas para demonstrar conhecimento.
 O objetivo é **memorizar o uso do verbo**, e não tornar a revisão cansativa.
 
 ---
+Caso existam divergências entre gramáticas ou usos menos comuns, priorize:
+
+1. American English.
+2. Uso moderno.
+3. Uso mais frequente.
+4. Exemplos naturais.

@@ -2,7 +2,11 @@
 
 ## Informações gerais
 
-**SIGNIFICADO(S):**
+**Significado(s):**
+
+**Traduções menos comuns**
+Informar traduções secundárias quando forem relevantes.
+Não incluir traduções raras apenas para completar o conteúdo.
 
 **Palavras da mesma família:**
 Exemplo.
@@ -79,6 +83,7 @@ Fornecer exemplos.
 ---
 
 # Frases (tempo verbal)
+As frases devem reutilizar vocabulário simples sempre que possível.
 
 ## Presente (1ª pessoa)
 
@@ -169,9 +174,8 @@ Explicar as estruturas relevantes e fornecer exemplos.
 # Frases extras (uso real)
 
 Fornecer exatamente 5 frases.
-
 Sempre incluir tradução.
-
+Evite repetir estruturas já utilizadas nas frases dos tempos verbais.
 Quando apropriado, priorizar exemplos relacionados a:
 
 * conversação;
