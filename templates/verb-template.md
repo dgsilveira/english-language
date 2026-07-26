@@ -1,33 +1,38 @@
 # Verbo: [VERBO]
 
-## Informações gerais
 
-**Significado(s):**
+## Traduções principais
 
-**Traduções menos comuns**
+* [significado]
+* [significado]
+
 Informar traduções secundárias quando forem relevantes.
 Não incluir traduções raras apenas para completar o conteúdo.
 
+---
+
+## Informações gerais
+
+**Traduções menos comuns**
+
+- traducao menos comum 1
+- traducao menos comum 2
+- outras se relevante
+
 **Palavras da mesma família:**
+
+- palavra 1
+- palavra 1
+- outras se relevante
+
 Exemplo.
+
 Para add
--addition -> adição
--additional -> adicional
--additionality (quando existir) -> adicionalidade
--additionally -> adicionalmente
--added -> adicionado
-
-Para decide
--decision -> decisão
--decisive -> decisivo
--decisively decisivamente
--decision-making -> tomada de decisão
-
-Para move
--movement -> movimento
--moving -> movendo / em movimento (dependendo do contexto)
--removal (não pertence) -> remoção
--movie (explicar que NÃO pertence) -> filme
+- addition -> adição
+- additional -> adicional
+- additionality (quando existir) -> adicionalidade
+- additionally -> adicionalmente
+- added -> adicionado
 
 **CEFR:**
 (A1, A2, B1, B2, C1 ou C2)
@@ -72,13 +77,6 @@ Exemplo:
 Explicar se ocorre dobra da consoante ou outra alteração ortográfica relevante.
 
 Fornecer exemplos.
-
----
-
-# Significados principais
-
-* [significado]
-* [significado]
 
 ---
 
