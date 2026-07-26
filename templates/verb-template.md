@@ -1,158 +1,192 @@
 # Verbo: [VERBO]
 
-
 ## Traduções principais
 
-* [significado]
-* [significado]
+* [tradução principal]
+* [tradução principal]
 
-Informar traduções secundárias quando forem relevantes.
-Não incluir traduções raras apenas para completar o conteúdo.
+> Informar apenas os significados principais e mais frequentes do verbo.
 
 ---
 
 ## Informações gerais
 
-**Traduções menos comuns**
+**Outras traduções**
 
-- traducao menos comum 1
-- traducao menos comum 2
-- outras se relevante
+Adicionar apenas traduções secundárias quando forem relevantes para o uso real do verbo.
 
-**Palavras da mesma família:**
+* tradução secundária
+* tradução secundária
 
-- palavra 1
-- palavra 1
-- outras se relevante
+Evitar traduções extremamente raras apenas para aumentar a lista.
 
-Exemplo.
+### Palavras da mesma família
 
-Para add
-- addition -> adição
-- additional -> adicional
-- additionality (quando existir) -> adicionalidade
-- additionally -> adicionalmente
-- added -> adicionado
+Adicionar apenas palavras derivadas realmente úteis para ampliar o vocabulário.
 
-**CEFR:**
-(A1, A2, B1, B2, C1 ou C2)
+Exemplo para **add**:
 
-**Relevância para TI:**
-- Pouco Usado
-- Usado
-ou
-- Muito Usado
+* addition → adição
+* additional → adicional
+* additionally → adicionalmente
+* added → adicionado
 
-**Conjugação?**
-- Regular
-ou
-- Irregular
+Evitar palavras extremamente raras apenas para aumentar a lista.
 
-## Pronúncia (IPA - General American)
+### CEFR
 
-* Presente: [verbo] → /.../
-* Presente (3ª pessoa): [verbo] → /.../
-* Passado: [verbo] → /.../
-* Particípio: [verbo] → /.../
+* A1
+* A2
+* B1
+* B2
+* C1
+* C2
+
+### Relevância para TI
+
+* Pouco usado
+* Usado
+* Muito usado
+
+### Tipo de verbo
+
+* Regular
+* Irregular
+
+---
+
+## Pronúncia (IPA – General American)
+
+* Presente: **[verbo]** → /.../
+* Presente (3ª pessoa): **[verbo]** → /.../
+* Passado: **[verbo]** → /.../
+* Particípio: **[verbo]** → /.../
+* Forma em **-ING**: **[verbo]** → /.../ *(quando aplicável)*
+
+---
 
 ## Phrasal verbs
 
-Informar se o verbo possui phrasal verbs relevantes.
+Informar apenas os phrasal verbs realmente relevantes e comuns.
 
 Exemplo:
 
 * [phrasal verb]
 * [phrasal verb]
 
-Caso não possua phrasal verbs relevantes, informar.
+Caso não existam phrasal verbs relevantes, informar isso.
+
+---
 
 ## Forma em -ING
 
-Informar como o verbo é escrito na forma `-ING`.
+Informar como o verbo é escrito na forma **-ING**.
 
 Exemplo:
 
 `begin → beginning`
 
-Explicar se ocorre dobra da consoante ou outra alteração ortográfica relevante.
+Explicar quando houver:
+
+* dobra da consoante;
+* retirada do **e** final;
+* troca de letras;
+* qualquer alteração ortográfica relevante.
+
+Informar também a pronúncia da forma em **-ING**, quando ela apresentar alguma dificuldade.
 
 Fornecer exemplos.
 
 ---
 
 # Frases (tempo verbal)
-As frases devem reutilizar vocabulário simples sempre que possível.
+
+As frases devem:
+
+* reutilizar vocabulário já estudado sempre que possível;
+* utilizar estruturas simples;
+* ser naturais;
+* facilitar a memorização.
 
 ## Presente (1ª pessoa)
 
 I [verbo] ...
 
-([Tradução])
+(Tradução)
 
 ## Presente (3ª pessoa)
 
-He/She [verbo+s] ...
+He/She [verbo] ...
 
-([Tradução])
+(Tradução)
 
 ## Passado
 
-I [verbo no passado] ...
+I [verbo] ...
 
-([Tradução])
+(Tradução)
 
 ## Futuro
 
 I will [verbo] ...
 
-([Tradução])
+(Tradução)
 
 ## Particípio (Present Perfect)
 
 I have [particípio] ...
 
-([Tradução])
+(Tradução)
 
 ---
 
 # Estruturas importantes
-Apresente primeiro a estrutura mais comum do verbo.
-Depois apresente outras estruturas relevantes.
 
+Apresentar primeiro a estrutura mais comum do verbo.
+
+Depois apresentar as demais estruturas realmente relevantes.
 
 ## Estrutura principal
 
 `[verbo] + _______`
 
-Fornecer de 2 a 3 exemplos com tradução.
+Fornecer de **3 exemplos**, sempre com tradução.
 
 ## Outras formas comuns
 
-Apresentar outras estruturas relevantes.
+Apresentar outras estruturas importantes.
 
-Fornecer de 2 a 3 exemplos por estrutura, sempre com tradução.
+Para cada estrutura:
+
+* explicar rapidamente;
+* fornecer de **2 a 3 exemplos**;
+* apresentar tradução.
 
 ---
 
 # Uso com outros verbos
 
-## Usa ING?
+## Usa -ING?
 
 * ✔ Sim
 * ✔ Não
 
-Explicar a regra e fornecer exemplos quando aplicável.
+Explicar a regra.
+
+Quando aplicável, fornecer exemplos.
 
 ## Usa TO + infinitivo?
 
 * ✔ Sim
 * ✔ Não
 
-Explicar a regra e fornecer exemplos quando aplicável.
+Explicar a regra.
+
+Quando aplicável, fornecer exemplos.
 
 ## Preposição obrigatória?
 
-Informar se existe alguma preposição que normalmente acompanha o verbo.
+Informar quando houver preposição normalmente exigida pelo verbo.
 
 Exemplos:
 
@@ -165,16 +199,21 @@ Exemplos:
 * into
 * from
 
-Explicar as estruturas relevantes e fornecer exemplos.
+Explicar as estruturas relevantes.
+
+Fornecer exemplos.
 
 ---
 
 # Frases extras (uso real)
 
-Fornecer exatamente 5 frases.
+Fornecer **exatamente 5 frases**.
+
 Sempre incluir tradução.
-Evite repetir estruturas já utilizadas nas frases dos tempos verbais.
-Quando apropriado, priorizar exemplos relacionados a:
+
+Evitar repetir estruturas utilizadas anteriormente.
+
+Quando fizer sentido, priorizar exemplos relacionados a:
 
 * conversação;
 * trabalho;
@@ -192,13 +231,13 @@ Quando apropriado, priorizar exemplos relacionados a:
 
 # Combinações mais comuns (Collocations)
 
-Fornecer exatamente 5 frases.
+Fornecer **exatamente 5 collocations** muito frequentes.
 
-Para cada combinação:
+Para cada uma:
 
-* apresentar a combinação;
-* criar uma frase;
-* apresentar a tradução.
+1. apresentar a combinação;
+2. criar uma frase natural;
+3. apresentar a tradução.
 
 Exemplo:
 
@@ -209,24 +248,31 @@ Exemplo:
 * `avoid delays`
 
 ---
+
 # Expressões comuns
 
-Exemplo.
+Informar expressões e idioms comuns que utilizam o verbo.
 
-Para add
-- add fuel to the fire
-- add insult to injury
+Exemplo para **add**:
 
-Para be
-- be on time
-- be careful
-- be in trouble
+* add fuel to the fire
+* add insult to injury
+
+Exemplo para **be**:
+
+* be on time
+* be careful
+* be in trouble
+
+Caso não existam expressões realmente comuns, informar.
+
 ---
 
 # Erros comuns
 
-Apresentar os principais erros que brasileiros podem cometer ao utilizar o verbo.
-Caso não exista erro comum relevante, informar.
+Apresentar os principais erros que brasileiros costumam cometer.
+
+Caso não exista erro relevante, informar.
 
 Utilizar o formato:
 
@@ -240,13 +286,16 @@ Exemplo:
 
 ✔ I avoid making mistakes.
 
+Explicar rapidamente o motivo do erro.
+
 ---
 
 # Observações importantes
-Exatamente três observações.
 
-* [observação]
-* [observação]
-* [observação]
+Apresentar **exatamente 3 observações**.
 
-Incluir apenas informações realmente relevantes para o aprendizado e revisão.
+As observações devem destacar apenas informações realmente úteis para revisão.
+
+* observação
+* observação
+* observação
