@@ -4,20 +4,49 @@
 
 **SIGNIFICADO(S):**
 
+**Palavras da mesma família:**
+Exemplo.
+Para add
+-addition -> adição
+-additional -> adicional
+-additionality (quando existir) -> adicionalidade
+-additionally -> adicionalmente
+-added -> adicionado
+
+Para decide
+-decision -> decisão
+-decisive -> decisivo
+-decisively decisivamente
+-decision-making -> tomada de decisão
+
+Para move
+-movement -> movimento
+-moving -> movendo / em movimento (dependendo do contexto)
+-removal (não pertence) -> remoção
+-movie (explicar que NÃO pertence) -> filme
+
 **CEFR:**
+(A1, A2, B1, B2, C1 ou C2)
 
 **Relevância para TI:**
+- Pouco Usado
+- Usado
+ou
+- Muito Usado
 
-**Regular ou irregular?**
+**Conjugação?**
+- Regular
+ou
+- Irregular
 
-## Pronúncia (AFI – IPA)
+## Pronúncia (IPA - General American)
 
 * Presente: [verbo] → /.../
 * Presente (3ª pessoa): [verbo] → /.../
 * Passado: [verbo] → /.../
 * Particípio: [verbo] → /.../
 
-## Phrasal verbs relacionados
+## Phrasal verbs
 
 Informar se o verbo possui phrasal verbs relevantes.
 
@@ -28,7 +57,7 @@ Exemplo:
 
 Caso não possua phrasal verbs relevantes, informar.
 
-## Forma do -ING
+## Forma em -ING
 
 Informar como o verbo é escrito na forma `-ING`.
 
@@ -84,6 +113,9 @@ I have [particípio] ...
 ---
 
 # Estruturas importantes
+Apresente primeiro a estrutura mais comum do verbo.
+Depois apresente outras estruturas relevantes.
+
 
 ## Estrutura principal
 
@@ -136,7 +168,7 @@ Explicar as estruturas relevantes e fornecer exemplos.
 
 # Frases extras (uso real)
 
-Fornecer de 3 a 5 frases naturais e úteis.
+Fornecer exatamente 5 frases.
 
 Sempre incluir tradução.
 
@@ -158,7 +190,7 @@ Quando apropriado, priorizar exemplos relacionados a:
 
 # Combinações mais comuns (Collocations)
 
-Fornecer pelo menos 5 combinações frequentes com o verbo.
+Fornecer exatamente 5 frases.
 
 Para cada combinação:
 
@@ -175,10 +207,24 @@ Exemplo:
 * `avoid delays`
 
 ---
+# Expressões comuns
+
+Exemplo.
+
+Para add
+- add fuel to the fire
+- add insult to injury
+
+Para be
+- be on time
+- be careful
+- be in trouble
+---
 
 # Erros comuns
 
 Apresentar os principais erros que brasileiros podem cometer ao utilizar o verbo.
+Caso não exista erro comum relevante, informar.
 
 Utilizar o formato:
 
@@ -195,6 +241,7 @@ Exemplo:
 ---
 
 # Observações importantes
+Exatamente três observações.
 
 * [observação]
 * [observação]
