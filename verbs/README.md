@@ -21,17 +21,17 @@ verbs/
 
 ## Índice de verbos
 
-* [Add](./verbs/add.md)
-* [Agree](./verbs/agree.md)
-* [Allow](./verbs/allow.md)
-* [Appear](./verbs/appear.md)
-* [Arrange](./verbs/arrange.md)
-* [Arrive](./verbs/arrive.md)
-* [Ask](./verbs/ask.md)
-* [Ask for](./verbs/ask-for.md)
-* [Attach](./verbs/attach.md)
-* [Avoid](./verbs/avoid.md)
-* [Be](./verbs/be.md)
+* [Add](Add.md)
+* [Agree](Agree.md)
+* [Allow](Allow.md)
+* [Appear](Appear.md)
+* [Arrange](Arrange.md)
+* [Arrive](Arrive.md)
+* [Ask](Ask.md)
+* [Ask for](Ask-for.md)
+* [Attach](Attach.md)
+* [Avoid](Avoid.md)
+* [Be](Be.md)
 
 > O índice será atualizado conforme novos verbos forem adicionados.
 
