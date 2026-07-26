@@ -22,6 +22,8 @@ verbs/
 ## Índice de verbos
 
 * [Add](add.md)
+* [Add on](add-on.md)
+* [Add up](add-up.md)
 * [Agree](agree.md)
 * [Allow](allow.md)
 * [Appear](appear.md)
