@@ -2,23 +2,6 @@
 
 Cada verbo possui seu próprio arquivo Markdown.
 
-Exemplo:
-
-```text
-verbs/
-├── add.md
-├── agree.md
-├── allow.md
-├── appear.md
-├── arrange.md
-├── arrive.md
-├── ask.md
-├── ask-for.md
-├── attach.md
-├── avoid.md
-└── be.md
-```
-
 ## Índice de verbos
 
 * [Add](add.md)
