@@ -1,89 +1,96 @@
-# Breathe
+## Verbo: BREATHE
 
-## Informações gerais
+### Traduções principais
+- respirar
 
-**CEFR:** A2
+### Informações gerais
 
-**Relevância para TI:** Pouco usado
+**Outras traduções**
+- inspirar e expirar ar
+- respirar fundo
+- tomar fôlego
 
-**Regular ou irregular?** Regular
+#### Palavras da mesma família
 
----
+- breath → respiração / fôlego
+- breathing → respiração
+- breathable → respirável
+- breathless → sem fôlego
+- breather → pausa curta
 
-## Pronúncia (AFI – IPA)
+#### CEFR
+- A2
 
-- **Presente:** breathe → /briːð/
-- **Presente (3ª pessoa):** breathes → /briːðz/
-- **Passado:** breathed → /briːðd/
-- **Particípio:** breathed → /briːðd/
+#### Relevância para TI
+- Pouco usado
 
----
+#### Tipo de verbo
+- Regular
 
-## Phrasal verbs relacionados
+### Pronúncia (IPA – General American)
 
-O verbo **breathe** possui alguns phrasal verbs, mas poucos são muito frequentes.
+- Presente: **breathe** → /briːð/
+- Presente (3ª pessoa): **breathes** → /briːðz/
+- Passado: **breathed** → /briːðd/
+- Particípio: **breathed** → /briːðd/
+- Forma em **-ING**: **breathing** → /ˈbriːðɪŋ/
+
+### Phrasal verbs
 
 - breathe in
 - breathe out
-- breathe into
 
----
-
-## Forma do -ING
+### Forma em -ING
 
 **breathe → breathing**
 
-O verbo perde a letra **e** final antes de adicionar **-ing**.
+O **e** final é removido antes de adicionar **-ING**.
 
-**Exemplos:**
+- breathe → breathing
 
-- breathing slowly
-- breathing deeply
-- breathing fresh air
+Pronúncia:
 
----
+- breathing → /ˈbriːðɪŋ/
 
-## Significados
+Exemplos:
 
-- respirar
-- inspirar
-- expirar
+- I am breathing normally.
+  (Estou respirando normalmente.)
 
----
+- She is breathing deeply.
+  (Ela está respirando profundamente.)
 
 ## Frases (tempo verbal)
 
 ### Presente (1ª pessoa)
 
-I breathe deeply.
+I breathe through my nose.
 
-(Eu respiro profundamente.)
+(Eu respiro pelo nariz.)
 
 ### Presente (3ª pessoa)
 
-She breathes slowly.
+She breathes calmly.
 
-(Ela respira lentamente.)
+(Ela respira calmamente.)
 
 ### Passado
 
-I breathed normally.
+I breathed deeply before the presentation.
 
-(Eu respirei normalmente.)
+(Eu respirei fundo antes da apresentação.)
 
 ### Futuro
 
-I will breathe easier.
+I will breathe and stay calm.
 
-(Eu respirarei com mais facilidade.)
+(Eu vou respirar e manter a calma.)
 
 ### Particípio (Present Perfect)
 
-I have breathed fresh air today.
+I have breathed cleaner air here.
 
-(Eu respirei ar fresco hoje.)
-
----
+(Eu respirei um ar mais limpo aqui.)
 
 ## Estruturas importantes
 
@@ -91,153 +98,181 @@ I have breathed fresh air today.
 
 **breathe + advérbio**
 
-**Exemplos:**
+Exemplos:
 
 - Breathe slowly.
-  (Respire lentamente.)
+  (Respire devagar.)
 
-- Breathe deeply.
-  (Respire profundamente.)
+- She breathed deeply.
+  (Ela respirou profundamente.)
 
-- He breathed quietly.
-  (Ele respirou silenciosamente.)
+- He breathed heavily.
+  (Ele respirava pesadamente.)
 
 ### Outras formas comuns
 
 #### breathe in + objeto
 
-**Exemplos:**
+Usado para inspirar ar, cheiro, fumaça etc.
 
-- Breathe in slowly.
-  (Inspire lentamente.)
+- Breathe in deeply.
+  (Inspire profundamente.)
 
-- Breathe in fresh air.
-  (Inspire ar fresco.)
+- She breathed in fresh air.
+  (Ela inspirou ar fresco.)
 
-- She breathed in deeply.
-  (Ela inspirou profundamente.)
+- He breathed in slowly.
+  (Ele inspirou lentamente.)
 
 #### breathe out + objeto
 
-**Exemplos:**
+Usado para expirar ar.
 
 - Breathe out slowly.
   (Expire lentamente.)
 
-- He breathed out the smoke.
-  (Ele soltou a fumaça.)
+- She breathed out gently.
+  (Ela expirou suavemente.)
 
-- Breathe out completely.
-  (Expire completamente.)
+- He breathed out the air.
+  (Ele expirou o ar.)
 
----
+#### breathe through + parte do corpo
+
+- Breathe through your nose.
+  (Respire pelo nariz.)
+
+- Try to breathe through your mouth.
+  (Tente respirar pela boca.)
 
 ## Uso com outros verbos
 
-### Usa ING?
+### Usa -ING?
 
-✔ Não
+- ✔ Sim
 
-O verbo normalmente não é seguido diretamente por outro verbo em **-ing**.
+Exemplos:
+
+- She practiced breathing slowly.
+  (Ela praticou respirar lentamente.)
+
+- Deep breathing helps reduce stress.
+  (A respiração profunda ajuda a reduzir o estresse.)
 
 ### Usa TO + infinitivo?
 
-✔ Não
+- ✔ Sim
 
-O verbo normalmente não é seguido diretamente por **to + infinitivo**.
+Exemplos:
 
----
+- Try to breathe slowly.
+  (Tente respirar devagar.)
 
-## Preposição obrigatória?
+- Remember to breathe.
+  (Lembre-se de respirar.)
 
-✔ Não possui.
+- He stopped to breathe.
+  (Ele parou para respirar.)
 
-Dependendo do significado, pode aparecer com:
+### Preposição obrigatória?
 
-- in
-- out
-- into
+Não possui preposição obrigatória.
 
-Essas preposições fazem parte de expressões ou phrasal verbs.
+As combinações mais comuns são:
 
----
+- breathe in
+- breathe out
+- breathe through
+
+Exemplos:
+
+- Breathe in deeply.
+  (Inspire profundamente.)
+
+- Breathe out slowly.
+  (Expire lentamente.)
+
+- Breathe through your nose.
+  (Respire pelo nariz.)
 
 ## Frases extras (uso real)
 
-- Just breathe and relax.
-  (Apenas respire e relaxe.)
+- Take a moment to breathe and relax.
+  (Reserve um momento para respirar e relaxar.)
 
-- It's hard to breathe here.
-  (É difícil respirar aqui.)
+- She breathed a sigh of relief.
+  (Ela respirou aliviada.)
 
-- Take a deep breath and breathe slowly.
-  (Respire fundo e respire lentamente.)
+- The room was easy to breathe in.
+  (Era fácil respirar naquela sala.)
 
-- He could barely breathe.
-  (Ele mal conseguia respirar.)
+- After the meeting, I finally breathed normally.
+  (Após a reunião, finalmente respirei normalmente.)
 
-- The doctor told me to breathe deeply.
-  (O médico me disse para respirar profundamente.)
-
----
+- He stopped running to breathe.
+  (Ele parou de correr para respirar.)
 
 ## Combinações mais comuns (Collocations)
 
 ### breathe deeply
 
-Always breathe deeply.
-
-(Sempre respire profundamente.)
+- Before speaking, breathe deeply.
+  (Antes de falar, respire fundo.)
 
 ### breathe slowly
 
-Try to breathe slowly.
-
-(Tente respirar lentamente.)
+- Try to breathe slowly during stressful situations.
+  (Tente respirar devagar durante situações estressantes.)
 
 ### breathe fresh air
 
-I like to breathe fresh air.
+- I went outside to breathe fresh air.
+  (Saí para respirar ar fresco.)
 
-(Eu gosto de respirar ar fresco.)
+### breathe a sigh of relief
 
-### breathe in
+- We breathed a sigh of relief after fixing the bug.
+  (Respiramos aliviados após corrigir o bug.)
 
-Breathe in through your nose.
+### breathe normally
 
-(Inspire pelo nariz.)
+- The patient is breathing normally now.
+  (O paciente está respirando normalmente agora.)
 
-### breathe out
+## Expressões comuns
 
-Breathe out through your mouth.
-
-(Expire pela boca.)
-
----
+- breathe in
+- breathe out
+- breathe deeply
+- breathe a sigh of relief
+- stop and breathe
 
 ## Erros comuns
 
-❌ I breath deeply.
+❌ I have breathed deeply.
 
-✔ I breathe deeply.
+✔ I have breathed deeply.
 
----
-
-❌ He breathe slowly.
-
-✔ He breathes slowly.
+O passado e o particípio corretos são **breathed**.
 
 ---
 
-❌ I am breathing.
+❌ Take a breath and breath slowly.
 
-✔ I am breathing.
+✔ Take a breath and breathe slowly.
+
+**Breath** é substantivo; **breathe** é verbo.
 
 ---
+
+❌ She is breathing hardly.
+
+✔ She is breathing heavily.
+
+**Hardly** significa "quase não", não "fortemente".
 
 ## Observações importantes
 
-- Não confunda **breathe** (verbo = respirar) com **breath** (substantivo = respiração, fôlego).
-- **breathe** termina com o som /ð/, enquanto **breath** termina com /θ/.
-- O verbo perde o **e** final antes de adicionar **-ing**: **breathe → breathing**.
-- Embora seja pouco usado em TI, pode aparecer em textos motivacionais, interfaces de aplicativos de saúde e bem-estar, e em comandos de assistentes de meditação.
+- Não confunda **breath** (substantivo) com **breathe** (verbo).
+- A diferença de pronúncia é importante: **breath** /breθ/ e **breathe** /briːð/.
+- A expressão **breathe a sigh of relief** é extremamente comum no inglês do dia a dia.

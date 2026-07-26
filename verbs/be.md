@@ -1,98 +1,79 @@
-# Be
+## Verbo: BE
 
-## Informações gerais
-
-**SIGNIFICADO(S):**
-
+### Traduções principais
 - ser
 - estar
-- existir (em construções como *there is/there are*)
 
-**CEFR:** A1
+### Informações gerais
 
-**Relevância para TI:** Muito usado
+**Outras traduções**
+- existir
+- encontrar-se
+- acontecer (em alguns contextos)
+- ficar (em algumas estruturas)
 
-**Conjugação:** Irregular
+#### Palavras da mesma família
 
----
+- being → ser / estando
+- been → sido / estado
+- is → é / está
+- are → são / estão
+- was/were → era, foi, estava, estavam
 
-## Pronúncia (AFI – IPA) *(General American)*
+#### CEFR
+- A1
 
-- **Presente (I am):** am → /æm/
-- **Presente (He/She is):** is → /ɪz/
-- **Presente (You/We/They are):** are → /ɑr/
-- **Passado (I/He/She was):** was → /wʌz/
-- **Passado (You/We/They were):** were → /wɝ/
-- **Particípio:** been → /bɪn/
-- **Forma base:** be → /biː/
+#### Relevância para TI
+- Muito usado
 
-> **Observação:** No inglês americano, **been** costuma ser pronunciado **/bɪn/** na fala cotidiana. A pronúncia **/biːn/** também existe, mas é menos frequente.
+#### Tipo de verbo
+- Irregular
 
----
+### Pronúncia (IPA – General American)
 
-## Phrasal verbs
+- Presente: **be** → /biː/
+- Presente (3ª pessoa): **is** → /ɪz/
+- Passado: **was** → /wʌz/ | **were** → /wɝː/
+- Particípio: **been** → /bɪn/
+- Forma em **-ING**: **being** → /ˈbiːɪŋ/
 
-**be** é o verbo de origem.
+### Phrasal verbs
 
-Principais phrasal verbs:
+Não existem phrasal verbs relevantes formados diretamente com **be**, mas existem diversas expressões fixas:
 
+- be about
 - be back
 - be in
 - be out
-- be over
-- be up
-- be up to
+- be on
 
----
-
-## Forma em -ING
+### Forma em -ING
 
 **be → being**
 
-É um verbo irregular.
+Forma irregular.
 
-**Exemplos:**
+- be → being
+
+Pronúncia:
+
+- being → /ˈbiːɪŋ/
+
+Exemplos:
 
 - He is being polite.
-  - (Ele está sendo educado.)
+  (Ele está sendo educado.)
 
-- Stop being rude.
-  - (Pare de ser mal-educado.)
-
-> **Observação:** **being** normalmente indica um comportamento temporário.
-
----
-
-## Palavras da mesma família (Word Family)
-
-- be
-- am
-- is
-- are
-- was
-- were
-- been
-- being
-
----
-
-## SIGNIFICADO(S)
-
-- ser
-- estar
-- existir (em alguns contextos)
-
----
+- The server is being updated.
+  (O servidor está sendo atualizado.)
 
 ## Frases (tempo verbal)
 
 ### Presente (1ª pessoa)
 
-I am tired.
+I am ready.
 
-(Eu estou cansado.)
-
----
+(Eu estou pronto.)
 
 ### Presente (3ª pessoa)
 
@@ -100,31 +81,23 @@ She is happy.
 
 (Ela está feliz.)
 
----
-
 ### Passado
 
-I was late.
+I was tired yesterday.
 
-(Eu estava atrasado.)
-
----
+(Eu estava cansado ontem.)
 
 ### Futuro
 
-I will be there.
+I will be available tomorrow.
 
-(Eu estarei lá.)
-
----
+(Eu estarei disponível amanhã.)
 
 ### Particípio (Present Perfect)
 
-I have been busy.
+I have been busy this week.
 
-(Eu tenho estado ocupado.)
-
----
+(Eu estive ocupado esta semana.)
 
 ## Estruturas importantes
 
@@ -132,236 +105,179 @@ I have been busy.
 
 **be + adjetivo**
 
-**Exemplos:**
+Exemplos:
 
-- I am tired.
-  - (Eu estou cansado.)
-
-- She is happy.
-  - (Ela está feliz.)
+- I am ready.
+  (Eu estou pronto.)
 
 - The server is online.
-  - (O servidor está online.)
+  (O servidor está online.)
 
----
+- They are happy.
+  (Eles estão felizes.)
 
 ### Outras formas comuns
 
-#### be + lugar
-
-**Exemplos:**
-
-- I am at home.
-  - (Eu estou em casa.)
-
-- We are in the office.
-  - (Nós estamos no escritório.)
-
-- The file is on the desktop.
-  - (O arquivo está na área de trabalho.)
-
----
-
 #### be + substantivo
 
-**Exemplos:**
+Usado para identificar ou definir algo.
 
-- She is a teacher.
-  - (Ela é professora.)
+- I am a developer.
+  (Eu sou desenvolvedor.)
 
-- He is a developer.
-  - (Ele é desenvolvedor.)
+- She is the manager.
+  (Ela é a gerente.)
 
-- This is a good solution.
-  - (Esta é uma boa solução.)
+- This is a database.
+  (Este é um banco de dados.)
 
----
+#### be + lugar
 
-#### be + verbo + ING (Tempos Contínuos)
+- The files are here.
+  (Os arquivos estão aqui.)
 
-**Exemplos:**
+- The team is in the office.
+  (A equipe está no escritório.)
 
-- I am studying.
-  - (Eu estou estudando.)
+- The server is in the cloud.
+  (O servidor está na nuvem.)
 
-- She is working.
-  - (Ela está trabalhando.)
+#### be + verbo em -ING
 
-- They were waiting.
-  - (Eles estavam esperando.)
+Usado no Present Continuous e outros tempos contínuos.
 
----
+- I am working.
+  (Eu estou trabalhando.)
 
-#### be + particípio (Voz Passiva)
+- She is testing the application.
+  (Ela está testando a aplicação.)
 
-**Exemplos:**
+- They are deploying the update.
+  (Eles estão implantando a atualização.)
 
-- The file was deleted.
-  - (O arquivo foi apagado.)
+#### be + particípio
 
-- The server is configured.
-  - (O servidor está configurado.)
+Usado na voz passiva.
 
-- The application is installed.
-  - (O aplicativo está instalado.)
+- The file is attached.
+  (O arquivo está anexado.)
 
----
+- The report was generated.
+  (O relatório foi gerado.)
 
-#### there + be
-
-**Exemplos:**
-
-- There is a problem.
-  - (Há um problema.)
-
-- There are two users online.
-  - (Há dois usuários online.)
-
-- There was an error.
-  - (Houve um erro.)
-
----
+- The server is monitored.
+  (O servidor é monitorado.)
 
 ## Uso com outros verbos
 
-### Usa ING?
+### Usa -ING?
 
-✔ **Sim (ESSENCIAL)**
+- ✔ Sim
 
-O verbo **be** é o auxiliar dos tempos contínuos.
+Essa é uma das funções mais importantes de **be**.
 
-**Exemplos:**
+Exemplos:
 
-- I am studying.
-  - (Eu estou estudando.)
+- I am studying English.
+  (Estou estudando inglês.)
 
-- She was sleeping.
-  - (Ela estava dormindo.)
+- She is writing documentation.
+  (Ela está escrevendo documentação.)
 
-- They are learning English.
-  - (Eles estão aprendendo inglês.)
-
----
+- We are testing the API.
+  (Estamos testando a API.)
 
 ### Usa TO + infinitivo?
 
-✔ **Sim**
+- ✔ Sim
 
-**Exemplos:**
+Muito comum para falar de planos, expectativas ou obrigações.
 
-- I want to be better.
-  - (Eu quero ser melhor.)
+Exemplos:
 
-- It is important to be careful.
-  - (É importante ser cuidadoso.)
+- We are to meet tomorrow.
+  (Temos que nos encontrar amanhã.)
 
-- He hopes to be promoted.
-  - (Ele espera ser promovido.)
+- The application is to be deployed tonight.
+  (A aplicação deverá ser implantada esta noite.)
 
----
+- He is to lead the project.
+  (Ele deverá liderar o projeto.)
 
-### Preposição obrigatória
+### Preposição obrigatória?
 
-✔ **Não possui.**
+Não possui preposição obrigatória.
 
-O verbo **be** pode ser seguido por:
+Diversas preposições podem ser usadas dependendo da estrutura:
 
-- adjetivos;
-- substantivos;
-- lugares;
-- particípios;
-- verbos em **-ING**.
+- be in
+- be on
+- be at
+- be with
+- be for
 
-As preposições (**at, in, on, with, for...**) pertencem ao complemento, e não ao verbo.
+Exemplos:
 
----
+- I am in the office.
+  (Estou no escritório.)
+
+- The server is on.
+  (O servidor está ligado.)
+
+- She is with the team.
+  (Ela está com a equipe.)
 
 ## Frases extras (uso real)
 
-- I am ready.
-  - (Eu estou pronto.)
+- The database is available now.
+  (O banco de dados está disponível agora.)
 
-- He is here.
-  - (Ele está aqui.)
+- The application is secure.
+  (A aplicação é segura.)
 
-- We are learning English.
-  - (Nós estamos aprendendo inglês.)
+- We are ready for deployment.
+  (Estamos prontos para a implantação.)
 
-- The server is online.
-  - (O servidor está online.)
+- The server was offline yesterday.
+  (O servidor estava offline ontem.)
 
-- The database is available.
-  - (O banco de dados está disponível.)
-
----
+- The documentation has been updated.
+  (A documentação foi atualizada.)
 
 ## Combinações mais comuns (Collocations)
 
 ### be careful
 
-Be careful with this code.
-
-(Tenha cuidado com este código.)
-
----
+- Be careful when changing production settings.
+  (Tenha cuidado ao alterar configurações de produção.)
 
 ### be ready
 
-The application is ready.
-
-(O aplicativo está pronto.)
-
----
+- The system is ready for testing.
+  (O sistema está pronto para testes.)
 
 ### be available
 
-The database is available.
-
-(O banco de dados está disponível.)
-
----
-
-### be online
-
-The server is online.
-
-(O servidor está online.)
-
----
+- The support team is available today.
+  (A equipe de suporte está disponível hoje.)
 
 ### be responsible for
 
-She is responsible for the project.
+- She is responsible for the project.
+  (Ela é responsável pelo projeto.)
 
-(Ela é responsável pelo projeto.)
+### be on time
 
----
+- Please be on time for the meeting.
+  (Por favor, esteja no horário para a reunião.)
 
-## Expressões comuns (Common Expressions)
+## Expressões comuns
 
-### be able to
-
-I am able to solve the problem.
-
-(Eu sou capaz de resolver o problema.)
-
----
-
-### be sure
-
-Be sure to save your work.
-
-(Certifique-se de salvar seu trabalho.)
-
----
-
-### be about to
-
-I am about to leave.
-
-(Eu estou prestes a sair.)
-
----
+- be on time
+- be careful
+- be ready
+- be responsible for
+- be in trouble
 
 ## Erros comuns
 
@@ -369,26 +285,28 @@ I am about to leave.
 
 ✔ I agree.
 
----
-
-❌ He is know the answer.
-
-✔ He knows the answer.
+**Agree** é um verbo principal e não usa **be** antes.
 
 ---
 
-❌ I am developer.
+❌ He is have a problem.
 
-✔ I am a developer.
+✔ He has a problem.
+
+✔ He is having a problem.
+
+Não se usa **be + verbo base**.
 
 ---
+
+❌ I am work today.
+
+✔ I am working today.
+
+Após **be**, usa-se a forma em **-ING** nos tempos contínuos.
 
 ## Observações importantes
 
-- **be** é o verbo mais importante e mais utilizado da língua inglesa.
-- É **irregular** e possui formas próprias: **am, is, are, was, were, been** e **being**.
-- É utilizado para indicar identidade, profissão, estado, localização, idade e características.
-- É o verbo auxiliar dos **tempos contínuos** (*be + verbo + ING*).
-- Também é o verbo auxiliar da **voz passiva** (*be + particípio*).
-- A construção **there is / there are** utiliza o verbo **be** para indicar existência.
-- Em TI aparece praticamente em toda documentação: **is available**, **is running**, **is connected**, **is enabled**, **is required**, **is supported**, **is installed**, entre inúmeras outras expressões.
+- **Be** é o verbo mais importante da língua inglesa e um dos mais usados em praticamente todas as frases.
+- É um verbo altamente irregular e suas formas devem ser memorizadas: am, is, are, was, were, been e being.
+- Além de significar "ser" e "estar", ele é fundamental para formar tempos contínuos e a voz passiva.

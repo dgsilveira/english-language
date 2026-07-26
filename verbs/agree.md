@@ -1,73 +1,64 @@
-# Agree
+## Verbo: AGREE
 
-## Informações gerais
-
-**SIGNIFICADO(S):**
-
+### Traduções principais
 - concordar
-- aceitar uma ideia
 - estar de acordo
 
-**CEFR:** A2
+### Informações gerais
 
-**Relevância para TI:** Muito usado
+**Outras traduções**
+- aceitar uma opinião
+- combinar
+- consentir
 
-**Conjugação:** Regular
+#### Palavras da mesma família
 
----
+- agreement → acordo
+- agreeable → agradável
+- disagreement → desacordo
+- agreed → combinado
+- agreeing → concordando
 
-## Pronúncia (AFI – IPA)
+#### CEFR
+- A2
 
-- **Presente:** agree → /əˈɡriː/
-- **Presente (3ª pessoa):** agrees → /əˈɡriːz/
-- **Passado:** agreed → /əˈɡriːd/
-- **Particípio:** agreed → /əˈɡriːd/
+#### Relevância para TI
+- Usado
 
----
+#### Tipo de verbo
+- Regular
 
-## Phrasal verbs
+### Pronúncia (IPA – General American)
 
-O verbo **agree** não possui phrasal verbs muito comuns ou relevantes.
+- Presente: **agree** → /əˈɡriː/
+- Presente (3ª pessoa): **agrees** → /əˈɡriz/
+- Passado: **agreed** → /əˈɡrid/
+- Particípio: **agreed** → /əˈɡrid/
+- Forma em **-ING**: **agreeing** → /əˈɡriːɪŋ/
 
----
+### Phrasal verbs
 
-## Forma em -ING
+Não existem phrasal verbs muito relevantes derivados diretamente de **agree**.
+
+### Forma em -ING
 
 **agree → agreeing**
 
-O verbo apenas recebe **-ing**, sem alterações ortográficas.
+O verbo apenas recebe **-ING**.
 
-**Exemplos:**
+- agree → agreeing
 
-- We are agreeing on the details.
-  - (Nós estamos concordando sobre os detalhes.)
+A pronúncia pode ser um pouco difícil porque há duas vogais consecutivas.
 
-- They are agreeing with each other.
-  - (Eles estão concordando um com o outro.)
+- agreeing → /əˈɡriːɪŋ/
 
-> **Observação:** o Present Continuous com **agree** existe, mas é menos frequente do que o Simple Present.
+Exemplos:
 
----
+- We are agreeing on the final version.
+  (Estamos concordando com a versão final.)
 
-## Palavras da mesma família (Word Family)
-
-- agree
-- agrees
-- agreed
-- agreeing
-- agreement (acordo)
-- agreeable (agradável; disposto a concordar)
-- disagreement (desacordo)
-
----
-
-## SIGNIFICADO(S)
-
-- concordar
-- aceitar uma ideia
-- estar de acordo
-
----
+- They are agreeing to the proposal.
+  (Eles estão concordando com a proposta.)
 
 ## Frases (tempo verbal)
 
@@ -77,257 +68,213 @@ I agree with you.
 
 (Eu concordo com você.)
 
----
-
 ### Presente (3ª pessoa)
 
-She agrees with the plan.
+She agrees with the decision.
 
-(Ela concorda com o plano.)
-
----
+(Ela concorda com a decisão.)
 
 ### Passado
 
-I agreed yesterday.
+I agreed to the change.
 
-(Eu concordei ontem.)
-
----
+(Eu concordei com a mudança.)
 
 ### Futuro
 
-I will agree if it's fair.
+I will agree if the plan is reasonable.
 
-(Eu concordarei se for justo.)
-
----
+(Eu concordarei se o plano for razoável.)
 
 ### Particípio (Present Perfect)
 
-I have agreed already.
+I have agreed to the proposal.
 
-(Eu já concordei.)
-
----
+(Eu concordei com a proposta.)
 
 ## Estruturas importantes
 
 ### Estrutura principal
 
-**agree with + pessoa / opinião**
+**agree with + pessoa/opinião**
 
-**Exemplos:**
+Usado para concordar com alguém ou com uma ideia.
+
+Exemplos:
 
 - I agree with you.
-  - (Eu concordo com você.)
+  (Eu concordo com você.)
 
-- She agrees with her manager.
-  - (Ela concorda com o gerente.)
+- She agrees with the manager.
+  (Ela concorda com o gerente.)
 
-- We all agree with this decision.
-  - (Todos nós concordamos com essa decisão.)
-
----
+- We agree with this approach.
+  (Nós concordamos com esta abordagem.)
 
 ### Outras formas comuns
 
-**agree on + assunto**
+#### agree to + substantivo
 
-**Exemplos:**
+Usado para aceitar uma proposta, plano ou condição.
 
-- We agreed on the price.
-  - (Nós concordamos com o preço.)
+- I agreed to the proposal.
+  (Eu concordei com a proposta.)
 
-- They agreed on the schedule.
-  - (Eles concordaram com o cronograma.)
+- They agreed to the changes.
+  (Eles concordaram com as mudanças.)
 
-- Let's agree on the requirements.
-  - (Vamos entrar em acordo sobre os requisitos.)
+- We agreed to the contract.
+  (Nós concordamos com o contrato.)
 
----
+#### agree to + infinitivo
 
-**agree that + oração**
+Usado para aceitar fazer alguma ação.
 
-**Exemplos:**
+- She agreed to help us.
+  (Ela concordou em nos ajudar.)
 
-- We agree that this is the best option.
-  - (Nós concordamos que esta é a melhor opção.)
+- I agreed to review the code.
+  (Eu concordei em revisar o código.)
 
-- I agree that we need more tests.
-  - (Eu concordo que precisamos de mais testes.)
+- They agreed to participate.
+  (Eles concordaram em participar.)
 
-- They agreed that the project was ready.
-  - (Eles concordaram que o projeto estava pronto.)
+#### agree on + assunto
 
----
+Usado quando pessoas chegam a um consenso sobre algo.
 
-**agree to + substantivo**
+- We agreed on the schedule.
+  (Nós concordamos com o cronograma.)
 
-**Exemplos:**
-
-- She agreed to the proposal.
-  - (Ela concordou com a proposta.)
-
-- We agreed to the terms.
-  - (Nós concordamos com os termos.)
-
-- They agreed to the contract.
-  - (Eles concordaram com o contrato.)
-
----
+- The team agreed on a solution.
+  (A equipe concordou com uma solução.)
 
 ## Uso com outros verbos
 
-### Usa ING?
+### Usa -ING?
 
-✔ **Não**
+- ✔ Não
 
-O verbo **agree** normalmente **não** é seguido por outro verbo no gerúndio.
-
----
-
-### Usa TO + infinitivo?
-
-✔ **Sim**
-
-Utiliza-se **agree to + verbo** para indicar que alguém concorda em realizar uma ação.
-
-**Exemplos:**
-
-- I agree to help.
-  - (Eu concordo em ajudar.)
-
-- She agreed to join the meeting.
-  - (Ela concordou em participar da reunião.)
-
-- They agreed to work together.
-  - (Eles concordaram em trabalhar juntos.)
-
----
-
-### Preposição obrigatória
-
-As preposições mais comuns são:
-
-- **agree with** → pessoa, opinião
-- **agree on** → assunto
-- **agree to** → proposta, contrato ou ação
-
-**Exemplos:**
-
-- I agree with you.
-  - (Eu concordo com você.)
-
-- We agreed on the solution.
-  - (Nós concordamos com a solução.)
-
-- She agreed to help us.
-  - (Ela concordou em nos ajudar.)
-
----
-
-## Frases extras (uso real)
-
-- We all agree.
-  - (Todos nós concordamos.)
-
-- Do you agree with me?
-  - (Você concorda comigo?)
-
-- I totally agree.
-  - (Eu concordo totalmente.)
-
-- They agreed on a solution.
-  - (Eles concordaram com uma solução.)
-
-- The team agreed to deploy the update.
-  - (A equipe concordou em implantar a atualização.)
-
----
-
-## Combinações mais comuns (Collocations)
-
-### agree with someone
-
-I agree with my manager.
-
-(Eu concordo com o meu gerente.)
-
----
-
-### agree on a solution
-
-We agreed on a solution.
-
-(Nós concordamos com uma solução.)
-
----
-
-### agree to help
-
-She agreed to help us.
-
-(Ela concordou em nos ajudar.)
-
----
-
-### agree to the terms
-
-They agreed to the terms.
-
-(Eles concordaram com os termos.)
-
----
-
-### fully agree
-
-I fully agree with your idea.
-
-(Eu concordo totalmente com sua ideia.)
-
----
-
-## Expressões comuns (Common Expressions)
-
-### agree with someone
-
-I completely agree with you.
-
-(Eu concordo completamente com você.)
-
----
-
-### agree to disagree
-
-We agreed to disagree.
-
-(Nós concordamos em discordar.)
-
----
-
-## Erros comuns
-
-❌ I agree you.
-
-✔ I agree with you.
-
----
-
-❌ We agreed the price.
-
-✔ We agreed on the price.
-
----
+Normalmente **agree** não é seguido diretamente por um verbo em **-ING**.
 
 ❌ I agree helping you.
 
 ✔ I agree to help you.
 
+### Usa TO + infinitivo?
+
+- ✔ Sim
+
+Essa é uma das estruturas mais importantes do verbo.
+
+Exemplos:
+
+- I agree to help.
+  (Eu concordo em ajudar.)
+
+- She agreed to participate.
+  (Ela concordou em participar.)
+
+- We agreed to update the system.
+  (Nós concordamos em atualizar o sistema.)
+
+### Preposição obrigatória?
+
+As três preposições mais importantes são:
+
+- with
+- to
+- on
+
+Exemplos:
+
+- I agree with you.
+  (Eu concordo com você.)
+
+- We agreed to the proposal.
+  (Nós concordamos com a proposta.)
+
+- They agreed on the solution.
+  (Eles chegaram a um acordo sobre a solução.)
+
+## Frases extras (uso real)
+
+- I completely agree with your idea.
+  (Eu concordo completamente com sua ideia.)
+
+- The developers agreed on the architecture.
+  (Os desenvolvedores concordaram com a arquitetura.)
+
+- She agreed to test the application.
+  (Ela concordou em testar a aplicação.)
+
+- We all agree that security is important.
+  (Todos nós concordamos que segurança é importante.)
+
+- The client agreed to the new deadline.
+  (O cliente concordou com o novo prazo.)
+
+## Combinações mais comuns (Collocations)
+
+### agree with someone
+
+- I agree with the project manager.
+  (Eu concordo com o gerente do projeto.)
+
+### agree to a proposal
+
+- They agreed to the proposal immediately.
+  (Eles concordaram com a proposta imediatamente.)
+
+### agree on a solution
+
+- The team agreed on a solution.
+  (A equipe concordou com uma solução.)
+
+### fully agree
+
+- I fully agree with your assessment.
+  (Eu concordo totalmente com sua avaliação.)
+
+### mutually agree
+
+- Both parties mutually agreed on the terms.
+  (Ambas as partes concordaram mutuamente com os termos.)
+
+## Expressões comuns
+
+- agree with someone
+- agree on something
+- agree to disagree
+- fully agree
+- couldn't agree more
+
+## Erros comuns
+
+❌ I agree with do that.
+
+✔ I agree to do that.
+
+Após **agree**, usa-se normalmente **to + infinitive** quando há uma ação.
+
 ---
+
+❌ I agree the proposal.
+
+✔ I agree to the proposal.
+
+Quando o objeto é uma proposta, contrato ou plano, normalmente utiliza-se **to**.
+
+---
+
+❌ I agree in you.
+
+✔ I agree with you.
+
+A preposição correta para pessoas e opiniões é **with**.
 
 ## Observações importantes
 
-- **agree with** é usado para pessoas, opiniões e ideias.
-- **agree on** é usado para assuntos, decisões e detalhes discutidos entre pessoas.
-- **agree** é extremamente comum em reuniões, negociações, code reviews, definição de requisitos e discussões técnicas no ambiente de desenvolvimento de software.
+- A estrutura mais importante para memorizar é **agree with someone**.
+- **Agree to** significa aceitar uma proposta, condição ou ação.
+- **Agree on** é usado quando duas ou mais pessoas chegam a um consenso sobre algo.

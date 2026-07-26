@@ -1,92 +1,101 @@
-# Bring
+## Verbo: BRING
 
-## Informações gerais
+### Traduções principais
+- trazer
+- levar (dependendo da perspectiva do falante)
 
-**CEFR:** A1
+### Informações gerais
 
-**Relevância para TI:** Usado
+**Outras traduções**
+- carregar
+- apresentar
+- causar
+- gerar
 
-**Regular ou irregular?** Irregular
+#### Palavras da mesma família
 
----
+- bringing → trazendo
+- brought → trouxe
+- bringer → portador
+- upbringing → criação (de uma criança)
+- brought-up → criado / educado
 
-## Pronúncia (AFI – IPA)
+#### CEFR
+- A1
 
-- **Presente:** bring → /brɪŋ/
-- **Presente (3ª pessoa):** brings → /brɪŋz/
-- **Passado:** brought → /brɔt/
-- **Particípio:** brought → /brɔt/
+#### Relevância para TI
+- Muito usado
 
----
+#### Tipo de verbo
+- Irregular
 
-## Phrasal verbs relacionados
+### Pronúncia (IPA – General American)
 
-- bring about
-- bring back
-- bring down
-- bring in
-- bring on
-- bring out
+- Presente: **bring** → /brɪŋ/
+- Presente (3ª pessoa): **brings** → /brɪŋz/
+- Passado: **brought** → /brɔt/
+- Particípio: **brought** → /brɔt/
+- Forma em **-ING**: **bringing** → /ˈbrɪŋɪŋ/
+
+### Phrasal verbs
+
 - bring up
-- bring together
+- bring back
+- bring in
+- bring out
+- bring about
 
----
-
-## Forma do -ING
+### Forma em -ING
 
 **bring → bringing**
 
-O verbo apenas acrescenta **-ing**, sem alterações na escrita.
+O verbo apenas recebe **-ING**.
 
-**Exemplos:**
+- bring → bringing
 
-- bringing food
-- bringing documents
-- bringing new ideas
+Pronúncia:
 
----
+- bringing → /ˈbrɪŋɪŋ/
 
-## Significados
+Exemplos:
 
-- trazer
-- levar consigo
-- causar (em alguns contextos)
+- I am bringing my laptop.
+  (Estou trazendo meu notebook.)
 
----
+- She is bringing new ideas.
+  (Ela está trazendo novas ideias.)
 
 ## Frases (tempo verbal)
 
 ### Presente (1ª pessoa)
 
-I bring my laptop to work.
+I bring my laptop to work every day.
 
-(Eu trago meu notebook para o trabalho.)
+(Eu trago meu notebook para o trabalho todos os dias.)
 
 ### Presente (3ª pessoa)
 
-She brings coffee every morning.
+She brings useful suggestions.
 
-(Ela traz café todas as manhãs.)
+(Ela traz sugestões úteis.)
 
 ### Passado
 
-I brought my charger.
+I brought the documents yesterday.
 
-(Eu trouxe meu carregador.)
+(Eu trouxe os documentos ontem.)
 
 ### Futuro
 
-I will bring the documents.
+I will bring the report tomorrow.
 
-(Eu trarei os documentos.)
+(Eu trarei o relatório amanhã.)
 
 ### Particípio (Present Perfect)
 
-I have brought everything.
+I have brought all the required files.
 
-(Eu trouxe tudo.)
-
----
+(Eu trouxe todos os arquivos necessários.)
 
 ## Estruturas importantes
 
@@ -94,160 +103,183 @@ I have brought everything.
 
 **bring + objeto**
 
-**Exemplos:**
+Exemplos:
 
-- Bring your ID.
-  (Traga seu documento.)
+- Bring your notebook.
+  (Traga seu notebook.)
 
-- Please bring your laptop.
-  (Por favor, traga seu notebook.)
+- I brought the report.
+  (Eu trouxe o relatório.)
 
-- He brought some snacks.
-  (Ele trouxe alguns lanches.)
+- She brings good ideas.
+  (Ela traz boas ideias.)
 
 ### Outras formas comuns
 
 #### bring + objeto + to + lugar/pessoa
 
-**Exemplos:**
+Usado para levar ou trazer algo para alguém ou algum lugar.
 
-- Bring the files to me.
-  (Traga os arquivos para mim.)
+- Bring the file to me.
+  (Traga o arquivo para mim.)
 
 - She brought the package to the office.
-  (Ela levou o pacote ao escritório.)
+  (Ela trouxe o pacote para o escritório.)
 
-- Please bring the report to the meeting.
-  (Traga o relatório para a reunião.)
+- We brought the report to the meeting.
+  (Nós levamos o relatório para a reunião.)
 
-#### bring + pessoa + objeto
+#### bring + resultado
 
-**Exemplos:**
+Usado para indicar consequência.
 
-- Bring me some water.
-  (Traga um pouco de água para mim.)
+- This update brought improvements.
+  (Esta atualização trouxe melhorias.)
 
-- He brought us good news.
-  (Ele nos trouxe boas notícias.)
+- The change brought new problems.
+  (A mudança trouxe novos problemas.)
 
-- Can you bring me the manual?
-  (Você pode me trazer o manual?)
+- The project brought positive results.
+  (O projeto trouxe resultados positivos.)
 
----
+#### bring + someone + something
+
+- She brought me a coffee.
+  (Ela me trouxe um café.)
+
+- He brought us the information.
+  (Ele nos trouxe a informação.)
+
+- They brought the team good news.
+  (Eles trouxeram boas notícias para a equipe.)
 
 ## Uso com outros verbos
 
-### Usa ING?
+### Usa -ING?
 
-✔ Não
+- ✔ Sim
 
-O verbo normalmente não é seguido diretamente por outro verbo em **-ing**.
+Principalmente após preposições.
+
+Exemplos:
+
+- Thank you for bringing the documents.
+  (Obrigado por trazer os documentos.)
+
+- She is responsible for bringing the equipment.
+  (Ela é responsável por trazer os equipamentos.)
 
 ### Usa TO + infinitivo?
 
-✔ Não
+- ✔ Não
 
-O verbo normalmente é seguido por um objeto, e não por **to + infinitivo**.
+Normalmente **bring** não é seguido diretamente por **to + infinitive**.
 
----
+❌ I brought to help.
 
-## Preposição obrigatória?
+✔ I came to help.
 
-✔ Não possui.
+✔ I brought the tools to help.
 
-Dependendo da estrutura, pode aparecer com:
+### Preposição obrigatória?
 
-- to
-- into
-- back
-- up
-- about
-- in
-- out
-- down
+Não possui preposição obrigatória.
 
-Algumas dessas combinações formam phrasal verbs.
+As combinações mais comuns são:
 
----
+- bring to
+- bring into
+- bring from
+
+Exemplos:
+
+- Bring the file to the meeting.
+  (Traga o arquivo para a reunião.)
+
+- We brought the data into the system.
+  (Inserimos os dados no sistema.)
+
+- She brought the equipment from home.
+  (Ela trouxe o equipamento de casa.)
 
 ## Frases extras (uso real)
 
-- Please bring your passport.
-  (Por favor, traga seu passaporte.)
+- Please bring your ID to the office.
+  (Por favor, traga seu documento para o escritório.)
 
-- Can you bring the cable?
-  (Você pode trazer o cabo?)
+- The update brought better performance.
+  (A atualização trouxe melhor desempenho.)
 
-- The update brought new features.
-  (A atualização trouxe novos recursos.)
+- Can you bring the laptop tomorrow?
+  (Você pode trazer o notebook amanhã?)
 
-- This change brings better performance.
-  (Esta mudança traz um desempenho melhor.)
+- The new feature brought several benefits.
+  (O novo recurso trouxe vários benefícios.)
 
-- The meeting brought many good ideas.
-  (A reunião trouxe muitas boas ideias.)
-
----
+- The developer brought valuable feedback.
+  (O desenvolvedor trouxe um feedback valioso.)
 
 ## Combinações mais comuns (Collocations)
 
-### bring a friend
+### bring a file
 
-Bring a friend to the event.
+- Please bring a file for review.
+  (Por favor, traga um arquivo para revisão.)
 
-(Traga um amigo para o evento.)
+### bring results
 
-### bring your laptop
+- The new strategy brought good results.
+  (A nova estratégia trouxe bons resultados.)
 
-Please bring your laptop.
+### bring changes
 
-(Por favor, traga seu notebook.)
+- The update brought significant changes.
+  (A atualização trouxe mudanças significativas.)
 
-### bring good news
+### bring benefits
 
-She brought good news.
+- Automation brings many benefits.
+  (A automação traz muitos benefícios.)
 
-(Ela trouxe boas notícias.)
+### bring information
 
-### bring new ideas
+- The analyst brought important information.
+  (O analista trouxe informações importantes.)
 
-They brought new ideas to the project.
+## Expressões comuns
 
-(Eles trouxeram novas ideias para o projeto.)
-
-### bring the documents
-
-Bring the documents tomorrow.
-
-(Traga os documentos amanhã.)
-
----
+- bring up a topic
+- bring back memories
+- bring good news
+- bring to life
+- bring about change
 
 ## Erros comuns
 
-❌ I brung my laptop.
+❌ I have bring the report.
 
-✔ I brought my laptop.
+✔ I have brought the report.
 
----
-
-❌ I have bring the files.
-
-✔ I have brought the files.
+No Present Perfect, utiliza-se o particípio **brought**.
 
 ---
 
-❌ Please take your laptop here.
+❌ Yesterday I bring the documents.
 
-✔ Please bring your laptop here.
+✔ Yesterday I brought the documents.
 
-(*Use **bring** quando o movimento é em direção ao local do falante; use **take** quando é para longe dele.*)
+No passado simples, utiliza-se **brought**.
 
 ---
+
+❌ Can you take the report here?
+
+✔ Can you bring the report here?
+
+Quando algo vem em direção ao falante, normalmente usa-se **bring**, não **take**.
 
 ## Observações importantes
 
-- **bring** é um verbo **irregular**: **bring → brought → brought**.
-- Não confunda **bring** (trazer) com **take** (levar). A diferença depende da direção do movimento.
-- É um verbo extremamente comum na conversação e no ambiente de trabalho.
-- Em TI aparece em expressões como **bring new features**, **bring improvements**, **bring data**, **bring changes** e **bring the system online**.
+- As formas irregulares devem ser memorizadas: **bring → brought → brought**.
+- A diferença entre **bring** e **take** depende da perspectiva: **bring** aproxima, **take** afasta.
+- Em TI e negócios, **bring** é muito comum para falar de resultados, melhorias, mudanças e benefícios.

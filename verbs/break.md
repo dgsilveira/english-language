@@ -1,95 +1,101 @@
-# Break
+## Verbo: BREAK
 
-## Informações gerais
+### Traduções principais
+- quebrar
+- romper
 
-**CEFR:** A1
+### Informações gerais
 
-**Relevância para TI:** Usado
+**Outras traduções**
+- partir
+- interromper
+- danificar
+- violar
 
-**Regular ou irregular?** Irregular
+#### Palavras da mesma família
 
----
+- breakage → quebra / dano
+- breakdown → falha / pane
+- breakthrough → avanço / descoberta
+- broken → quebrado
+- breaking → quebrando
 
-## Pronúncia (AFI – IPA)
+#### CEFR
+- A1
 
-- **Presente:** break → /breɪk/
-- **Presente (3ª pessoa):** breaks → /breɪks/
-- **Passado:** broke → /broʊk/
-- **Particípio:** broken → /ˈbroʊkən/
+#### Relevância para TI
+- Muito usado
 
----
+#### Tipo de verbo
+- Irregular
 
-## Phrasal verbs relacionados
+### Pronúncia (IPA – General American)
+
+- Presente: **break** → /breɪk/
+- Presente (3ª pessoa): **breaks** → /breɪks/
+- Passado: **broke** → /broʊk/
+- Particípio: **broken** → /ˈbroʊkən/
+- Forma em **-ING**: **breaking** → /ˈbreɪkɪŋ/
+
+### Phrasal verbs
 
 - break down
 - break up
 - break into
 - break out
-- break through
 - break away
-- break off
-- break in
-- break even
 
----
-
-## Forma do -ING
+### Forma em -ING
 
 **break → breaking**
 
-O verbo apenas acrescenta **-ing**, sem alterações na escrita.
+O verbo apenas recebe **-ING**.
 
-**Exemplos:**
+- break → breaking
 
-- breaking the window
-- breaking the rules
-- breaking the code
+Pronúncia:
 
----
+- breaking → /ˈbreɪkɪŋ/
 
-## Significados
+Exemplos:
 
-- quebrar
-- partir
-- interromper
-- romper
-- violar (regras, leis)
+- The system is breaking under pressure.
+  (O sistema está falhando sob pressão.)
 
----
+- Someone is breaking the rules.
+  (Alguém está quebrando as regras.)
 
 ## Frases (tempo verbal)
 
 ### Presente (1ª pessoa)
 
-I break the glass.
+I break large tasks into smaller ones.
 
-(Eu quebro o vidro.)
+(Eu divido tarefas grandes em tarefas menores.)
 
 ### Presente (3ª pessoa)
 
-She breaks the rules.
+She breaks company rules.
 
-(Ela quebra as regras.)
+(Ela quebra as regras da empresa.)
 
 ### Passado
 
-I broke my phone.
+I broke my phone yesterday.
 
-(Eu quebrei meu celular.)
+(Eu quebrei meu telefone ontem.)
 
 ### Futuro
 
-I will break the record.
+I will break the process into steps.
 
-(Eu vou quebrar o recorde.)
+(Eu dividirei o processo em etapas.)
 
 ### Particípio (Present Perfect)
 
-I have broken my glasses.
+I have broken the old habit.
 
-(Eu quebrei meus óculos.)
-
----
+(Eu abandonei o velho hábito.)
 
 ## Estruturas importantes
 
@@ -97,169 +103,183 @@ I have broken my glasses.
 
 **break + objeto**
 
-**Exemplos:**
+Exemplos:
 
-- Don't break the window.
-  (Não quebre a janela.)
+- Don't break the glass.
+  (Não quebre o vidro.)
 
-- He broke the chair.
-  (Ele quebrou a cadeira.)
+- He broke the rule.
+  (Ele quebrou a regra.)
 
-- Someone broke the lock.
-  (Alguém quebrou a fechadura.)
+- The update broke the application.
+  (A atualização quebrou a aplicação.)
 
 ### Outras formas comuns
 
-#### break + regra/lei/promessa
+#### break + objeto + into + partes
 
-**Exemplos:**
+Usado para dividir algo.
 
-- Don't break the rules.
-  (Não quebre as regras.)
+- Break the project into phases.
+  (Divida o projeto em fases.)
+
+- We broke the task into steps.
+  (Dividimos a tarefa em etapas.)
+
+- She broke the problem into smaller parts.
+  (Ela dividiu o problema em partes menores.)
+
+#### break a rule/law
+
+- He broke the rule.
+  (Ele quebrou a regra.)
+
+- They broke company policy.
+  (Eles violaram a política da empresa.)
+
+- Someone broke the agreement.
+  (Alguém rompeu o acordo.)
+
+#### break something
+
+Usado para causar falha ou dano.
+
+- The update broke the API.
+  (A atualização quebrou a API.)
+
+- The change broke the system.
+  (A alteração quebrou o sistema.)
+
+- The bug broke the application.
+  (O bug quebrou a aplicação.)
+
+## Uso com outros verbos
+
+### Usa -ING?
+
+- ✔ Sim
+
+Principalmente após preposições.
+
+Exemplos:
+
+- He was punished for breaking the rules.
+  (Ele foi punido por quebrar as regras.)
+
+- Avoid breaking existing functionality.
+  (Evite quebrar funcionalidades existentes.)
+
+### Usa TO + infinitivo?
+
+- ✔ Não
+
+Normalmente não é seguido diretamente por **to + infinitive**.
+
+❌ I broke to fix the system.
+
+✔ I broke the system.
+
+✔ I stopped to fix the system.
+
+### Preposição obrigatória?
+
+Não possui preposição obrigatória.
+
+Algumas combinações comuns:
+
+- break into
+- break with
+- break from
+
+Exemplos:
+
+- Break the project into stages.
+  (Divida o projeto em etapas.)
+
+- He broke with tradition.
+  (Ele rompeu com a tradição.)
+
+- The company broke from its old strategy.
+  (A empresa abandonou sua estratégia antiga.)
+
+## Frases extras (uso real)
+
+- The latest update broke the login page.
+  (A última atualização quebrou a página de login.)
+
+- Don't break backward compatibility.
+  (Não quebre a compatibilidade com versões anteriores.)
+
+- The developer accidentally broke the build.
+  (O desenvolvedor quebrou a compilação acidentalmente.)
+
+- We need to break the problem into smaller tasks.
+  (Precisamos dividir o problema em tarefas menores.)
+
+- A configuration error broke the service.
+  (Um erro de configuração derrubou o serviço.)
+
+## Combinações mais comuns (Collocations)
+
+### break a rule
+
+- The employee broke a company rule.
+  (O funcionário quebrou uma regra da empresa.)
+
+### break a promise
 
 - He broke his promise.
   (Ele quebrou sua promessa.)
 
-- They broke the law.
-  (Eles infringiram a lei.)
+### break the law
 
-#### break into + lugar
+- Nobody is allowed to break the law.
+  (Ninguém tem permissão para violar a lei.)
 
-**Exemplos:**
+### break the build
 
-- Someone broke into the house.
-  (Alguém invadiu a casa.)
-
-- Hackers broke into the system.
-  (Hackers invadiram o sistema.)
-
-#### break down
-
-**Exemplos:**
-
-- My car broke down.
-  (Meu carro quebrou.)
-
-- The server broke down.
-  (O servidor parou de funcionar.)
-
----
-
-## Uso com outros verbos
-
-### Usa ING?
-
-✔ Sim
-
-Pode ser seguido por um verbo em **-ing** em algumas estruturas.
-
-**Exemplo:**
-
-- He broke the habit of smoking.
-  (Ele abandonou o hábito de fumar.)
-
-> O uso é pouco frequente. Normalmente **break** é seguido por um substantivo.
-
-### Usa TO + infinitivo?
-
-✔ Não
-
-O verbo **break** normalmente não é seguido diretamente por **to + infinitivo**.
-
----
-
-## Preposição obrigatória
-
-✔ Não possui.
-
-Dependendo da expressão, pode aparecer com diversas preposições:
-
-- break into
-- break down
-- break off
-- break away
-- break from
-
-Cada uma forma um phrasal verb com significado próprio.
-
----
-
-## Frases extras (uso real)
-
-- Be careful not to break it.
-  (Tenha cuidado para não quebrá-lo.)
-
-- The application broke after the update.
-  (O aplicativo parou de funcionar após a atualização.)
-
-- The server broke during the deployment.
-  (O servidor falhou durante a implantação.)
-
-- Don't break the API contract.
-  (Não quebre o contrato da API.)
-
-- The connection broke unexpectedly.
-  (A conexão foi interrompida inesperadamente.)
-
----
-
-## Combinações mais comuns (Collocations)
-
-### break the rules
-
-Don't break the rules.
-
-(Não quebre as regras.)
-
-### break a promise
-
-He broke his promise.
-
-(Ele quebrou sua promessa.)
-
-### break the code
-
-The developer broke the code.
-
-(O desenvolvedor quebrou o código.)
-
-### break the connection
-
-The firewall broke the connection.
-
-(O firewall interrompeu a conexão.)
+- A recent commit broke the build.
+  (Um commit recente quebrou a compilação.)
 
 ### break the system
 
-The update broke the system.
+- The update could break the system.
+  (A atualização pode quebrar o sistema.)
 
-(A atualização quebrou o sistema.)
+## Expressões comuns
 
----
+- break the ice
+- break a promise
+- break the rules
+- break the law
+- break the build
 
 ## Erros comuns
 
-❌ I breaked my phone.
+❌ I have broke the application.
 
-✔ I broke my phone.
+✔ I have broken the application.
 
----
-
-❌ I have broke the window.
-
-✔ I have broken the window.
+No Present Perfect, utiliza-se o particípio **broken**.
 
 ---
 
-❌ The server is break.
+❌ The update has break the API.
 
-✔ The server is broken.
+✔ The update has broken the API.
+
+Após **has/have**, utiliza-se o particípio.
 
 ---
+
+❌ Yesterday I broken the system.
+
+✔ Yesterday I broke the system.
+
+No passado simples, utiliza-se **broke**.
 
 ## Observações importantes
 
-- **break** é um verbo **irregular**: **break → broke → broken**.
-- O particípio **broken** também é muito usado como adjetivo (*a broken link*, *a broken window*).
-- Em TI, **break** aparece frequentemente com o sentido de **parar de funcionar**, **quebrar uma funcionalidade** ou **violar compatibilidade** (*break the build*, *break the API*, *breaking change*).
-- É a base de diversos phrasal verbs extremamente comuns, especialmente **break down**, **break into**, **break up** e **break through**.
+- As formas irregulares devem ser memorizadas: **break → broke → broken**.
+- Em TI, **break** é frequentemente usado para indicar que algo deixou de funcionar após uma alteração.
+- A expressão **break the build** é extremamente comum em equipes de desenvolvimento de software.

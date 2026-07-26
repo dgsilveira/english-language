@@ -1,71 +1,63 @@
-# Become
+## Verbo: BECOME
 
-## Informações gerais
-
-**SIGNIFICADO(S):**
-
+### Traduções principais
 - tornar-se
 - virar
+
+### Informações gerais
+
+**Outras traduções**
+- transformar-se em
 - passar a ser
+- converter-se em
 
-**CEFR:** A2
+#### Palavras da mesma família
 
-**Relevância para TI:** Usado
+- becoming → tornando-se
+- became → tornou-se
+- become (particípio) → tornado-se
+- becomingly → adequadamente (pouco comum)
 
-**Conjugação:** Irregular
+#### CEFR
+- A2
 
----
+#### Relevância para TI
+- Usado
 
-## Pronúncia (AFI – IPA)
+#### Tipo de verbo
+- Irregular
 
-- **Presente:** become → /bɪˈkʌm/
-- **Presente (3ª pessoa):** becomes → /bɪˈkʌmz/
-- **Passado:** became → /bɪˈkeɪm/
-- **Particípio:** become → /bɪˈkʌm/
+### Pronúncia (IPA – General American)
 
----
+- Presente: **become** → /bɪˈkʌm/
+- Presente (3ª pessoa): **becomes** → /bɪˈkʌmz/
+- Passado: **became** → /bɪˈkeɪm/
+- Particípio: **become** → /bɪˈkʌm/
+- Forma em **-ING**: **becoming** → /bɪˈkʌmɪŋ/
 
-## Phrasal verbs
+### Phrasal verbs
 
-**become** é o verbo de origem.
+Não existem phrasal verbs muito relevantes derivados diretamente de **become**.
 
-Não possui phrasal verbs relevantes de uso frequente.
-
----
-
-## Forma em -ING
+### Forma em -ING
 
 **become → becoming**
 
-O verbo perde a letra **e** final antes de receber **-ing**.
+O verbo apenas recebe **-ING**.
 
-**Exemplos:**
+- become → becoming
 
-- I am becoming more confident.
-  - (Estou me tornando mais confiante.)
+Pronúncia:
 
-- The application is becoming faster.
-  - (O aplicativo está ficando mais rápido.)
+- becoming → /bɪˈkʌmɪŋ/
 
----
+Exemplos:
 
-## Palavras da mesma família (Word Family)
+- The application is becoming popular.
+  (A aplicação está se tornando popular.)
 
-- become
-- becomes
-- became
-- become
-- becoming
-
----
-
-## SIGNIFICADO(S)
-
-- tornar-se
-- virar
-- passar a ser
-
----
+- Security is becoming more important.
+  (A segurança está se tornando mais importante.)
 
 ## Frases (tempo verbal)
 
@@ -75,23 +67,17 @@ I become more confident every day.
 
 (Eu me torno mais confiante a cada dia.)
 
----
-
 ### Presente (3ª pessoa)
 
-She becomes nervous before presentations.
+She becomes more efficient with practice.
 
-(Ela fica nervosa antes das apresentações.)
-
----
+(Ela se torna mais eficiente com a prática.)
 
 ### Passado
 
-He became a doctor.
+I became interested in programming.
 
-(Ele se tornou médico.)
-
----
+(Eu me interessei por programação.)
 
 ### Futuro
 
@@ -99,15 +85,11 @@ I will become a better developer.
 
 (Eu me tornarei um desenvolvedor melhor.)
 
----
-
 ### Particípio (Present Perfect)
 
-I have become more patient.
+I have become more productive.
 
-(Eu me tornei mais paciente.)
-
----
+(Eu me tornei mais produtivo.)
 
 ## Estruturas importantes
 
@@ -115,191 +97,184 @@ I have become more patient.
 
 **become + adjetivo**
 
-**Exemplos:**
+Exemplos:
 
-- The weather became cold.
-  - (O tempo ficou frio.)
+- The code became simpler.
+  (O código ficou mais simples.)
 
-- She became famous.
-  - (Ela se tornou famosa.)
+- The server became unstable.
+  (O servidor ficou instável.)
 
-- The application became slow.
-  - (O aplicativo ficou lento.)
-
----
+- She became confident.
+  (Ela se tornou confiante.)
 
 ### Outras formas comuns
 
 #### become + substantivo
 
-**Exemplos:**
+Usado para indicar transformação ou mudança de status.
 
-- He became a teacher.
-  - (Ele se tornou professor.)
+- He became a manager.
+  (Ele se tornou gerente.)
 
-- She became the team leader.
-  - (Ela se tornou a líder da equipe.)
+- She became a teacher.
+  (Ela se tornou professora.)
 
-- I became a software engineer.
-  - (Eu me tornei engenheiro de software.)
+- I became a developer.
+  (Eu me tornei desenvolvedor.)
 
----
+#### become more + adjetivo
 
-#### become + more + adjetivo
+Muito comum para falar de evolução.
 
-**Exemplos:**
+- The system became more stable.
+  (O sistema ficou mais estável.)
 
-- I'm becoming more confident.
-  - (Estou me tornando mais confiante.)
+- The process became more efficient.
+  (O processo ficou mais eficiente.)
 
-- The code became more efficient.
-  - (O código ficou mais eficiente.)
+- Security became more important.
+  (A segurança se tornou mais importante.)
 
-- The process became more reliable.
-  - (O processo se tornou mais confiável.)
+#### become interested in
 
----
+Expressão muito comum.
+
+- I became interested in English.
+  (Passei a me interessar por inglês.)
+
+- She became interested in technology.
+  (Ela passou a se interessar por tecnologia.)
 
 ## Uso com outros verbos
 
-### Usa ING?
+### Usa -ING?
 
-✔ **Não**
+- ✔ Não
 
-O verbo **become** normalmente não é seguido por outro verbo no gerúndio.
+Normalmente não é seguido diretamente por um verbo em **-ING**.
 
----
+❌ I became working remotely.
+
+✔ I started working remotely.
+
+✔ I became interested in working remotely.
 
 ### Usa TO + infinitivo?
 
-✔ **Não**
+- ✔ Não
 
-Após **become**, normalmente vem um **adjetivo** ou um **substantivo**, e não outro verbo.
+O verbo normalmente não é seguido diretamente por **to + infinitive**.
 
----
+❌ I became to understand.
 
-### Preposição obrigatória
+✔ I began to understand.
 
-✔ **Não possui.**
+✔ I came to understand.
 
-O verbo **become** normalmente é seguido por:
+### Preposição obrigatória?
 
-- adjetivo;
-- substantivo.
+Não possui preposição obrigatória.
 
----
+Algumas combinações comuns incluem:
+
+- become interested in
+- become involved in
+- become familiar with
+
+Exemplos:
+
+- I became interested in programming.
+  (Passei a me interessar por programação.)
+
+- She became familiar with the system.
+  (Ela se familiarizou com o sistema.)
+
+- We became involved in the project.
+  (Nós nos envolvemos no projeto.)
 
 ## Frases extras (uso real)
 
-- The problem became worse.
-  - (O problema ficou pior.)
+- The application became faster after the update.
+  (A aplicação ficou mais rápida após a atualização.)
 
-- Our application became much faster.
-  - (Nosso aplicativo ficou muito mais rápido.)
+- He became the team leader last year.
+  (Ele se tornou o líder da equipe no ano passado.)
 
-- He wants to become a manager.
-  - (Ele quer se tornar gerente.)
+- The issue became more serious.
+  (O problema ficou mais sério.)
 
-- The server became unavailable.
-  - (O servidor ficou indisponível.)
+- Cloud computing has become very common.
+  (A computação em nuvem se tornou muito comum.)
 
-- She became interested in programming.
-  - (Ela passou a se interessar por programação.)
-
----
+- The database became unavailable during maintenance.
+  (O banco de dados ficou indisponível durante a manutenção.)
 
 ## Combinações mais comuns (Collocations)
 
-### become successful
+### become popular
 
-She became successful after years of practice.
-
-(Ela se tornou bem-sucedida após anos de prática.)
-
----
+- The framework became popular among developers.
+  (O framework se tornou popular entre os desenvolvedores.)
 
 ### become available
 
-The update became available yesterday.
+- The new feature became available today.
+  (O novo recurso ficou disponível hoje.)
 
-(A atualização ficou disponível ontem.)
+### become familiar with
 
----
-
-### become difficult
-
-The task became difficult.
-
-(A tarefa ficou difícil.)
-
----
-
-### become popular
-
-The framework became popular very quickly.
-
-(O framework se tornou popular muito rapidamente.)
-
----
-
-### become better
-
-Practice helps you become better.
-
-(A prática ajuda você a se tornar melhor.)
-
----
-
-## Expressões comuns (Common Expressions)
-
-### become aware of
-
-We became aware of the issue.
-
-(Nós tomamos conhecimento do problema.)
-
----
+- New employees become familiar with the system quickly.
+  (Novos funcionários se familiarizam com o sistema rapidamente.)
 
 ### become interested in
 
-She became interested in English.
+- She became interested in cybersecurity.
+  (Ela passou a se interessar por cibersegurança.)
 
-(Ela passou a se interessar por inglês.)
+### become successful
 
----
+- The project became successful after several improvements.
+  (O projeto se tornou bem-sucedido após várias melhorias.)
 
-### become responsible for
+## Expressões comuns
 
-He became responsible for the project.
-
-(Ele passou a ser responsável pelo projeto.)
-
----
+- become available
+- become familiar with
+- become interested in
+- become successful
+- become aware of
 
 ## Erros comuns
 
-❌ I became tiredly.
+❌ I became a developer in last year.
 
-✔ I became tired.
+✔ I became a developer last year.
 
----
-
-❌ He became to be a doctor.
-
-✔ He became a doctor.
+Não se usa **in** antes de *last year*.
 
 ---
 
-❌ The application became to be slow.
+❌ I became to understand the problem.
 
-✔ The application became slow.
+✔ I began to understand the problem.
+
+✔ I came to understand the problem.
+
+**Become** normalmente não é seguido por **to + infinitive**.
 
 ---
+
+❌ The system became more better.
+
+✔ The system became better.
+
+✔ The system became much better.
+
+Não se usa **more** com adjetivos que já estão no comparativo.
 
 ## Observações importantes
 
-- **become** é um verbo **irregular**: **become → became → become**.
-- É usado para indicar uma **mudança de estado, condição, profissão ou característica**.
-- Normalmente é seguido por um **adjetivo** (*become tired*) ou por um **substantivo** (*become a doctor*).
-- Não é comum usar **become + to + verbo** nem **become + verbo + ING**.
-- Em TI aparece frequentemente em documentação e logs: **became available**, **became unavailable**, **became slow**, **became unstable**, **became the default option**.
+- **Become** é usado para indicar transformação, mudança de estado ou evolução.
+- Os padrões mais importantes são **become + adjective** e **become + noun**.
+- Em TI, é muito comum em textos que descrevem mudanças de desempenho, disponibilidade, estabilidade e maturidade de sistemas.

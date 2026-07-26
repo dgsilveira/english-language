@@ -1,237 +1,280 @@
-# Belong
+## Verbo: BELONG
 
-## Informações gerais
+### Traduções principais
+- pertencer
+- fazer parte
 
-**CEFR:** A2
+### Informações gerais
 
-**Relevância para TI:** Pouco usado
+**Outras traduções**
+- ser propriedade de
+- estar no lugar correto
+- integrar um grupo
 
-**Regular ou irregular?** Regular
+#### Palavras da mesma família
 
----
+- belonging → pertencimento
+- belongings → pertences
+- belonged → pertenceu
+- belongingness → sentimento de pertencimento
 
-## Pronúncia (AFI – IPA)
+#### CEFR
+- A2
 
-- **Presente:** belong → /bɪˈlɔːŋ/
-- **Presente (3ª pessoa):** belongs → /bɪˈlɔːŋz/
-- **Passado:** belonged → /bɪˈlɔːŋd/
-- **Particípio:** belonged → /bɪˈlɔːŋd/
+#### Relevância para TI
+- Usado
 
----
+#### Tipo de verbo
+- Regular
 
-## Phrasal verbs relacionados
+### Pronúncia (IPA – General American)
 
-O verbo **belong** não possui phrasal verbs relevantes de uso comum.
+- Presente: **belong** → /bɪˈlɔŋ/
+- Presente (3ª pessoa): **belongs** → /bɪˈlɔŋz/
+- Passado: **belonged** → /bɪˈlɔŋd/
+- Particípio: **belonged** → /bɪˈlɔŋd/
+- Forma em **-ING**: **belonging** → /bɪˈlɔŋɪŋ/
 
----
+### Phrasal verbs
 
-## Forma do -ING
+Não existem phrasal verbs muito relevantes derivados diretamente de **belong**.
+
+### Forma em -ING
 
 **belong → belonging**
 
-O verbo apenas recebe **-ing**, sem alterações na escrita.
+O verbo apenas recebe **-ING**.
 
-**Exemplos:**
+- belong → belonging
 
-- belonging to a group
-- belonging to the company
+Pronúncia:
 
----
+- belonging → /bɪˈlɔŋɪŋ/
 
-## Significados
+Exemplos:
 
-- pertencer
-- fazer parte de
-- ser de (alguém)
+- A sense of belonging is important.
+  (Um sentimento de pertencimento é importante.)
 
----
+- Belonging to a team can be motivating.
+  (Pertencer a uma equipe pode ser motivador.)
 
 ## Frases (tempo verbal)
 
 ### Presente (1ª pessoa)
 
-I belong here.
+I belong to this team.
 
-(Eu pertenço a este lugar.)
+(Eu faço parte desta equipe.)
 
 ### Presente (3ª pessoa)
 
-She belongs to our team.
+She belongs to the marketing department.
 
-(Ela pertence à nossa equipe.)
+(Ela pertence ao departamento de marketing.)
 
 ### Passado
 
-I belonged to that club.
+The account belonged to another user.
 
-(Eu pertencia àquele clube.)
+(A conta pertencia a outro usuário.)
 
 ### Futuro
 
-I will belong to a new department.
+This responsibility will belong to you.
 
-(Eu pertencerei a um novo departamento.)
+(Essa responsabilidade pertencerá a você.)
 
 ### Particípio (Present Perfect)
 
-I have belonged to this organization for years.
+The server has belonged to the company for years.
 
-(Eu pertenço a esta organização há anos. / Eu tenho pertencido a esta organização há anos.)
-
----
+(O servidor pertence à empresa há anos.)
 
 ## Estruturas importantes
 
 ### Estrutura principal
 
-**belong to + pessoa / grupo / organização / lugar**
+**belong to + pessoa/grupo/organização**
 
-**Exemplos:**
+Exemplos:
 
-- This book belongs to me.
-  (Este livro pertence a mim.)
+- This laptop belongs to me.
+  (Este notebook pertence a mim.)
 
-- The laptop belongs to Sarah.
-  (O notebook pertence à Sarah.)
+- The account belongs to the company.
+  (A conta pertence à empresa.)
 
-- The project belongs to our team.
-  (O projeto pertence à nossa equipe.)
+- She belongs to our team.
+  (Ela faz parte da nossa equipe.)
 
 ### Outras formas comuns
 
-#### belong together
+#### belong to + grupo
 
-**Exemplos:**
+Usado para indicar participação ou associação.
 
-- These files belong together.
-  (Esses arquivos pertencem ao mesmo conjunto.)
+- I belong to a study group.
+  (Eu faço parte de um grupo de estudos.)
 
-- We belong together.
-  (Nós pertencemos um ao outro.)
+- They belong to the same department.
+  (Eles fazem parte do mesmo departamento.)
 
-#### belong in + lugar
+- We belong to the development team.
+  (Nós fazemos parte da equipe de desenvolvimento.)
 
-**Exemplos:**
+#### belong in + lugar/contexto
 
-- This document belongs in this folder.
-  (Este documento pertence a esta pasta.)
+Usado para indicar que algo está no lugar correto.
 
-- These records belong in the database.
-  (Esses registros pertencem ao banco de dados.)
+- This file belongs in that folder.
+  (Este arquivo pertence àquela pasta.)
 
----
+- The record belongs in the database.
+  (O registro pertence ao banco de dados.)
+
+- That information belongs in the report.
+  (Essa informação pertence ao relatório.)
+
+#### belong with + objeto
+
+Usado para indicar associação entre coisas.
+
+- This document belongs with the contract.
+  (Este documento deve ficar junto do contrato.)
+
+- These logs belong with the ticket.
+  (Esses logs devem ficar junto do chamado.)
 
 ## Uso com outros verbos
 
-### Usa ING?
+### Usa -ING?
 
-✔ Não
+- ✔ Sim
 
-O verbo **belong** normalmente não é seguido diretamente por outro verbo no gerúndio.
+Principalmente após preposições ou como substantivo verbal.
+
+Exemplos:
+
+- She enjoys belonging to a professional community.
+  (Ela gosta de pertencer a uma comunidade profissional.)
+
+- Belonging to a team helps motivation.
+  (Pertencer a uma equipe ajuda na motivação.)
 
 ### Usa TO + infinitivo?
 
-✔ Não
+- ✔ Não
 
-O verbo normalmente é seguido por **to + substantivo/pronome**, e não por **to + verbo**.
+**Belong** normalmente não é seguido por **to + infinitive**.
 
----
+❌ I belong to work here.
 
-## Preposição obrigatória
+✔ I work here.
 
-✔ **to**
+✔ I belong here.
 
-A preposição **to** faz parte da estrutura do verbo quando indica posse ou pertencimento.
+### Preposição obrigatória?
 
-**Exemplos:**
+Sim.
 
-- The car belongs to my father.
-  (O carro pertence ao meu pai.)
+A preposição mais importante é:
 
-- This account belongs to me.
-  (Esta conta pertence a mim.)
+- to
 
-- The source code belongs to the company.
-  (O código-fonte pertence à empresa.)
+Estrutura:
 
----
+**belong to + pessoa/grupo/organização**
+
+Exemplos:
+
+- This device belongs to me.
+  (Este dispositivo pertence a mim.)
+
+- The repository belongs to the company.
+  (O repositório pertence à empresa.)
+
+- The user belongs to the admin group.
+  (O usuário pertence ao grupo de administradores.)
 
 ## Frases extras (uso real)
 
-- This password belongs to another user.
-  (Esta senha pertence a outro usuário.)
+- This repository belongs to the engineering team.
+  (Este repositório pertence à equipe de engenharia.)
 
-- The repository belongs to our organization.
-  (O repositório pertence à nossa organização.)
+- The license belongs to the company.
+  (A licença pertence à empresa.)
 
-- That folder belongs to the finance team.
-  (Aquela pasta pertence à equipe financeira.)
+- That configuration file belongs in a different folder.
+  (Esse arquivo de configuração pertence a uma pasta diferente.)
 
-- These files belong together.
-  (Esses arquivos pertencem ao mesmo conjunto.)
+- The user belongs to the administrators group.
+  (O usuário pertence ao grupo de administradores.)
 
-- Everything belongs in the correct place.
-  (Tudo pertence ao lugar correto.)
-
----
+- These credentials belong to a test account.
+  (Essas credenciais pertencem a uma conta de teste.)
 
 ## Combinações mais comuns (Collocations)
 
-### belong to someone
-
-This phone belongs to me.
-
-(Este telefone pertence a mim.)
-
 ### belong to a team
 
-She belongs to our team.
+- She belongs to the support team.
+  (Ela faz parte da equipe de suporte.)
 
-(Ela pertence à nossa equipe.)
+### belong to someone
 
-### belong to a company
+- This computer belongs to John.
+  (Este computador pertence ao John.)
 
-The software belongs to the company.
+### belong to a group
 
-(O software pertence à empresa.)
+- The user belongs to the admin group.
+  (O usuário pertence ao grupo de administradores.)
+
+### belong in a category
+
+- This issue belongs in the security category.
+  (Este problema pertence à categoria de segurança.)
 
 ### belong together
 
-These components belong together.
+- These files belong together.
+  (Esses arquivos devem ficar juntos.)
 
-(Estes componentes pertencem ao mesmo conjunto.)
+## Expressões comuns
 
-### belong in a folder
-
-This file belongs in this folder.
-
-(Este arquivo pertence a esta pasta.)
-
----
+- belong to
+- belong here
+- belong together
+- where does it belong?
+- sense of belonging
 
 ## Erros comuns
 
-❌ This book belongs me.
+❌ This laptop belongs me.
 
-✔ This book belongs to me.
+✔ This laptop belongs to me.
+
+O verbo **belong** exige a preposição **to**.
 
 ---
 
-❌ I belong this team.
+❌ I belong in this team.
 
 ✔ I belong to this team.
 
----
-
-❌ The file belongs in me.
-
-✔ The file belongs to me.
+Para grupos e equipes, utiliza-se **belong to**.
 
 ---
+
+❌ This account is belonging to me.
+
+✔ This account belongs to me.
+
+**Belong** raramente é usado em tempos contínuos.
 
 ## Observações importantes
 
-- **belong** é um verbo **intransitivo** e quase sempre exige a preposição **to**.
-- Não é usado na voz passiva (*is belonged* ❌).
-- É muito comum para indicar posse, propriedade ou associação.
-- Em TI aparece em contextos como usuários, contas, organizações, repositórios, arquivos, permissões e recursos: **belongs to user**, **belongs to organization**, **belongs to repository**.
+- A estrutura mais importante para memorizar é **belong to**.
+- Diferente do português, **belong** normalmente exige a preposição **to**.
+- Em TI, é muito comum para indicar propriedade de contas, arquivos, licenças, dispositivos e grupos de usuários.

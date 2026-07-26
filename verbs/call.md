@@ -1,79 +1,89 @@
-# Call
+## Verbo: CALL
 
-## Informações gerais
+### Traduções principais
+- ligar
+- chamar
 
-**CEFR:** A1
+### Informações gerais
 
-**Relevância para TI:** Muito usado
+**Outras traduções**
+- telefonar
+- convocar
+- dar nome a
+- solicitar
 
-**Regular ou irregular?** Regular
+#### Palavras da mesma família
 
----
+- call → ligação / chamada
+- caller → quem liga
+- calling → chamada / vocação
+- callback → retorno de chamada
+- called → chamado
 
-## Pronúncia (AFI – IPA)
+#### CEFR
+- A1
 
-- **Presente:** call → /kɔl/
-- **Presente (3ª pessoa):** calls → /kɔlz/
-- **Passado:** called → /kɔld/
-- **Particípio:** called → /kɔld/
+#### Relevância para TI
+- Muito usado
 
----
+#### Tipo de verbo
+- Regular
 
-## Phrasal verbs relacionados
+### Pronúncia (IPA – General American)
+
+- Presente: **call** → /kɔl/
+- Presente (3ª pessoa): **calls** → /kɔlz/
+- Passado: **called** → /kɔld/
+- Particípio: **called** → /kɔld/
+- Forma em **-ING**: **calling** → /ˈkɔlɪŋ/
+
+### Phrasal verbs
 
 - call back
-- call for
-- call in
 - call off
 - call on
 - call out
 - call up
 
----
-
-## Forma do -ING
+### Forma em -ING
 
 **call → calling**
 
-Ao adicionar **-ing**, ocorre a dobra da letra **l**, formando **calling**.
+O verbo apenas recebe **-ING**.
 
-**Exemplos:**
+- call → calling
 
-- calling my friend
-- calling the customer
-- calling an API
+Pronúncia:
 
----
+- calling → /ˈkɔlɪŋ/
 
-## Significados
+Exemplos:
 
-- ligar (telefone)
-- chamar
-- convocar
-- dar um nome a
-- chamar uma função (TI)
+- I am calling the client.
+  (Estou ligando para o cliente.)
 
----
+- She is calling technical support.
+  (Ela está ligando para o suporte técnico.)
 
 ## Frases (tempo verbal)
 
 ### Presente (1ª pessoa)
 
-I call my parents every Sunday.
+I call my team every morning.
 
-(Eu ligo para meus pais todo domingo.)
+(Eu ligo para minha equipe todas as manhãs.)
 
 ### Presente (3ª pessoa)
 
-She calls her clients every morning.
+She calls the client regularly.
 
-(Ela liga para seus clientes todas as manhãs.)
+(Ela liga para o cliente regularmente.)
 
 ### Passado
 
-I called you yesterday.
+I called the support team yesterday.
 
-(Eu liguei para você ontem.)
+(Eu liguei para a equipe de suporte ontem.)
 
 ### Futuro
 
@@ -83,11 +93,9 @@ I will call you later.
 
 ### Particípio (Present Perfect)
 
-I have called him several times.
+I have called the customer.
 
-(Eu liguei para ele várias vezes. / Eu tenho ligado para ele várias vezes.)
-
----
+(Eu liguei para o cliente.)
 
 ## Estruturas importantes
 
@@ -95,165 +103,193 @@ I have called him several times.
 
 **call + pessoa**
 
-**Exemplos:**
+Exemplos:
 
 - Call me later.
   (Ligue para mim mais tarde.)
 
-- She called her friend.
-  (Ela ligou para a amiga.)
+- I called the manager.
+  (Eu liguei para o gerente.)
 
-- We called the customer.
-  (Nós ligamos para o cliente.)
+- She called her friend.
+  (Ela ligou para a amiga dela.)
 
 ### Outras formas comuns
 
-#### call + objeto + by + nome
+#### call + objeto + nome
 
-**Exemplos:**
+Usado para dar um nome a algo ou alguém.
+
+- We call it Project X.
+  (Nós o chamamos de Projeto X.)
 
 - They call him Mike.
   (Eles o chamam de Mike.)
 
-- We call this method "ProcessData".
-  (Chamamos este método de "ProcessData".)
+- The team calls this process deployment.
+  (A equipe chama esse processo de implantação.)
 
-- Everyone calls her Ana.
-  (Todos a chamam de Ana.)
+#### call + reunião/evento
 
-#### call + função/método (TI)
+Usado para convocar.
 
-**Exemplos:**
+- The manager called a meeting.
+  (O gerente convocou uma reunião.)
 
-- Call the API.
-  (Chame a API.)
+- They called an emergency meeting.
+  (Eles convocaram uma reunião de emergência.)
 
-- The application calls the database.
-  (O aplicativo chama o banco de dados.)
+- She called a conference.
+  (Ela convocou uma conferência.)
 
-- This method calls another function.
-  (Este método chama outra função.)
+#### call for + substantivo
 
----
+Usado para solicitar ou exigir algo.
+
+- This issue calls for attention.
+  (Este problema exige atenção.)
+
+- The situation calls for action.
+  (A situação exige ação.)
+
+- The project calls for more resources.
+  (O projeto exige mais recursos.)
 
 ## Uso com outros verbos
 
-### Usa ING?
+### Usa -ING?
 
-✔ Não
+- ✔ Sim
 
-O verbo **call** normalmente não é seguido diretamente por outro verbo terminado em **-ing**.
+Principalmente após preposições.
+
+Exemplos:
+
+- Thank you for calling.
+  (Obrigado por ligar.)
+
+- She apologized for calling late.
+  (Ela pediu desculpas por ligar tarde.)
+
+- I am interested in calling the client.
+  (Estou interessado em ligar para o cliente.)
 
 ### Usa TO + infinitivo?
 
-✔ Sim
+- ✔ Sim
 
-É comum usar **call + pessoa + to + verbo** quando alguém é chamado para realizar uma ação.
+Usado para indicar finalidade.
 
-**Exemplos:**
+Exemplos:
 
-- They called me to help.
-  (Eles me chamaram para ajudar.)
+- I called to ask a question.
+  (Liguei para fazer uma pergunta.)
 
-- She called him to explain the problem.
-  (Ela o chamou para explicar o problema.)
+- She called to confirm the meeting.
+  (Ela ligou para confirmar a reunião.)
 
----
+- We called to report the issue.
+  (Ligamos para reportar o problema.)
 
-## Preposição obrigatória?
+### Preposição obrigatória?
 
-✔ Não possui.
+Não possui preposição obrigatória.
 
-Dependendo da estrutura, pode aparecer com diversas preposições:
+Algumas combinações comuns incluem:
 
-- back
-- for
-- in
-- off
-- on
-- out
-- up
+- call for
+- call about
+- call on
 
-Muitas delas formam phrasal verbs.
+Exemplos:
 
----
+- I called about the issue.
+  (Liguei sobre o problema.)
+
+- The client called for assistance.
+  (O cliente solicitou assistência.)
+
+- She called on the team for help.
+  (Ela pediu ajuda à equipe.)
 
 ## Frases extras (uso real)
 
-- Please call me tomorrow.
-  (Por favor, ligue para mim amanhã.)
+- Please call me when you arrive.
+  (Por favor, me ligue quando você chegar.)
 
-- I'll call you after work.
-  (Vou ligar para você depois do trabalho.)
+- The customer called about a bug.
+  (O cliente ligou por causa de um bug.)
 
-- The system calls this function automatically.
-  (O sistema chama essa função automaticamente.)
+- We called a meeting to discuss the deployment.
+  (Convocamos uma reunião para discutir a implantação.)
 
-- We need to call the API again.
-  (Precisamos chamar a API novamente.)
+- The administrator called technical support.
+  (O administrador ligou para o suporte técnico.)
 
-- Who called you?
-  (Quem ligou para você?)
-
----
+- I called to verify the information.
+  (Liguei para verificar a informação.)
 
 ## Combinações mais comuns (Collocations)
 
-### call a function
-
-The program calls a function.
-
-(O programa chama uma função.)
-
-### call an API
-
-The application calls the API every minute.
-
-(O aplicativo chama a API a cada minuto.)
-
-### call a customer
-
-She called the customer yesterday.
-
-(Ela ligou para o cliente ontem.)
-
 ### call a meeting
 
-The manager called a meeting.
-
-(O gerente convocou uma reunião.)
+- The manager called a meeting this morning.
+  (O gerente convocou uma reunião esta manhã.)
 
 ### call someone
 
-I called my brother.
+- Please call me after work.
+  (Por favor, ligue para mim após o trabalho.)
 
-(Eu liguei para o meu irmão.)
+### call for help
 
----
+- The user called for help immediately.
+  (O usuário pediu ajuda imediatamente.)
+
+### call attention to
+
+- The report calls attention to security issues.
+  (O relatório chama atenção para problemas de segurança.)
+
+### call technical support
+
+- We had to call technical support.
+  (Tivemos que ligar para o suporte técnico.)
+
+## Expressões comuns
+
+- call back
+- call it a day
+- call attention to
+- call for help
+- call someone up
 
 ## Erros comuns
 
-❌ I called to him.
+❌ I called to him yesterday.
 
-✔ I called him.
+✔ I called him yesterday.
 
----
-
-❌ She call me yesterday.
-
-✔ She called me yesterday.
+Normalmente **call** não exige a preposição **to**.
 
 ---
 
-❌ I am call you now.
+❌ I called for him yesterday. *(quando o sentido é telefonar)*
 
-✔ I am calling you now.
+✔ I called him yesterday.
+
+**Call for** possui outros significados, como solicitar ou exigir.
 
 ---
+
+❌ She called me for ask a question.
+
+✔ She called me to ask a question.
+
+Após indicar finalidade, utiliza-se **to + infinitive**.
 
 ## Observações importantes
 
-- **call** possui vários significados: ligar, chamar, convocar, dar um nome e chamar uma função em programação.
-- Em inglês americano, **call someone** significa **ligar para alguém**, sem usar a preposição **to**.
-- É um dos verbos mais frequentes em TI: **call a method**, **call a function**, **call an API**, **system call**, **remote procedure call (RPC)**.
-- Também aparece em diversos phrasal verbs importantes, como **call back**, **call off** e **call out**.
+- Diferente do português, normalmente dizemos **call someone**, sem preposição.
+- Em TI, **call** aparece frequentemente em expressões como **API call**, **callback** e **service call**.
+- O phrasal verb **call back** é extremamente comum e significa retornar uma ligação ou executar uma função de retorno em programação.

@@ -1,312 +1,277 @@
-# Avoid
+## Verbo: AVOID
 
-## Informações gerais
-
-**SIGNIFICADO(S):**
-
+### Traduções principais
 - evitar
 - impedir
-- escapar de (uma situação)
 
-**CEFR:** A2
+### Informações gerais
 
-**Relevância para TI:** Muito usado
+**Outras traduções**
+- prevenir
+- esquivar-se de
+- fugir de
 
-**Conjugação:** Regular
+#### Palavras da mesma família
 
----
+- avoidance → prevenção / evasão
+- avoidable → evitável
+- unavoidable → inevitável
+- avoided → evitado
+- avoiding → evitando
 
-## Pronúncia (AFI – IPA)
+#### CEFR
+- B1
 
-- **Presente:** avoid → /əˈvɔɪd/
-- **Presente (3ª pessoa):** avoids → /əˈvɔɪdz/
-- **Passado:** avoided → /əˈvɔɪdɪd/
-- **Particípio:** avoided → /əˈvɔɪdɪd/
+#### Relevância para TI
+- Muito usado
 
----
+#### Tipo de verbo
+- Regular
 
-## Phrasal verbs
+### Pronúncia (IPA – General American)
 
-**avoid** é o verbo de origem.
+- Presente: **avoid** → /əˈvɔɪd/
+- Presente (3ª pessoa): **avoids** → /əˈvɔɪdz/
+- Passado: **avoided** → /əˈvɔɪdɪd/
+- Particípio: **avoided** → /əˈvɔɪdɪd/
+- Forma em **-ING**: **avoiding** → /əˈvɔɪdɪŋ/
 
-Não possui phrasal verbs relevantes de uso frequente.
+### Phrasal verbs
 
----
+Não existem phrasal verbs muito relevantes derivados diretamente de **avoid**.
 
-## Forma em -ING
+### Forma em -ING
 
 **avoid → avoiding**
 
-O verbo apenas recebe **-ing**, sem alterações ortográficas.
+O verbo apenas recebe **-ING**.
 
-**Exemplos:**
+- avoid → avoiding
 
-- I am avoiding unnecessary meetings.
-  - (Estou evitando reuniões desnecessárias.)
+Pronúncia:
 
-- She is avoiding conflicts.
-  - (Ela está evitando conflitos.)
+- avoiding → /əˈvɔɪdɪŋ/
 
----
+Exemplos:
 
-## Palavras da mesma família (Word Family)
+- I am avoiding unnecessary changes.
+  (Estou evitando mudanças desnecessárias.)
 
-- avoid
-- avoids
-- avoided
-- avoiding
-- avoidance (evitação)
-- unavoidable (inevitável)
-- avoidable (evitável)
-
----
-
-## SIGNIFICADO(S)
-
-- evitar
-- impedir
-- escapar de (uma situação)
-
----
+- She is avoiding common mistakes.
+  (Ela está evitando erros comuns.)
 
 ## Frases (tempo verbal)
 
 ### Presente (1ª pessoa)
 
-I avoid problems.
+I avoid unnecessary risks.
 
-(Eu evito problemas.)
-
----
+(Eu evito riscos desnecessários.)
 
 ### Presente (3ª pessoa)
 
-She avoids mistakes.
+She avoids common mistakes.
 
-(Ela evita erros.)
-
----
+(Ela evita erros comuns.)
 
 ### Passado
 
-I avoided it.
+I avoided the problem.
 
-(Eu evitei isso.)
-
----
+(Eu evitei o problema.)
 
 ### Futuro
 
-I will avoid it.
+I will avoid that situation.
 
-(Eu evitarei isso.)
-
----
+(Eu evitarei essa situação.)
 
 ### Particípio (Present Perfect)
 
-I have avoided it.
+I have avoided several issues.
 
-(Eu evitei isso. / Eu tenho evitado isso.)
-
----
+(Eu evitei vários problemas.)
 
 ## Estruturas importantes
 
 ### Estrutura principal
 
-**avoid + objeto**
+**avoid + substantivo**
 
-**Exemplos:**
+Exemplos:
 
-- He avoids danger.
-  - (Ele evita o perigo.)
+- Avoid mistakes.
+  (Evite erros.)
 
-- We avoid conflicts.
-  - (Nós evitamos conflitos.)
+- We avoid delays.
+  (Nós evitamos atrasos.)
 
-- Try to avoid unnecessary changes.
-  - (Tente evitar alterações desnecessárias.)
-
----
+- She avoids conflicts.
+  (Ela evita conflitos.)
 
 ### Outras formas comuns
 
-**avoid + verbo + ING**
+#### avoid + verbo em -ING
 
-**Exemplos:**
+Estrutura extremamente importante.
 
-- I avoid making mistakes.
-  - (Eu evito cometer erros.)
+- Avoid making changes at the last minute.
+  (Evite fazer alterações de última hora.)
 
-- She avoids eating junk food.
-  - (Ela evita comer comida não saudável.)
+- Try to avoid using weak passwords.
+  (Tente evitar usar senhas fracas.)
 
-- They avoid driving at night.
-  - (Eles evitam dirigir à noite.)
+- We avoid deploying on Fridays.
+  (Nós evitamos fazer deploys às sextas-feiras.)
 
----
+#### avoid + pronome
+
+- Avoid them if possible.
+  (Evite-os se possível.)
+
+- I avoid it whenever I can.
+  (Eu evito isso sempre que posso.)
+
+#### avoid + problema/situação
+
+- We avoided a serious outage.
+  (Evitamos uma interrupção séria.)
+
+- They avoided a security issue.
+  (Eles evitaram um problema de segurança.)
 
 ## Uso com outros verbos
 
-### Usa ING?
+### Usa -ING?
 
-✔ **Sim (ESSENCIAL)**
+- ✔ Sim
 
-Sempre que **avoid** for seguido por outro verbo, esse verbo deve ficar na forma **-ING**.
+Essa é a estrutura mais importante do verbo.
 
-**Exemplos:**
+Exemplos:
 
-- I avoid making mistakes.
-  - (Eu evito cometer erros.)
+- Avoid making assumptions.
+  (Evite fazer suposições.)
 
-- She avoids talking during meetings.
-  - (Ela evita falar durante as reuniões.)
+- Avoid changing the configuration.
+  (Evite alterar a configuração.)
 
-- We avoid using global variables.
-  - (Nós evitamos usar variáveis globais.)
-
----
+- Avoid exposing sensitive data.
+  (Evite expor dados sensíveis.)
 
 ### Usa TO + infinitivo?
 
-✔ **Não**
+- ✔ Não
 
-Nunca utilize **avoid + to + verbo**.
+Após **avoid**, utiliza-se **-ING**, não **to + infinitive**.
 
-❌ I avoid to make mistakes.
+❌ Avoid to make mistakes.
 
-✔ I avoid making mistakes.
+✔ Avoid making mistakes.
 
-(Eu evito cometer erros.)
+❌ Avoid to change the code.
 
----
+✔ Avoid changing the code.
 
-### Preposição obrigatória
+### Preposição obrigatória?
 
-✔ **Não possui.**
+Não possui preposição obrigatória.
 
-O verbo **avoid** normalmente é seguido diretamente por:
+O verbo é normalmente usado diretamente com:
 
-- um substantivo;
-- um pronome;
-- um verbo na forma **-ING**.
+- substantivos
+- pronomes
+- verbos em **-ING**
 
----
+Exemplos:
+
+- Avoid errors.
+  (Evite erros.)
+
+- Avoid changing settings.
+  (Evite alterar configurações.)
+
+- Avoid unnecessary discussions.
+  (Evite discussões desnecessárias.)
 
 ## Frases extras (uso real)
 
-- Try to avoid unnecessary changes.
-  - (Tente evitar alterações desnecessárias.)
+- We should avoid unnecessary complexity.
+  (Devemos evitar complexidade desnecessária.)
 
-- The application avoids duplicate records.
-  - (O aplicativo evita registros duplicados.)
+- Avoid sharing sensitive information.
+  (Evite compartilhar informações sensíveis.)
 
-- We should avoid hardcoding values.
-  - (Devemos evitar colocar valores fixos no código.)
+- The team avoided a production issue.
+  (A equipe evitou um problema em produção.)
 
-- Avoid clicking the same button twice.
-  - (Evite clicar no mesmo botão duas vezes.)
+- Developers should avoid duplicated code.
+  (Desenvolvedores devem evitar código duplicado.)
 
-- The new algorithm avoids unnecessary calculations.
-  - (O novo algoritmo evita cálculos desnecessários.)
-
----
+- This update helps avoid security risks.
+  (Esta atualização ajuda a evitar riscos de segurança.)
 
 ## Combinações mais comuns (Collocations)
 
 ### avoid mistakes
 
-Always avoid mistakes in production.
-
-(Sempre evite erros em produção.)
-
----
+- Always review your code to avoid mistakes.
+  (Sempre revise seu código para evitar erros.)
 
 ### avoid problems
 
-Good planning helps avoid problems.
-
-(Um bom planejamento ajuda a evitar problemas.)
-
----
-
-### avoid conflicts
-
-We try to avoid conflicts.
-
-(Nós tentamos evitar conflitos.)
-
----
-
-### avoid delays
-
-Good communication helps avoid delays.
-
-(Uma boa comunicação ajuda a evitar atrasos.)
-
----
+- Good documentation helps avoid problems.
+  (Uma boa documentação ajuda a evitar problemas.)
 
 ### avoid risks
 
-The company avoids unnecessary risks.
+- Backups help avoid risks.
+  (Backups ajudam a evitar riscos.)
 
-(A empresa evita riscos desnecessários.)
+### avoid conflicts
 
----
+- Clear communication helps avoid conflicts.
+  (Uma comunicação clara ajuda a evitar conflitos.)
 
-## Expressões comuns (Common Expressions)
+### avoid delays
 
-### avoid making mistakes
+- Planning ahead helps avoid delays.
+  (Planejar com antecedência ajuda a evitar atrasos.)
 
-Developers should avoid making mistakes.
+## Expressões comuns
 
-(Os desenvolvedores devem evitar cometer erros.)
-
----
-
-### avoid unnecessary work
-
-Automation helps avoid unnecessary work.
-
-(A automação ajuda a evitar trabalho desnecessário.)
-
----
-
-### avoid at all costs
-
-Avoid this at all costs.
-
-(Evite isso a todo custo.)
-
----
+- avoid mistakes
+- avoid trouble
+- avoid conflict
+- avoid unnecessary risks
+- avoid making assumptions
 
 ## Erros comuns
 
-❌ I avoid to make mistakes.
+❌ Avoid to make mistakes.
 
-✔ I avoid making mistakes.
+✔ Avoid making mistakes.
 
----
-
-❌ She avoids to eat fast food.
-
-✔ She avoids eating fast food.
+Após **avoid**, usa-se verbo em **-ING**.
 
 ---
 
-❌ We avoid from conflicts.
+❌ Avoid to use weak passwords.
 
-✔ We avoid conflicts.
+✔ Avoid using weak passwords.
+
+A estrutura correta continua sendo **avoid + ING**.
 
 ---
+
+❌ I avoid to deploy on Friday.
+
+✔ I avoid deploying on Friday.
+
+O verbo seguinte deve ficar na forma **-ING**.
 
 ## Observações importantes
 
-- **avoid** aceita dois padrões principais:
-  - **avoid + substantivo/pronome**
-  - **avoid + verbo + ING**
-- Se houver outro verbo após **avoid**, ele deve **sempre** ficar no gerúndio (**-ING**).
-- Nunca utilize **avoid + to + infinitivo**.
-- É um dos verbos mais importantes para memorizar a regra do gerúndio.
-- Em TI é extremamente frequente em recomendações e boas práticas: **avoid duplication**, **avoid hardcoding**, **avoid unnecessary queries**, **avoid memory leaks**, **avoid race conditions** e **avoid breaking changes**.
+- **Avoid** é um dos verbos mais importantes para aprender o uso de **verbos em -ING**.
+- Em TI, aparece frequentemente em documentação, boas práticas, segurança e desenvolvimento de software.
+- A estrutura **avoid + ING** deve ser memorizada como padrão.

@@ -1,318 +1,278 @@
-# Appear
+## Verbo: APPEAR
 
-## Informações gerais
-
-**SIGNIFICADO(S):**
-
+### Traduções principais
 - aparecer
 - surgir
+
+### Informações gerais
+
+**Outras traduções**
 - parecer
+- comparecer (em alguns contextos)
+- tornar-se visível
 
-**CEFR:** B2
+#### Palavras da mesma família
 
-**Relevância para TI:** Usado
+- appearance → aparência / aparecimento
+- apparent → aparente
+- apparently → aparentemente
+- disappeared → desapareceu (verbo relacionado: disappear)
 
-**Conjugação:** Regular
+#### CEFR
+- A2
 
----
+#### Relevância para TI
+- Usado
 
-## Pronúncia (AFI – IPA)
+#### Tipo de verbo
+- Regular
 
-- **Presente:** appear → /əˈpɪr/
-- **Presente (3ª pessoa):** appears → /əˈpɪrz/
-- **Passado:** appeared → /əˈpɪrd/
-- **Particípio:** appeared → /əˈpɪrd/
+### Pronúncia (IPA – General American)
 
----
+- Presente: **appear** → /əˈpɪr/
+- Presente (3ª pessoa): **appears** → /əˈpɪrz/
+- Passado: **appeared** → /əˈpɪrd/
+- Particípio: **appeared** → /əˈpɪrd/
+- Forma em **-ING**: **appearing** → /əˈpɪrɪŋ/
 
-## Phrasal verbs
+### Phrasal verbs
 
-O verbo **appear** não possui phrasal verbs relevantes de uso comum.
+Não existem phrasal verbs muito relevantes derivados diretamente de **appear**.
 
----
-
-## Forma em -ING
+### Forma em -ING
 
 **appear → appearing**
 
-O verbo apenas recebe **-ing**, sem alterações ortográficas.
+O verbo apenas recebe **-ING**.
 
-**Exemplos:**
+- appear → appearing
+
+Pronúncia:
+
+- appearing → /əˈpɪrɪŋ/
+
+Exemplos:
 
 - The message is appearing on the screen.
-  - (A mensagem está aparecendo na tela.)
+  (A mensagem está aparecendo na tela.)
 
 - New errors are appearing in the logs.
-  - (Novos erros estão aparecendo nos logs.)
-
----
-
-## Palavras da mesma família (Word Family)
-
-- appear
-- appears
-- appeared
-- appearing
-- appearance (aparência; aparecimento)
-- apparently (aparentemente)
-- disappearance (desaparecimento)
-- disappear (desaparecer)
-
----
-
-## SIGNIFICADO(S)
-
-- aparecer
-- surgir
-- parecer
-
----
+  (Novos erros estão aparecendo nos logs.)
 
 ## Frases (tempo verbal)
 
 ### Presente (1ª pessoa)
 
-I appear calm.
+I appear in the meeting every week.
 
-(Eu pareço calmo.)
-
----
+(Eu apareço na reunião toda semana.)
 
 ### Presente (3ª pessoa)
 
-He appears tired.
+She appears online every morning.
 
-(Ele parece cansado.)
-
----
+(Ela aparece online todas as manhãs.)
 
 ### Passado
 
-She appeared suddenly.
+The error appeared after the update.
 
-(Ela apareceu de repente.)
-
----
+(O erro apareceu após a atualização.)
 
 ### Futuro
 
-It will appear soon.
+A notification will appear on the screen.
 
-(Isso aparecerá em breve.)
-
----
+(Uma notificação aparecerá na tela.)
 
 ### Particípio (Present Perfect)
 
-It has appeared.
+The issue has appeared again.
 
-(Isso apareceu. / Isso tem aparecido.)
-
----
+(O problema apareceu novamente.)
 
 ## Estruturas importantes
 
 ### Estrutura principal
 
-**appear + adjetivo**
+**appear + lugar/contexto**
 
-**Exemplos:**
+Exemplos:
 
-- She appears nervous.
-  - (Ela parece nervosa.)
+- A message appeared on the screen.
+  (Uma mensagem apareceu na tela.)
 
-- He appears confident.
-  - (Ele parece confiante.)
+- The file appeared in the folder.
+  (O arquivo apareceu na pasta.)
 
-- The server appears stable.
-  - (O servidor parece estável.)
-
----
+- His name appeared on the list.
+  (O nome dele apareceu na lista.)
 
 ### Outras formas comuns
 
-**appear to + infinitivo**
+#### appear to + infinitivo
 
-**Exemplos:**
+Usado para indicar aparência ou impressão.
 
-- He appears to be happy.
-  - (Ele parece estar feliz.)
+- The system appears to be stable.
+  (O sistema parece estar estável.)
 
-- They appear to understand.
-  - (Eles parecem entender.)
+- She appears to understand the problem.
+  (Ela parece entender o problema.)
 
-- The application appears to work correctly.
-  - (O aplicativo parece funcionar corretamente.)
+- The server appears to be offline.
+  (O servidor parece estar offline.)
 
----
+#### it appears that + oração
 
-**appear in + lugar / documento**
+Usado para expressar uma conclusão ou impressão.
 
-**Exemplos:**
+- It appears that the update worked.
+  (Parece que a atualização funcionou.)
 
-- The error appears in the log.
-  - (O erro aparece no log.)
+- It appears that the bug is fixed.
+  (Parece que o bug foi corrigido.)
 
-- The message appears in the console.
-  - (A mensagem aparece no console.)
+- It appears that the service is available.
+  (Parece que o serviço está disponível.)
 
-- His name appeared in the report.
-  - (O nome dele apareceu no relatório.)
+#### appear as + cargo ou função
 
----
+- He appeared as a guest speaker.
+  (Ele apareceu como palestrante convidado.)
+
+- The value appears as null.
+  (O valor aparece como nulo.)
 
 ## Uso com outros verbos
 
-### Usa ING?
+### Usa -ING?
 
-✔ **Não**
+- ✔ Não
 
-O verbo **appear** normalmente não é seguido por outro verbo no gerúndio.
+O verbo normalmente não é seguido diretamente por um verbo em **-ING**.
 
----
+❌ The system appears working.
+
+✔ The system appears to be working.
 
 ### Usa TO + infinitivo?
 
-✔ **Sim**
+- ✔ Sim
 
-A estrutura **appear to + verbo** é muito comum para indicar uma impressão ou conclusão.
+Esta é uma das estruturas mais importantes.
 
-**Exemplos:**
+Exemplos:
 
-- He appears to be busy.
-  - (Ele parece estar ocupado.)
+- The application appears to work correctly.
+  (A aplicação parece funcionar corretamente.)
 
-- She appears to know the answer.
-  - (Ela parece saber a resposta.)
+- The issue appears to be resolved.
+  (O problema parece estar resolvido.)
 
-- The system appears to be offline.
-  - (O sistema parece estar offline.)
+- The user appears to know the process.
+  (O usuário parece conhecer o processo.)
 
----
+### Preposição obrigatória?
 
-### Preposição obrigatória
+Não possui preposição obrigatória.
 
-O verbo **appear** não possui preposição obrigatória.
+As combinações mais comuns são:
 
-As estruturas mais comuns são:
+- appear in
+- appear on
+- appear at
+- appear as
 
-- **appear to + infinitivo**
-- **appear in + lugar/documento**
-- **appear on + tela/superfície**
+Exemplos:
 
-**Exemplos:**
+- The result appeared in the report.
+  (O resultado apareceu no relatório.)
 
-- The icon appears on the screen.
-  - (O ícone aparece na tela.)
+- The warning appeared on the screen.
+  (O aviso apareceu na tela.)
 
-- The error appears in the log.
-  - (O erro aparece no log.)
-
----
+- The value appeared as expected.
+  (O valor apareceu conforme esperado.)
 
 ## Frases extras (uso real)
 
-- The message appeared on the screen.
-  - (A mensagem apareceu na tela.)
+- The login screen appeared immediately.
+  (A tela de login apareceu imediatamente.)
 
-- A new window appears after you click the button.
-  - (Uma nova janela aparece depois que você clica no botão.)
+- A warning message appeared during the test.
+  (Uma mensagem de aviso apareceu durante o teste.)
 
-- The problem appears to be fixed.
-  - (O problema parece estar resolvido.)
+- The record appeared in the database.
+  (O registro apareceu no banco de dados.)
 
-- The notification appeared immediately.
-  - (A notificação apareceu imediatamente.)
+- The bug appears only in production.
+  (O bug aparece apenas em produção.)
 
-- The option doesn't appear in the menu.
-  - (A opção não aparece no menu.)
-
----
+- New logs appeared after restarting the service.
+  (Novos logs apareceram após reiniciar o serviço.)
 
 ## Combinações mais comuns (Collocations)
 
 ### appear on the screen
 
-The warning appeared on the screen.
+- The notification appeared on the screen.
+  (A notificação apareceu na tela.)
 
-(O aviso apareceu na tela.)
+### appear in the report
 
----
-
-### appear in the log
-
-The exception appeared in the log.
-
-(A exceção apareceu no log.)
-
----
+- The results appeared in the report.
+  (Os resultados apareceram no relatório.)
 
 ### appear to be
 
-The server appears to be offline.
+- The database appears to be available.
+  (O banco de dados parece estar disponível.)
 
-(O servidor parece estar offline.)
+### suddenly appear
 
----
+- Several errors suddenly appeared.
+  (Vários erros apareceram repentinamente.)
 
-### appear suddenly
+### appear online
 
-The error appeared suddenly.
+- The user appeared online a few minutes ago.
+  (O usuário apareceu online há alguns minutos.)
 
-(O erro apareceu de repente.)
+## Expressões comuns
 
----
-
-### appear first
-
-This option appears first in the list.
-
-(Esta opção aparece primeiro na lista.)
-
----
-
-## Expressões comuns (Common Expressions)
-
-### appear to be
-
-The application appears to be working.
-
-(O aplicativo parece estar funcionando.)
-
----
-
-### appear out of nowhere
-
-The error appeared out of nowhere.
-
-(O erro apareceu do nada.)
-
----
+- appear to be
+- it appears that
+- appear on the scene
+- make an appearance
+- appear out of nowhere
 
 ## Erros comuns
 
-❌ He appears busy to be.
+❌ The server appears working.
 
-✔ He appears to be busy.
+✔ The server appears to be working.
 
----
-
-❌ The message appeared on the log.
-
-✔ The message appeared in the log.
-
-> Para logs, normalmente utiliza-se **in the log**.
+Após **appear**, normalmente usa-se **to + infinitive**.
 
 ---
 
-❌ He appeared that he was tired.
+❌ It appears me that the system is stable.
 
-✔ He appeared to be tired.
+✔ It appears that the system is stable.
+
+A construção correta é **it appears that**.
 
 ---
+
+❌ The file appeared on the folder.
+
+✔ The file appeared in the folder.
+
+Para algo dentro de uma pasta, normalmente utiliza-se **in**.
 
 ## Observações importantes
 
-- **appear** pode significar **aparecer**, **surgir** ou **parecer**, dependendo do contexto.
-- **appear to + infinitivo** é uma das estruturas mais frequentes para expressar uma impressão ou conclusão.
-- É um verbo muito comum em documentação técnica, interfaces, mensagens, logs, erros, menus e elementos visuais de sistemas.
+- **Appear** é muito usado em mensagens de erro, interfaces e documentação técnica.
+- A estrutura **appear to be** é extremamente frequente no inglês profissional.
+- Em TI, o significado mais comum é "aparecer", mas também é muito usado com o sentido de "parecer".

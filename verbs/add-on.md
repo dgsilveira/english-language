@@ -1,117 +1,104 @@
-# Add On
+## Verbo: ADD ON
 
-## Informações gerais
+### Traduções principais
+- adicionar
+- acrescentar
+- incluir algo extra
 
-**SIGNIFICADO(S):**
+### Informações gerais
 
-- acrescentar algo extra
-- adicionar como opcional
-- incluir como bônus
+**Outras traduções**
+- anexar
+- complementar
+- adicionar como extra
 
-**CEFR:** B1
+#### Palavras da mesma família
 
-**Relevância para TI:** Usado
+- addon (add-on) → complemento
+- additional → adicional
+- addition → adição
+- added → acrescentado
 
-**Conjugação:** Regular
+#### CEFR
+- B1
 
----
+#### Relevância para TI
+- Muito usado
 
-## Pronúncia (AFI – IPA)
+#### Tipo de verbo
+- Phrasal Verb
 
-- **Presente:** add on → /æd ɑn/
-- **Presente (3ª pessoa):** adds on → /ædz ɑn/
-- **Passado:** added on → /ˈædɪd ɑn/
-- **Particípio:** added on → /ˈædɪd ɑn/
+### Pronúncia (IPA – General American)
 
----
+- Presente: **add on** → /æd ɑn/
+- Presente (3ª pessoa): **adds on** → /ædz ɑn/
+- Passado: **added on** → /ˈædɪd ɑn/
+- Particípio: **added on** → /ˈædɪd ɑn/
+- Forma em **-ING**: **adding on** → /ˈædɪŋ ɑn/
 
-## Phrasal verbs
+### Phrasal verbs
 
-**add on** é um **phrasal verb** derivado de **add**.
+O próprio verbo estudado já é um phrasal verb.
 
-Outros phrasal verbs relacionados:
+Outros relacionados:
 
 - add up
 - add in
+- add to
+- add up to
 
----
-
-## Forma em -ING
+### Forma em -ING
 
 **add on → adding on**
 
-O verbo principal apenas recebe **-ing**, sem alterações ortográficas.
+O verbo principal (**add**) dobra a consoante final antes de receber **-ING**:
 
-**Exemplos:**
+- add → adding
+- add on → adding on
 
-- I am adding on more storage.
-  - (Eu estou acrescentando mais armazenamento.)
+Pronúncia:
 
-- She is adding on a premium feature.
-  - (Ela está adicionando um recurso premium.)
+- adding on → /ˈædɪŋ ɑn/
 
----
+Exemplos:
 
-## Palavras da mesma família (Word Family)
+- We are adding on a new feature.
+  (Estamos adicionando um novo recurso.)
 
-- add
-- adding
-- added
-- addition
-- additional
-- additionally
-
----
-
-## SIGNIFICADO(S)
-
-- acrescentar algo extra
-- adicionar como opcional
-- incluir como bônus
-
----
+- She is adding on extra details.
+  (Ela está acrescentando detalhes extras.)
 
 ## Frases (tempo verbal)
 
 ### Presente (1ª pessoa)
 
-I add on extra features to the plan.
+I add on extra information when necessary.
 
-(Eu acrescento recursos extras ao plano.)
-
----
+(Eu acrescento informações extras quando necessário.)
 
 ### Presente (3ª pessoa)
 
-He adds on new services for clients.
+She adds on new features regularly.
 
-(Ele acrescenta novos serviços para os clientes.)
-
----
+(Ela adiciona novos recursos regularmente.)
 
 ### Passado
 
-I added on two extra items.
+I added on a security module.
 
-(Eu acrescentei dois itens extras.)
-
----
+(Eu acrescentei um módulo de segurança.)
 
 ### Futuro
 
-I will add on more options later.
+I will add on more details later.
 
-(Eu acrescentarei mais opções depois.)
-
----
+(Eu acrescentarei mais detalhes depois.)
 
 ### Particípio (Present Perfect)
 
-I have added on everything you asked.
+I have added on several improvements.
 
-(Eu já acrescentei tudo o que você pediu.)
-
----
+(Eu adicionei várias melhorias.)
 
 ## Estruturas importantes
 
@@ -119,151 +106,164 @@ I have added on everything you asked.
 
 **add on + objeto**
 
-**Exemplos:**
+Exemplos:
 
-- Add on extra cheese.
-  - (Acrescente queijo extra.)
-
-- Add on a premium package.
-  - (Adicione um pacote premium.)
+- We added on a new feature.
+  (Nós adicionamos um novo recurso.)
 
 - Add on more storage.
-  - (Adicione mais armazenamento.)
+  (Adicione mais armazenamento.)
 
----
+- They added on extra protection.
+  (Eles acrescentaram proteção extra.)
 
 ### Outras formas comuns
 
-**add + objeto + on**
+#### add on + something + to + something
 
-**Exemplos:**
+Usado para acrescentar algo a algo já existente.
 
-- I added another option on.
-  - (Eu acrescentei outra opção.)
+- We added on a section to the report.
+  (Acrescentamos uma seção ao relatório.)
 
-- She added a warranty on.
-  - (Ela acrescentou uma garantia.)
+- She added on a note to the document.
+  (Ela acrescentou uma observação ao documento.)
 
-- They added a service on.
-  - (Eles acrescentaram um serviço.)
+- They added on a new server to the network.
+  (Eles adicionaram um novo servidor à rede.)
 
-> **Observação:** esta estrutura é correta, mas **add on + objeto** é mais comum quando o objeto é longo.
+#### add on to + substantivo
 
----
+Usado para expandir algo existente.
+
+- This update adds on to the existing system.
+  (Esta atualização expande o sistema existente.)
+
+- The extension adds on to the original software.
+  (A extensão complementa o software original.)
 
 ## Uso com outros verbos
 
-### Usa ING?
+### Usa -ING?
 
-✔ **Não**
+- ✔ Sim
 
-Normalmente **add on** é seguido por um objeto (produto, serviço, recurso, opção etc.), e não por outro verbo.
+Exemplos:
 
----
+- They talked about adding on new features.
+  (Eles conversaram sobre adicionar novos recursos.)
+
+- We are considering adding on more storage.
+  (Estamos considerando adicionar mais armazenamento.)
 
 ### Usa TO + infinitivo?
 
-✔ **Não**
+- ✔ Sim
 
-Não é comum usar **add on + to + verbo**.
+Exemplos:
 
-O uso mais frequente é com substantivos.
+- We need to add on more functionality.
+  (Precisamos adicionar mais funcionalidades.)
 
----
+- She wants to add on another section.
+  (Ela quer acrescentar outra seção.)
 
-### Preposição obrigatória
+### Preposição obrigatória?
 
-Não possui preposição obrigatória além da própria partícula **on**, que faz parte do phrasal verb.
+Não possui preposição obrigatória.
 
----
+Quando necessário, pode aparecer com **to**.
+
+Estrutura comum:
+
+**add on + objeto + to + objeto**
+
+Exemplos:
+
+- Add on a note to the ticket.
+  (Acrescente uma observação ao chamado.)
+
+- They added on a feature to the application.
+  (Eles adicionaram um recurso ao aplicativo.)
 
 ## Frases extras (uso real)
 
-- You can add on more features.
-  - (Você pode adicionar mais recursos.)
+- The company added on new services this year.
+  (A empresa acrescentou novos serviços este ano.)
 
-- They added on a bonus service.
-  - (Eles acrescentaram um serviço de bônus.)
+- Can we add on another user account?
+  (Podemos adicionar outra conta de usuário?)
 
-- We added on cloud storage.
-  - (Nós adicionamos armazenamento em nuvem.)
+- The developer added on more validation rules.
+  (O desenvolvedor acrescentou mais regras de validação.)
 
-- Customers can add on insurance.
-  - (Os clientes podem adicionar um seguro.)
+- We may add on extra support later.
+  (Podemos acrescentar suporte extra posteriormente.)
 
-- I decided to add on another month.
-  - (Eu decidi acrescentar mais um mês.)
-
----
+- The plugin adds on useful functionality.
+  (O plugin adiciona funcionalidades úteis.)
 
 ## Combinações mais comuns (Collocations)
 
 ### add on a feature
 
-We added on a new feature.
-
-(Nós acrescentamos um novo recurso.)
-
----
-
-### add on a service
-
-You can add on a support service.
-
-(Você pode adicionar um serviço de suporte.)
-
----
+- The team added on a feature for reporting.
+  (A equipe adicionou um recurso para relatórios.)
 
 ### add on storage
 
-Many users add on extra storage.
+- We added on more storage to the server.
+  (Adicionamos mais armazenamento ao servidor.)
 
-(Muitos usuários adicionam armazenamento extra.)
+### add on functionality
 
----
+- The extension adds on functionality to the application.
+  (A extensão adiciona funcionalidades ao aplicativo.)
 
-### add on a warranty
+### add on services
 
-She added on an extended warranty.
+- The company plans to add on new services.
+  (A empresa planeja acrescentar novos serviços.)
 
-(Ela acrescentou uma garantia estendida.)
+### add on a module
 
----
+- The developer added on a security module.
+  (O desenvolvedor adicionou um módulo de segurança.)
 
-### add on insurance
+## Expressões comuns
 
-Would you like to add on insurance?
-
-(Você gostaria de adicionar um seguro?)
-
----
-
-## Expressões comuns (Common Expressions)
-
-Não existem expressões idiomáticas frequentes e relevantes com **add on**.
-
-O uso é predominantemente literal.
-
----
+- add on cost
+- add on service
+- add on package
+- add on feature
+- add on module
 
 ## Erros comuns
 
-❌ I add on to help.
+❌ We added a feature on the system.
 
-✔ I add on extra features.
+✔ We added on a feature to the system.
+
+Quando o foco é acrescentar algo como um extra, o phrasal verb **add on** pode ser mais natural.
+
+---
+
+❌ We are add on a new module.
+
+✔ We are adding on a new module.
+
+Após **to be**, é necessário usar a forma em **-ING**.
 
 ---
 
-❌ I added on to the project a file.
+❌ She added on to improve.
 
-✔ I added a file to the project.
+✔ She added on more features to improve the system.
 
-> Para indicar apenas "adicionar um arquivo", normalmente usa-se **add**, e não **add on**.
-
----
+O verbo normalmente precisa de um objeto indicando o que foi acrescentado.
 
 ## Observações importantes
 
-- **Add on** transmite a ideia de acrescentar algo opcional, extra ou complementar.
-- É muito comum em compras, assinaturas, planos, softwares e serviços.
-- Em desenvolvimento de software, aparece frequentemente ao falar de recursos opcionais, módulos, extensões e funcionalidades extras.
+- Em TI, **add-on** como substantivo é extremamente comum e significa complemento, extensão ou plugin.
+- O phrasal verb **add on** normalmente transmite a ideia de acrescentar algo extra a algo que já existe.
+- Em muitos contextos, **add** e **add on** são parecidos, mas **add on** enfatiza expansão ou complemento.

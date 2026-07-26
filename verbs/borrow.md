@@ -1,49 +1,62 @@
-# Borrow
+## Verbo: BORROW
 
-## Informações gerais
-
-**CEFR:** A2
-
-**Relevância para TI:** Pouco usado
-
-**Regular ou irregular?** Regular
-
----
-
-## Pronúncia (AFI – IPA)
-
-- **Presente:** borrow → /ˈbɑːroʊ/
-- **Presente (3ª pessoa):** borrows → /ˈbɑːroʊz/
-- **Passado:** borrowed → /ˈbɑːroʊd/
-- **Particípio:** borrowed → /ˈbɑːroʊd/
-
----
-
-## Phrasal verbs relacionados
-
-O verbo **borrow** não possui phrasal verbs relevantes de uso comum.
-
----
-
-## Forma do -ING
-
-**borrow → borrowing**
-
-Ao adicionar **-ing**, o **w** é mantido e nenhuma outra alteração ocorre.
-
-**Exemplos:**
-
-- borrowing money
-- borrowing books
-
----
-
-## Significados
-
+### Traduções principais
 - pegar emprestado
 - tomar emprestado
 
----
+### Informações gerais
+
+**Outras traduções**
+- pedir emprestado
+- utilizar temporariamente algo de outra pessoa
+
+#### Palavras da mesma família
+
+- borrowed → emprestado
+- borrowing → empréstimo / tomando emprestado
+- borrower → tomador de empréstimo
+- borrowings → empréstimos
+
+#### CEFR
+- A2
+
+#### Relevância para TI
+- Usado
+
+#### Tipo de verbo
+- Regular
+
+### Pronúncia (IPA – General American)
+
+- Presente: **borrow** → /ˈbɑːroʊ/
+- Presente (3ª pessoa): **borrows** → /ˈbɑːroʊz/
+- Passado: **borrowed** → /ˈbɑːroʊd/
+- Particípio: **borrowed** → /ˈbɑːroʊd/
+- Forma em **-ING**: **borrowing** → /ˈbɑːroʊɪŋ/
+
+### Phrasal verbs
+
+Não existem phrasal verbs muito relevantes derivados diretamente de **borrow**.
+
+### Forma em -ING
+
+**borrow → borrowing**
+
+O verbo apenas recebe **-ING**.
+
+- borrow → borrowing
+
+Pronúncia:
+
+- borrowing → /ˈbɑːroʊɪŋ/
+
+Exemplos:
+
+- I am borrowing a book.
+  (Estou pegando um livro emprestado.)
+
+- She is borrowing my laptop.
+  (Ela está pegando meu notebook emprestado.)
 
 ## Frases (tempo verbal)
 
@@ -51,190 +64,209 @@ Ao adicionar **-ing**, o **w** é mantido e nenhuma outra alteração ocorre.
 
 I borrow books from the library.
 
-(Eu pego livros emprestados na biblioteca.)
+(Eu pego livros emprestados da biblioteca.)
 
 ### Presente (3ª pessoa)
 
-She borrows my laptop.
+She borrows my headphones sometimes.
 
-(Ela pega meu notebook emprestado.)
+(Ela pega meus fones emprestados às vezes.)
 
 ### Passado
 
-I borrowed his car.
+I borrowed a charger yesterday.
 
-(Eu peguei o carro dele emprestado.)
+(Eu peguei um carregador emprestado ontem.)
 
 ### Futuro
 
-I will borrow your pen.
+I will borrow his laptop tomorrow.
 
-(Eu vou pegar sua caneta emprestada.)
+(Eu pegarei o notebook dele emprestado amanhã.)
 
 ### Particípio (Present Perfect)
 
-I have borrowed this book before.
+I have borrowed several books.
 
-(Eu já peguei este livro emprestado antes.)
-
----
+(Eu peguei vários livros emprestados.)
 
 ## Estruturas importantes
 
 ### Estrutura principal
 
-**borrow + objeto + from + pessoa/lugar**
+**borrow + objeto**
 
-**Exemplos:**
+Exemplos:
 
-- I borrowed a book from John.
-  (Eu peguei um livro emprestado com o John.)
+- Can I borrow your pen?
+  (Posso pegar sua caneta emprestada?)
 
-- She borrowed money from her parents.
-  (Ela pegou dinheiro emprestado com os pais.)
+- I borrowed a book.
+  (Eu peguei um livro emprestado.)
 
-- We borrowed a projector from the office.
-  (Nós pegamos um projetor emprestado no escritório.)
+- She borrowed my laptop.
+  (Ela pegou meu notebook emprestado.)
 
 ### Outras formas comuns
 
-#### borrow + objeto
+#### borrow + objeto + from + pessoa
 
-**Exemplos:**
+Estrutura muito comum.
 
-- Can I borrow your phone?
-  (Posso pegar seu telefone emprestado?)
+- I borrowed money from my brother.
+  (Peguei dinheiro emprestado com meu irmão.)
 
-- He borrowed my keyboard.
-  (Ele pegou meu teclado emprestado.)
+- She borrowed a book from a friend.
+  (Ela pegou um livro emprestado com uma amiga.)
+
+- We borrowed equipment from another team.
+  (Pegamos equipamentos emprestados com outra equipe.)
 
 #### borrow from + fonte
 
-**Exemplos:**
+Usado também para ideias, conceitos ou código.
 
-- The idea was borrowed from another project.
-  (A ideia foi emprestada de outro projeto.)
+- The framework borrows from older technologies.
+  (O framework utiliza conceitos de tecnologias mais antigas.)
 
-- Many languages borrow words from English.
-  (Muitas línguas pegam palavras emprestadas do inglês.)
+- This design borrows from a popular pattern.
+  (Este design utiliza elementos de um padrão popular.)
 
----
+#### borrow an idea
+
+- The company borrowed an idea from another product.
+  (A empresa aproveitou uma ideia de outro produto.)
+
+- The team borrowed a solution from a previous project.
+  (A equipe aproveitou uma solução de um projeto anterior.)
 
 ## Uso com outros verbos
 
-### Usa ING?
+### Usa -ING?
 
-✔ Não
+- ✔ Não
 
-O verbo **borrow** normalmente é seguido por um substantivo ou pronome.
+Normalmente não é seguido diretamente por verbo em **-ING**.
+
+❌ I borrowed using his computer.
+
+✔ I borrowed his computer.
 
 ### Usa TO + infinitivo?
 
-✔ Não
+- ✔ Não
 
-O verbo **borrow** não é seguido diretamente por **to + infinitivo**.
+Normalmente não é seguido diretamente por **to + infinitive**.
 
----
+❌ I borrowed to use his laptop.
 
-## Preposição obrigatória
+✔ I borrowed his laptop to use it.
 
-✔ **from** (quando indicar de quem ou de onde algo foi emprestado)
+O objeto normalmente vem logo após **borrow**.
 
-**Exemplos:**
+### Preposição obrigatória?
 
-- I borrowed this book from my friend.
-  (Eu peguei este livro emprestado com meu amigo.)
+Não possui preposição obrigatória.
 
-- She borrowed the charger from me.
-  (Ela pegou o carregador emprestado comigo.)
+A preposição mais comum é:
 
-- We borrowed the equipment from another department.
-  (Nós pegamos o equipamento emprestado de outro departamento.)
+- from
 
----
+Estrutura:
+
+**borrow + objeto + from + pessoa**
+
+Exemplos:
+
+- I borrowed a book from him.
+  (Peguei um livro emprestado com ele.)
+
+- She borrowed a charger from her colleague.
+  (Ela pegou um carregador emprestado com seu colega.)
+
+- We borrowed the idea from another project.
+  (Aproveitamos a ideia de outro projeto.)
 
 ## Frases extras (uso real)
 
-- Can I borrow your charger?
-  (Posso pegar seu carregador emprestado?)
+- Can I borrow your keyboard for a moment?
+  (Posso pegar seu teclado emprestado por um momento?)
 
-- I borrowed this idea from another project.
-  (Peguei esta ideia emprestada de outro projeto.)
+- The developer borrowed code from an open-source project.
+  (O desenvolvedor aproveitou código de um projeto de código aberto.)
 
-- He borrowed my computer yesterday.
-  (Ele pegou meu computador emprestado ontem.)
+- I borrowed a monitor from the support team.
+  (Peguei um monitor emprestado com a equipe de suporte.)
 
-- We borrowed some code for testing.
-  (Pegamos um pouco de código emprestado para testes.)
+- She borrowed some examples from the documentation.
+  (Ela aproveitou alguns exemplos da documentação.)
 
-- Don't forget to return what you borrowed.
-  (Não se esqueça de devolver o que você pegou emprestado.)
-
----
+- We borrowed a solution from a previous implementation.
+  (Aproveitamos uma solução de uma implementação anterior.)
 
 ## Combinações mais comuns (Collocations)
 
 ### borrow money
 
-I borrowed money from my brother.
-
-(Eu peguei dinheiro emprestado com meu irmão.)
+- He borrowed money from a friend.
+  (Ele pegou dinheiro emprestado com um amigo.)
 
 ### borrow a book
 
-She borrowed a book from the library.
-
-(Ela pegou um livro emprestado na biblioteca.)
-
-### borrow a car
-
-I borrowed my father's car.
-
-(Eu peguei o carro do meu pai emprestado.)
+- I borrowed a book from the library.
+  (Peguei um livro emprestado da biblioteca.)
 
 ### borrow an idea
 
-We borrowed an idea from another project.
+- The team borrowed an idea from another project.
+  (A equipe aproveitou uma ideia de outro projeto.)
 
-(Nós aproveitamos uma ideia de outro projeto.)
+### borrow from someone
 
-### borrow time
+- She borrowed a laptop from her coworker.
+  (Ela pegou um notebook emprestado com sua colega de trabalho.)
 
-We borrowed time to finish the project.
+### borrow code
 
-(Nós ganhamos um tempo extra para terminar o projeto.)
+- The developer borrowed code from an open-source repository.
+  (O desenvolvedor aproveitou código de um repositório open source.)
 
----
+## Expressões comuns
+
+- borrow money
+- borrow a book
+- borrow an idea
+- borrow from someone
+- borrow time
 
 ## Erros comuns
 
-❌ I borrowed him my book.
+❌ I borrowed him a book.
 
-✔ I lent him my book.
+✔ I borrowed a book from him.
 
-(Eu emprestei meu livro para ele.)
-
----
-
-❌ Can you borrow me your pen?
-
-✔ Can you lend me your pen?
-
-(Você pode me emprestar sua caneta?)
+**Borrow** é receber algo emprestado. A pessoa vem após **from**.
 
 ---
 
-❌ I borrowed to study.
+❌ Can you borrow me your laptop?
 
-✔ I borrowed a book to study.
+✔ Can you lend me your laptop?
 
-(Eu peguei um livro emprestado para estudar.)
+✔ Can I borrow your laptop?
+
+Brasileiros frequentemente confundem **borrow** e **lend**.
 
 ---
+
+❌ I borrowed from my friend a charger.
+
+✔ I borrowed a charger from my friend.
+
+A ordem mais natural é **borrow + objeto + from + pessoa**.
 
 ## Observações importantes
 
-- **borrow** significa **pegar emprestado**.
-- Não confunda com **lend**, que significa **emprestar**.
-- A estrutura mais comum é **borrow + objeto + from + pessoa/lugar**.
-- Em TI pode aparecer em expressões como **borrow code**, **borrow an idea**, **borrow logic** e **borrow a design pattern**, indicando reutilização de soluções existentes.
+- **Borrow** significa receber algo emprestado; **lend** significa emprestar algo a alguém.
+- A estrutura mais importante é **borrow something from someone**.
+- Em TI, é comum usar **borrow** também para falar de ideias, soluções, arquitetura ou código aproveitado de outros projetos.

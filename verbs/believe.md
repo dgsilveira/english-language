@@ -1,50 +1,66 @@
-# Believe
+## Verbo: BELIEVE
 
-## Informações gerais
+### Traduções principais
+- acreditar
+- crer
 
-**CEFR:** A1
+### Informações gerais
 
-**Relevância para TI:** Usado
+**Outras traduções**
+- confiar
+- considerar verdadeiro
+- achar (em alguns contextos)
 
-**Regular ou irregular?** Regular
+#### Palavras da mesma família
 
----
+- belief → crença
+- believe in → acreditar em
+- believer → crente / pessoa que acredita
+- believable → acreditável
+- unbelievable → inacreditável
 
-## Pronúncia (AFI – IPA)
+#### CEFR
+- A2
 
-- **Presente:** believe → /bɪˈliːv/
-- **Presente (3ª pessoa):** believes → /bɪˈliːvz/
-- **Passado:** believed → /bɪˈliːvd/
-- **Particípio:** believed → /bɪˈliːvd/
+#### Relevância para TI
+- Usado
 
----
+#### Tipo de verbo
+- Regular
 
-## Phrasal verbs relacionados
+### Pronúncia (IPA – General American)
 
-O verbo **believe** não possui phrasal verbs realmente relevantes ou de uso frequente.
+- Presente: **believe** → /bəˈliːv/
+- Presente (3ª pessoa): **believes** → /bəˈliːvz/
+- Passado: **believed** → /bəˈliːvd/
+- Particípio: **believed** → /bəˈliːvd/
+- Forma em **-ING**: **believing** → /bəˈliːvɪŋ/
 
----
+### Phrasal verbs
 
-## Forma do -ING
+Não existem phrasal verbs muito relevantes derivados diretamente de **believe**.
+
+### Forma em -ING
 
 **believe → believing**
 
-O verbo apenas acrescenta **-ing**, sem alterar a escrita.
+O **e** final é removido antes de adicionar **-ING**.
 
-**Exemplos:**
+- believe → believing
 
-- believing in yourself
-- believing the story
+Pronúncia:
 
----
+- believing → /bəˈliːvɪŋ/
 
-## Significados
+Exemplos:
 
-- acreditar
-- crer
-- confiar (em algo ou alguém)
+- I am believing more in myself.
+  (Estou acreditando mais em mim mesmo.)
 
----
+- She is believing the explanation.
+  (Ela está acreditando na explicação.)
+
+> Observação: o uso contínuo de **believe** é menos comum que o presente simples.
 
 ## Frases (tempo verbal)
 
@@ -56,29 +72,27 @@ I believe you.
 
 ### Presente (3ª pessoa)
 
-She believes the story.
+She believes the report.
 
-(Ela acredita na história.)
+(Ela acredita no relatório.)
 
 ### Passado
 
-I believed him.
+I believed his explanation.
 
-(Eu acreditei nele.)
+(Eu acreditei na explicação dele.)
 
 ### Futuro
 
-I will believe you.
+I will believe the results when I see them.
 
-(Eu acreditarei em você.)
+(Eu acreditarei nos resultados quando os vir.)
 
 ### Particípio (Present Perfect)
 
-I have believed this for years.
+I have always believed in hard work.
 
-(Eu acredito nisso há anos. / Eu tenho acreditado nisso há anos.)
-
----
+(Eu sempre acreditei no trabalho duro.)
 
 ## Estruturas importantes
 
@@ -86,148 +100,154 @@ I have believed this for years.
 
 **believe + objeto**
 
-**Exemplos:**
+Exemplos:
 
 - I believe you.
   (Eu acredito em você.)
 
-- She believes the news.
-  (Ela acredita na notícia.)
+- She believes the story.
+  (Ela acredita na história.)
 
-- They believed the report.
-  (Eles acreditaram no relatório.)
+- We believe the data.
+  (Nós acreditamos nos dados.)
 
 ### Outras formas comuns
 
-#### believe in + pessoa/coisa
+#### believe + that + oração
 
-**Exemplos:**
-
-- I believe in you.
-  (Eu acredito em você.)
-
-- We believe in teamwork.
-  (Nós acreditamos no trabalho em equipe.)
-
-- She believes in hard work.
-  (Ela acredita no trabalho duro.)
-
-#### believe that + oração
-
-**Exemplos:**
+Estrutura extremamente comum.
 
 - I believe that this is correct.
-  (Eu acredito que isso está correto.)
+  (Eu acredito que isto está correto.)
 
-- They believe that the project will succeed.
-  (Eles acreditam que o projeto terá sucesso.)
+- She believes that the project will succeed.
+  (Ela acredita que o projeto terá sucesso.)
 
-- We believe that this solution is better.
-  (Nós acreditamos que esta solução é melhor.)
+- We believe that the issue is resolved.
+  (Nós acreditamos que o problema foi resolvido.)
 
----
+#### believe in + substantivo
+
+Usado para crenças, princípios, pessoas ou ideias.
+
+- I believe in teamwork.
+  (Eu acredito em trabalho em equipe.)
+
+- She believes in education.
+  (Ela acredita na educação.)
+
+- We believe in continuous improvement.
+  (Nós acreditamos na melhoria contínua.)
+
+#### believe + pessoa
+
+- I believe him.
+  (Eu acredito nele.)
+
+- She believes her manager.
+  (Ela acredita em seu gerente.)
+
+- They believe the consultant.
+  (Eles acreditam no consultor.)
 
 ## Uso com outros verbos
 
-### Usa ING?
+### Usa -ING?
 
-✔ Não
+- ✔ Não
 
-Normalmente **believe** não é seguido diretamente por um verbo terminado em **-ing**.
+Normalmente não é seguido diretamente por verbo em **-ING**.
 
-**Exemplo incorreto:**
+❌ I believe working remotely is possible. *(estrutura diferente)*
 
-❌ I believe working hard.
+✔ I believe that working remotely is possible.
+
+✔ I believe in working remotely.
 
 ### Usa TO + infinitivo?
 
-✔ Sim
+- ✔ Não
 
-Muito comum na estrutura **believe someone to be...**
+**Believe** normalmente não é seguido diretamente por **to + infinitive**.
 
-**Exemplos:**
+❌ I believe to be right.
 
-- I believe him to be honest.
-  (Eu acredito que ele seja honesto.)
+✔ I believe I am right.
 
-- They believe the server to be secure.
-  (Eles acreditam que o servidor seja seguro.)
+✔ I believe that I am right.
 
----
+### Preposição obrigatória?
 
-## Preposição obrigatória
+A preposição mais importante é:
 
-### believe in
+- in
 
-Usada para indicar confiança, fé ou crença.
+Estrutura:
 
-**Exemplos:**
+**believe in + substantivo**
 
-- I believe in you.
-  (Eu acredito em você.)
+Exemplos:
 
-- We believe in this idea.
-  (Nós acreditamos nesta ideia.)
+- I believe in this project.
+  (Eu acredito neste projeto.)
 
-Sem **in**, o verbo normalmente significa acreditar que algo é verdadeiro.
+- She believes in innovation.
+  (Ela acredita em inovação.)
 
-- I believe you.
-  (Eu acredito em você.)
-
----
+- We believe in secure software development.
+  (Nós acreditamos no desenvolvimento seguro de software.)
 
 ## Frases extras (uso real)
 
-- I believe this will work.
-  (Eu acredito que isso vai funcionar.)
+- I believe the system is working correctly.
+  (Eu acredito que o sistema está funcionando corretamente.)
 
-- Do you believe me?
-  (Você acredita em mim?)
+- The team believes the deployment was successful.
+  (A equipe acredita que a implantação foi bem-sucedida.)
 
-- We believe this is the best solution.
-  (Acreditamos que esta é a melhor solução.)
+- We believe in automated testing.
+  (Nós acreditamos em testes automatizados.)
 
-- I don't believe that story.
-  (Eu não acredito nessa história.)
+- The client believes the solution will reduce costs.
+  (O cliente acredita que a solução reduzirá custos.)
 
-- The developers believe the bug is fixed.
-  (Os desenvolvedores acreditam que o bug foi corrigido.)
-
----
+- I don't believe this issue is related to the database.
+  (Eu não acredito que este problema esteja relacionado ao banco de dados.)
 
 ## Combinações mais comuns (Collocations)
 
 ### believe in yourself
 
-I believe in yourself every day.
+- You must believe in yourself.
+  (Você deve acreditar em si mesmo.)
 
-(Eu acredito em mim mesmo todos os dias.)
+### believe in something
+
+- We believe in quality software.
+  (Nós acreditamos em software de qualidade.)
+
+### strongly believe
+
+- I strongly believe this approach is better.
+  (Eu acredito fortemente que essa abordagem é melhor.)
 
 ### believe the results
 
-We believe the results.
+- The manager believes the results.
+  (O gerente acredita nos resultados.)
 
-(Nós acreditamos nos resultados.)
+### believe that
 
-### believe the report
+- We believe that the update fixed the issue.
+  (Nós acreditamos que a atualização corrigiu o problema.)
 
-The manager believes the report.
+## Expressões comuns
 
-(O gerente acredita no relatório.)
-
-### believe the information
-
-I believe the information.
-
-(Eu acredito na informação.)
-
-### believe the evidence
-
-They believe the evidence.
-
-(Eles acreditam nas evidências.)
-
----
+- believe in yourself
+- believe in something
+- believe it or not
+- strongly believe
+- make believe
 
 ## Erros comuns
 
@@ -235,24 +255,30 @@ They believe the evidence.
 
 ✔ I believe you are right.
 
----
+✔ I believe that you are right.
 
-❌ I believe working hard.
-
-✔ I believe in working hard.
+Após **believe**, normalmente não se usa **in** antes de uma oração.
 
 ---
 
-❌ I believe to you.
+❌ I believe to be correct.
 
-✔ I believe you.
+✔ I believe it is correct.
+
+✔ I believe that it is correct.
+
+**Believe** normalmente não aceita **to + infinitive** logo após o verbo.
 
 ---
+
+❌ I believe on this idea.
+
+✔ I believe in this idea.
+
+A preposição correta é **in**, não **on**.
 
 ## Observações importantes
 
-- **believe** e **believe in** possuem significados diferentes.
-- **believe someone** = acreditar no que alguém diz.
-- **believe in someone** = confiar ou ter fé em alguém.
-- É muito comum em conversas, reuniões, apresentações e documentação técnica: *I believe this is the best approach*, *We believe the issue is fixed*.
-```
+- **Believe** é usado para acreditar que algo é verdadeiro, enquanto **believe in** significa acreditar em alguém, algo ou um princípio.
+- A estrutura **believe that + oração** é uma das mais comuns no inglês falado e escrito.
+- Em ambientes profissionais e de TI, é muito comum para expressar opiniões, hipóteses e confiança em soluções ou resultados.

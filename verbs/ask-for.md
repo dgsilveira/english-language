@@ -1,291 +1,262 @@
-# Ask For
+## Verbo: ASK FOR
 
-## Informações gerais
-
-**SIGNIFICADO(S):**
-
-- pedir algo
+### Traduções principais
+- pedir
 - solicitar
+
+### Informações gerais
+
+**Outras traduções**
 - requisitar
+- pedir por
+- solicitar algo
 
-**CEFR:** A2
+#### Palavras da mesma família
 
-**Relevância para TI:** Muito usado
+- ask → perguntar / pedir
+- request → solicitação
+- requested → solicitado
+- requesting → solicitando
+- requester → solicitante
 
-**Conjugação:** Regular
+#### CEFR
+- A2
 
----
+#### Relevância para TI
+- Muito usado
 
-## Pronúncia (AFI – IPA)
+#### Tipo de verbo
+- Phrasal Verb
 
-- **Presente:** ask for → /æsk fɔr/
-- **Presente (3ª pessoa):** asks for → /æsks fɔr/
-- **Passado:** asked for → /æskt fɔr/
-- **Particípio:** asked for → /æskt fɔr/
+### Pronúncia (IPA – General American)
 
----
+- Presente: **ask for** → /æsk fɔr/
+- Presente (3ª pessoa): **asks for** → /æsks fɔr/
+- Passado: **asked for** → /æskt fɔr/
+- Particípio: **asked for** → /æskt fɔr/
+- Forma em **-ING**: **asking for** → /ˈæskɪŋ fɔr/
 
-## Phrasal verbs
+### Phrasal verbs
 
-**ask for** é um **phrasal verb** derivado de **ask**.
+O próprio verbo estudado já é um phrasal verb.
 
-Outros phrasal verbs relacionados:
+Outros relacionados:
 
 - ask around
 - ask out
-- ask over
 - ask back
+- ask over
 
----
-
-## Forma em -ING
+### Forma em -ING
 
 **ask for → asking for**
 
-O verbo principal apenas recebe **-ing**, sem alterações ortográficas.
+O verbo apenas recebe **-ING**.
 
-**Exemplos:**
+- ask → asking
+- ask for → asking for
+
+Pronúncia:
+
+- asking for → /ˈæskɪŋ fɔr/
+
+Exemplos:
 
 - I am asking for help.
-  - (Estou pedindo ajuda.)
+  (Estou pedindo ajuda.)
 
-- The application is asking for permission.
-  - (O aplicativo está solicitando permissão.)
-
----
-
-## Palavras da mesma família (Word Family)
-
-- ask
-- asks
-- asked
-- asking
-- request
-- request for
-- requester
-
----
-
-## SIGNIFICADO(S)
-
-- pedir algo
-- solicitar
-- requisitar
-
----
+- She is asking for more information.
+  (Ela está pedindo mais informações.)
 
 ## Frases (tempo verbal)
 
 ### Presente (1ª pessoa)
 
-I ask for help.
+I ask for feedback regularly.
 
-(Eu peço ajuda.)
-
----
+(Eu peço feedback regularmente.)
 
 ### Presente (3ª pessoa)
 
-He asks for money.
+She asks for assistance when needed.
 
-(Ele pede dinheiro.)
-
----
+(Ela pede ajuda quando necessário.)
 
 ### Passado
 
-I asked for it.
+I asked for a new password.
 
-(Eu pedi isso.)
-
----
+(Eu solicitei uma nova senha.)
 
 ### Futuro
 
-I will ask for more.
+I will ask for more details.
 
-(Eu pedirei mais.)
-
----
+(Eu pedirei mais detalhes.)
 
 ### Particípio (Present Perfect)
 
-I have asked for it.
+I have asked for permission.
 
-(Eu pedi isso. / Eu tenho pedido isso.)
-
----
+(Eu pedi permissão.)
 
 ## Estruturas importantes
 
 ### Estrutura principal
 
-**ask for + coisa**
+**ask for + substantivo**
 
-**Exemplos:**
+Exemplos:
 
-- She asked for advice.
-  - (Ela pediu um conselho.)
+- I asked for help.
+  (Eu pedi ajuda.)
 
-- They asked for directions.
-  - (Eles pediram informações.)
+- She asked for information.
+  (Ela solicitou informações.)
 
-- We asked for permission.
-  - (Nós pedimos permissão.)
-
----
+- We asked for support.
+  (Nós pedimos suporte.)
 
 ### Outras formas comuns
 
-**ask for + ajuda / informação / recurso**
+#### ask for + objeto
 
-**Exemplos:**
+Usado para solicitar algo específico.
 
-- The application asks for your email address.
-  - (O aplicativo solicita seu endereço de e-mail.)
+- He asked for a refund.
+  (Ele pediu um reembolso.)
 
-- The system asked for confirmation.
-  - (O sistema solicitou confirmação.)
+- They asked for documentation.
+  (Eles solicitaram documentação.)
 
-- The website asks for your password.
-  - (O site solicita sua senha.)
+- I asked for access.
+  (Eu solicitei acesso.)
 
----
+#### ask someone for + objeto
+
+Usado para pedir algo a alguém.
+
+- I asked the manager for approval.
+  (Eu pedi aprovação ao gerente.)
+
+- She asked me for advice.
+  (Ela me pediu conselho.)
+
+- We asked the client for feedback.
+  (Nós pedimos feedback ao cliente.)
+
+#### ask for + problema
+
+Usado em expressões que indicam provocar problemas.
+
+- You're asking for trouble.
+  (Você está procurando problema.)
+
+- He is asking for difficulty.
+  (Ele está procurando dificuldade.)
 
 ## Uso com outros verbos
 
-### Usa ING?
+### Usa -ING?
 
-✔ **Não**
+- ✔ Sim
 
-**ask for** é seguido normalmente por um **substantivo** ou **pronome**, e não por outro verbo.
+Após preposições ou em estruturas nominais.
 
----
+Exemplos:
+
+- Thank you for asking for help.
+  (Obrigado por pedir ajuda.)
+
+- She is interested in asking for feedback.
+  (Ela está interessada em pedir feedback.)
 
 ### Usa TO + infinitivo?
 
-✔ **Não**
+- ✔ Não
 
-Após **ask for**, normalmente não vem um verbo.
+**Ask for** normalmente é seguido por um substantivo ou pronome.
 
-Para pedir que alguém faça alguma coisa, utiliza-se:
+❌ I asked for to speak.
 
-**ask + pessoa + to + infinitivo**
+✔ I asked to speak.
 
-**Exemplos:**
+Quando vem uma ação depois de **ask**, normalmente o phrasal verb **ask for** não é utilizado.
 
-- I asked him to help.
-  - (Eu pedi para ele ajudar.)
+### Preposição obrigatória?
 
-- She asked me to wait.
-  - (Ela pediu para eu esperar.)
+Sim.
 
----
+A preposição obrigatória é:
 
-### Preposição obrigatória
+- for
 
-✔ **for**
+Estrutura:
 
-A preposição **for** faz parte do próprio phrasal verb e não pode ser omitida.
+**ask for + substantivo**
 
-**Exemplos:**
+Exemplos:
 
-- ask for help
-- ask for permission
-- ask for information
-- ask for more time
-- ask for a refund
+- I asked for help.
+  (Eu pedi ajuda.)
 
----
+- She asked for permission.
+  (Ela pediu permissão.)
+
+- The user asked for support.
+  (O usuário solicitou suporte.)
 
 ## Frases extras (uso real)
 
-- Can I ask for a refund?
-  - (Posso pedir um reembolso?)
+- The client asked for a new feature.
+  (O cliente pediu um novo recurso.)
 
-- The website asks for your password.
-  - (O site solicita sua senha.)
+- I asked for access to the server.
+  (Eu solicitei acesso ao servidor.)
 
-- Don't be afraid to ask for help.
-  - (Não tenha medo de pedir ajuda.)
+- The developer asked for more time.
+  (O desenvolvedor pediu mais tempo.)
 
-- The API asks for an authentication token.
-  - (A API solicita um token de autenticação.)
+- Users often ask for documentation.
+  (Os usuários frequentemente pedem documentação.)
 
-- The application asks for administrator permission.
-  - (O aplicativo solicita permissão de administrador.)
-
----
+- We asked for additional testing.
+  (Nós solicitamos testes adicionais.)
 
 ## Combinações mais comuns (Collocations)
 
 ### ask for help
 
-Don't hesitate to ask for help.
-
-(Não hesite em pedir ajuda.)
-
----
-
-### ask for permission
-
-You should ask for permission first.
-
-(Você deve pedir permissão primeiro.)
-
----
+- Don't hesitate to ask for help.
+  (Não hesite em pedir ajuda.)
 
 ### ask for information
 
-Customers can ask for more information.
+- The customer asked for more information.
+  (O cliente pediu mais informações.)
 
-(Os clientes podem solicitar mais informações.)
+### ask for permission
 
----
+- She asked for permission before making changes.
+  (Ela pediu permissão antes de fazer alterações.)
 
-### ask for a refund
+### ask for support
 
-She asked for a refund.
+- The team asked for technical support.
+  (A equipe pediu suporte técnico.)
 
-(Ela pediu um reembolso.)
+### ask for feedback
 
----
+- We asked for feedback after the release.
+  (Nós pedimos feedback após o lançamento.)
 
-### ask for confirmation
+## Expressões comuns
 
-The system asks for confirmation before deleting the file.
-
-(O sistema solicita confirmação antes de excluir o arquivo.)
-
----
-
-## Expressões comuns (Common Expressions)
-
-### ask for help
-
-Never be afraid to ask for help.
-
-(Nunca tenha medo de pedir ajuda.)
-
----
-
-### ask for directions
-
-We asked for directions.
-
-(Nós pedimos informações sobre o caminho.)
-
----
-
-### ask for trouble
-
-You're asking for trouble.
-
-(Você está procurando problemas.)
-
-> Expressão idiomática que significa agir de forma que provavelmente causará problemas.
-
----
+- ask for help
+- ask for permission
+- ask for trouble
+- ask for support
+- ask for feedback
 
 ## Erros comuns
 
@@ -293,23 +264,26 @@ You're asking for trouble.
 
 ✔ I asked for help.
 
----
-
-❌ She asked for me to help.
-
-✔ She asked me to help.
+Quando o significado é solicitar algo, normalmente utiliza-se **ask for**.
 
 ---
 
-❌ The app asked my password.
+❌ She asked for to speak with the manager.
 
-✔ The app asked for my password.
+✔ She asked to speak with the manager.
+
+Após **ask for**, normalmente vem um substantivo, não **to + infinitive**.
 
 ---
+
+❌ I asked a permission.
+
+✔ I asked for permission.
+
+A estrutura correta é **ask for permission**.
 
 ## Observações importantes
 
-- **ask for** significa pedir ou solicitar uma **coisa**, e não pedir que alguém execute uma ação.
-- Para pedir que alguém faça alguma coisa, utiliza-se **ask + pessoa + to + verbo**.
-- É extremamente comum em interfaces, APIs e documentação técnica: **ask for confirmation**, **ask for credentials**, **ask for user input**, **ask for permission**, **ask for authentication**.
-- É um dos phrasal verbs mais frequentes do inglês e aparece desde o nível A2 até contextos técnicos avançados.
+- **Ask for** é usado para solicitar algo, enquanto **ask** sozinho geralmente significa perguntar.
+- Em TI, é muito comum em contextos de acesso, suporte, documentação e permissões.
+- A combinação **ask someone for something** é extremamente frequente no inglês cotidiano e profissional.

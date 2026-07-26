@@ -1,56 +1,69 @@
-# Build
+## Verbo: BUILD
 
-## Informações gerais
+### Traduções principais
+- construir
+- desenvolver
 
-**CEFR:** A1
+### Informações gerais
 
-**Relevância para TI:** Muito usado
+**Outras traduções**
+- criar
+- montar
+- elaborar
+- gerar
 
-**Regular ou irregular?** Irregular
+#### Palavras da mesma família
 
----
+- building → edifício / construção
+- builder → construtor
+- built → construído
+- rebuild → reconstruir
+- build-up → acúmulo / desenvolvimento gradual
 
-## Pronúncia (AFI – IPA)
+#### CEFR
+- A2
 
-- **Presente:** build → /bɪld/
-- **Presente (3ª pessoa):** builds → /bɪldz/
-- **Passado:** built → /bɪlt/
-- **Particípio:** built → /bɪlt/
+#### Relevância para TI
+- Muito usado
 
----
+#### Tipo de verbo
+- Irregular
 
-## Phrasal verbs relacionados
+### Pronúncia (IPA – General American)
+
+- Presente: **build** → /bɪld/
+- Presente (3ª pessoa): **builds** → /bɪldz/
+- Passado: **built** → /bɪlt/
+- Particípio: **built** → /bɪlt/
+- Forma em **-ING**: **building** → /ˈbɪldɪŋ/
+
+### Phrasal verbs
 
 - build up
 - build on
-- build into
 - build in
 - build out
+- build around
 
----
-
-## Forma do -ING
+### Forma em -ING
 
 **build → building**
 
-O verbo apenas acrescenta **-ing**, sem alterações na escrita.
+O verbo apenas recebe **-ING**.
 
-**Exemplos:**
+- build → building
 
-- building a house
-- building an application
-- building a database
+Pronúncia:
 
----
+- building → /ˈbɪldɪŋ/
 
-## Significados
+Exemplos:
 
-- construir
-- desenvolver
-- criar
-- montar
+- We are building a new application.
+  (Estamos desenvolvendo uma nova aplicação.)
 
----
+- The team is building an API.
+  (A equipe está construindo uma API.)
 
 ## Frases (tempo verbal)
 
@@ -62,29 +75,27 @@ I build web applications.
 
 ### Presente (3ª pessoa)
 
-She builds mobile apps.
+She builds secure systems.
 
-(Ela desenvolve aplicativos móveis.)
+(Ela desenvolve sistemas seguros.)
 
 ### Passado
 
-I built a new API.
+I built a new dashboard.
 
-(Eu desenvolvi uma nova API.)
+(Eu desenvolvi um novo painel.)
 
 ### Futuro
 
-I will build a better solution.
+I will build a mobile application.
 
-(Eu construirei uma solução melhor.)
+(Eu desenvolverei uma aplicação móvel.)
 
 ### Particípio (Present Perfect)
 
-I have built several projects.
+I have built several APIs.
 
-(Eu desenvolvi vários projetos.)
-
----
+(Eu desenvolvi várias APIs.)
 
 ## Estruturas importantes
 
@@ -92,156 +103,189 @@ I have built several projects.
 
 **build + objeto**
 
-**Exemplos:**
+Exemplos:
 
-- We build software.
-  (Nós desenvolvemos software.)
+- Build a website.
+  (Desenvolva um site.)
 
-- They built a bridge.
-  (Eles construíram uma ponte.)
+- We built a new system.
+  (Nós desenvolvemos um novo sistema.)
 
-- She built a website.
-  (Ela desenvolveu um site.)
+- She built a useful tool.
+  (Ela desenvolveu uma ferramenta útil.)
 
 ### Outras formas comuns
 
-#### build + objeto + for + pessoa/finalidade
+#### build + objeto + for + pessoa
 
-**Exemplos:**
+Usado para indicar o destinatário.
 
-- We built this tool for developers.
-  (Nós desenvolvemos esta ferramenta para desenvolvedores.)
+- We built the solution for the client.
+  (Desenvolvemos a solução para o cliente.)
 
-- They built the system for small companies.
-  (Eles desenvolveram o sistema para pequenas empresas.)
+- She built the dashboard for the team.
+  (Ela desenvolveu o painel para a equipe.)
 
-- I built an API for this project.
-  (Eu desenvolvi uma API para este projeto.)
+- I built the application for small businesses.
+  (Eu desenvolvi a aplicação para pequenas empresas.)
 
-#### build on + ideia/base
+#### build on + algo
 
-**Exemplos:**
+Usado para expandir algo existente.
 
-- Let's build on this idea.
-  (Vamos desenvolver esta ideia.)
+- We built on the previous version.
+  (Aprimoramos a versão anterior.)
 
-- The new version builds on the previous release.
-  (A nova versão foi desenvolvida com base na versão anterior.)
+- The project builds on existing technology.
+  (O projeto se baseia em tecnologia existente.)
 
-- We built on their work.
-  (Nós desenvolvemos o trabalho deles.)
+- The team built on earlier research.
+  (A equipe se baseou em pesquisas anteriores.)
 
----
+#### build + relacionamento/confiança
+
+- We built trust with the client.
+  (Construímos confiança com o cliente.)
+
+- She built a strong reputation.
+  (Ela construiu uma forte reputação.)
+
+- They built good relationships with customers.
+  (Eles construíram bons relacionamentos com clientes.)
 
 ## Uso com outros verbos
 
-### Usa ING?
+### Usa -ING?
 
-✔ Não
+- ✔ Sim
 
-O verbo **build** normalmente não é seguido diretamente por outro verbo em **-ing**.
+Exemplos:
+
+- I enjoy building software.
+  (Eu gosto de desenvolver software.)
+
+- They are interested in building APIs.
+  (Eles estão interessados em desenvolver APIs.)
+
+- We learned by building projects.
+  (Aprendemos desenvolvendo projetos.)
 
 ### Usa TO + infinitivo?
 
-✔ Não
+- ✔ Sim
 
-O verbo normalmente é seguido por um objeto.
+Exemplos:
 
----
+- I want to build a web application.
+  (Eu quero desenvolver uma aplicação web.)
 
-## Preposição obrigatória?
+- She plans to build a new feature.
+  (Ela planeja desenvolver um novo recurso.)
 
-✔ Não possui.
+- We need to build a secure solution.
+  (Precisamos desenvolver uma solução segura.)
 
-Dependendo da estrutura, pode aparecer com:
+### Preposição obrigatória?
 
-- on
-- for
-- into
-- in
-- up
-- out
+Não possui preposição obrigatória.
 
-Algumas dessas combinações formam phrasal verbs.
+As combinações mais comuns são:
 
----
+- build on
+- build for
+- build with
+
+Exemplos:
+
+- We built on the original idea.
+  (Nós nos baseamos na ideia original.)
+
+- I built this tool for my team.
+  (Eu desenvolvi esta ferramenta para minha equipe.)
+
+- The application was built with Python.
+  (A aplicação foi desenvolvida com Python.)
 
 ## Frases extras (uso real)
 
-- We build software every day.
-  (Nós desenvolvemos software todos os dias.)
+- The team built a new authentication system.
+  (A equipe desenvolveu um novo sistema de autenticação.)
 
-- The team built a new feature.
-  (A equipe desenvolveu um novo recurso.)
+- We are building a REST API.
+  (Estamos desenvolvendo uma API REST.)
 
-- This framework helps build APIs quickly.
-  (Este framework ajuda a desenvolver APIs rapidamente.)
+- The company built an internal tool for automation.
+  (A empresa desenvolveu uma ferramenta interna para automação.)
 
-- They built the database from scratch.
-  (Eles construíram o banco de dados do zero.)
+- She built a monitoring dashboard.
+  (Ela desenvolveu um painel de monitoramento.)
 
-- The CI server builds the project automatically.
-  (O servidor de integração contínua compila o projeto automaticamente.)
-
----
+- The developers built the feature in two weeks.
+  (Os desenvolvedores desenvolveram o recurso em duas semanas.)
 
 ## Combinações mais comuns (Collocations)
 
-### build a house
+### build a system
 
-They built a house last year.
-
-(Eles construíram uma casa no ano passado.)
-
-### build a website
-
-We built a new website.
-
-(Nós desenvolvemos um novo site.)
+- The engineers built a scalable system.
+  (Os engenheiros desenvolveram um sistema escalável.)
 
 ### build an application
 
-She is building an application.
+- We built an application for project management.
+  (Desenvolvemos uma aplicação para gerenciamento de projetos.)
 
-(Ela está desenvolvendo uma aplicação.)
+### build a website
 
-### build a system
+- She built a website for her business.
+  (Ela desenvolveu um site para seu negócio.)
 
-The team built a secure system.
+### build trust
 
-(A equipe desenvolveu um sistema seguro.)
+- Good communication helps build trust.
+  (Uma boa comunicação ajuda a construir confiança.)
 
-### build an API
+### build a team
 
-I built an API for the project.
+- The company built a strong development team.
+  (A empresa montou uma forte equipe de desenvolvimento.)
 
-(Eu desenvolvi uma API para o projeto.)
+## Expressões comuns
 
----
+- build trust
+- build a reputation
+- build from scratch
+- build on something
+- build a team
 
 ## Erros comuns
 
-❌ I builded a website.
+❌ I have build a new application.
 
-✔ I built a website.
+✔ I have built a new application.
 
----
-
-❌ I have build many projects.
-
-✔ I have built many projects.
+No Present Perfect, utiliza-se o particípio **built**.
 
 ---
 
-❌ We are build a new system.
+❌ Yesterday I build a website.
 
-✔ We are building a new system.
+✔ Yesterday I built a website.
+
+No passado simples, utiliza-se **built**.
 
 ---
+
+❌ We built on top of from scratch.
+
+✔ We built it from scratch.
+
+✔ We built on the previous version.
+
+**Build from scratch** e **build on** possuem significados diferentes e não devem ser misturados.
 
 ## Observações importantes
 
-- **build** é um verbo **irregular**: **build → built → built**.
-- Em inglês, **build** significa tanto **construir fisicamente** quanto **desenvolver software**, projetos e soluções.
-- Em TI, é um dos verbos mais importantes e aparece constantemente em contextos como desenvolvimento de software, pipelines de CI/CD, compilação e arquitetura de sistemas.
-- O substantivo **build** também é extremamente comum em TI, significando **compilação** ou **versão compilada** (*The latest build passed all tests.*).
+- As formas irregulares devem ser memorizadas: **build → built → built**.
+- Em TI, **build** frequentemente significa desenvolver software, sistemas, APIs, ferramentas e infraestrutura.
+- A expressão **build from scratch** é extremamente comum e significa desenvolver algo do zero.

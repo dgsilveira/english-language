@@ -1,98 +1,89 @@
-# Add
+## Verbo: ADD
 
-## Informações gerais
-
-**SIGNIFICADO(S):**
-
+### Traduções principais
 - adicionar
 - incluir
 - acrescentar
 
-**CEFR:** A1
+### Informações gerais
 
-**Relevância para TI:** Muito usado
+**Outras traduções**
+- somar
+- incluir
+- anexar (em alguns contextos)
 
-**Conjugação:** Regular
+#### Palavras da mesma família
 
----
+- addition → adição
+- additional → adicional
+- additionally → adicionalmente
+- added → adicionado
+- additive → aditivo
 
-## Pronúncia (AFI – IPA)
+#### CEFR
+- A1
 
-- **Presente:** add → /æd/
-- **Presente (3ª pessoa):** adds → /ædz/
-- **Passado:** added → /ˈædɪd/
-- **Particípio:** added → /ˈædɪd/
+#### Relevância para TI
+- Muito usado
 
----
+#### Tipo de verbo
+- Regular
 
-## Phrasal verbs
+### Pronúncia (IPA – General American)
 
-- **add up** → somar; fazer sentido
-- **add on** → adicionar; acrescentar
-- **add in** → incluir durante um processo
+- Presente: **add** → /æd/
+- Presente (3ª pessoa): **adds** → /ædz/
+- Passado: **added** → /ˈædɪd/
+- Particípio: **added** → /ˈædɪd/
+- Forma em **-ING**: **adding** → /ˈædɪŋ/
 
----
+### Phrasal verbs
 
-## Forma em -ING
+- add up
+- add in
+- add on
+- add to
+- add up to
+
+### Forma em -ING
 
 **add → adding**
 
-O verbo apenas recebe **-ing**, sem alterações ortográficas.
+O verbo termina em consoante após uma vogal curta, então ocorre dobra da consoante final:
 
-**Exemplos:**
+- add → adding
 
-- I am adding more information.
-  - (Eu estou adicionando mais informações.)
+Pronúncia:
 
-- She is adding a new user.
-  - (Ela está adicionando um novo usuário.)
+- adding → /ˈædɪŋ/
 
----
+Exemplos:
 
-## Palavras da mesma família (Word Family)
+- I am adding a new user.
+  (Estou adicionando um novo usuário.)
 
-- add (verbo)
-- adding (gerúndio)
-- added (passado e particípio)
-- addition (adição)
-- additional (adicional)
-- additionally (além disso)
-
----
-
-## SIGNIFICADO(S)
-
-- adicionar
-- incluir
-- acrescentar
-
----
+- She is adding more details.
+  (Ela está adicionando mais detalhes.)
 
 ## Frases (tempo verbal)
 
 ### Presente (1ª pessoa)
 
-I add sugar to my coffee.
+I add new features every month.
 
-(Eu adiciono açúcar ao meu café.)
-
----
+(Eu adiciono novos recursos todos os meses.)
 
 ### Presente (3ª pessoa)
 
-She adds salt to the food.
+She adds comments to the document.
 
-(Ela adiciona sal à comida.)
-
----
+(Ela adiciona comentários ao documento.)
 
 ### Passado
 
-I added milk to the recipe.
+I added a new page yesterday.
 
-(Eu adicionei leite à receita.)
-
----
+(Eu adicionei uma nova página ontem.)
 
 ### Futuro
 
@@ -100,184 +91,191 @@ I will add your name to the list.
 
 (Eu adicionarei seu nome à lista.)
 
----
-
 ### Particípio (Present Perfect)
 
-I have added everything already.
+I have added all required files.
 
-(Eu já adicionei tudo.)
-
----
+(Eu adicionei todos os arquivos necessários.)
 
 ## Estruturas importantes
 
 ### Estrutura principal
 
-**add + objeto + to + destino**
+**add + objeto**
 
-**Exemplos:**
+Exemplos:
 
-- Add sugar to the coffee.
-  - (Adicione açúcar ao café.)
+- Add your email address.
+  (Adicione seu endereço de e-mail.)
 
-- Add your name to the list.
-  - (Adicione seu nome à lista.)
+- I added a new task.
+  (Eu adicionei uma nova tarefa.)
 
-- Add the file to the project.
-  - (Adicione o arquivo ao projeto.)
-
----
+- She added more information.
+  (Ela adicionou mais informações.)
 
 ### Outras formas comuns
 
-**add + objeto**
+#### add + objeto + to + objeto
 
-**Exemplos:**
+Usado para indicar o destino daquilo que foi adicionado.
 
-- Add more details.
-  - (Adicione mais detalhes.)
+- I added a user to the group.
+  (Eu adicionei um usuário ao grupo.)
 
-- Add another example.
-  - (Adicione outro exemplo.)
+- Add the file to the folder.
+  (Adicione o arquivo à pasta.)
 
-- Add a comment.
-  - (Adicione um comentário.)
+- She added a note to the report.
+  (Ela adicionou uma observação ao relatório.)
 
----
+#### add to + substantivo
+
+Usado com o sentido de aumentar ou contribuir.
+
+- This feature adds to security.
+  (Este recurso contribui para a segurança.)
+
+- The update adds to the cost.
+  (A atualização aumenta o custo.)
+
+#### add that + oração
+
+Usado para acrescentar uma informação.
+
+- He added that the issue was solved.
+  (Ele acrescentou que o problema foi resolvido.)
+
+- She added that the test passed.
+  (Ela acrescentou que o teste passou.)
 
 ## Uso com outros verbos
 
-### Usa ING?
+### Usa -ING?
 
-✔ **Não**
+- ✔ Sim
 
-O verbo **add** normalmente não é seguido diretamente por outro verbo no gerúndio.
+Usado principalmente após preposições.
 
----
+Exemplos:
+
+- He left without adding a comment.
+  (Ele saiu sem adicionar um comentário.)
+
+- She is interested in adding new features.
+  (Ela está interessada em adicionar novos recursos.)
 
 ### Usa TO + infinitivo?
 
-✔ **Não é uma estrutura comum**
+- ✔ Sim
 
-O **to** normalmente faz parte da estrutura **add + objeto + to + destino**, e não de um infinitivo.
+Usado quando add é seguido por outro verbo para indicar objetivo.
 
----
+Exemplos:
 
-### Preposição obrigatória
+- I want to add more details.
+  (Eu quero adicionar mais detalhes.)
 
-**to**
+- She decided to add a new section.
+  (Ela decidiu adicionar uma nova seção.)
 
-**Exemplos:**
+### Preposição obrigatória?
 
-- Add the file to the project.
-  - (Adicione o arquivo ao projeto.)
+**to** é a preposição mais comum com add.
 
-- Add your email to the form.
-  - (Adicione seu e-mail ao formulário.)
+Estrutura:
 
-- Add more sugar to the coffee.
-  - (Adicione mais açúcar ao café.)
+**add + objeto + to + objeto**
 
----
+Exemplos:
+
+- Add the image to the document.
+  (Adicione a imagem ao documento.)
+
+- I added a member to the team.
+  (Eu adicionei um membro à equipe.)
+
+- She added a rule to the system.
+  (Ela adicionou uma regra ao sistema.)
 
 ## Frases extras (uso real)
 
-- Add your email here.
-  - (Adicione seu e-mail aqui.)
+- Please add your signature.
+  (Por favor, adicione sua assinatura.)
 
-- Can you add more information?
-  - (Você pode adicionar mais informações?)
+- Can you add this item to the cart?
+  (Você pode adicionar este item ao carrinho?)
 
-- Please add this file to the project.
-  - (Por favor, adicione este arquivo ao projeto.)
+- I added a new endpoint to the API.
+  (Eu adicionei um novo endpoint à API.)
 
-- We need to add another test.
-  - (Precisamos adicionar outro teste.)
+- They added more memory to the server.
+  (Eles adicionaram mais memória ao servidor.)
 
-- I forgot to add the image.
-  - (Eu esqueci de adicionar a imagem.)
-
----
+- We need to add documentation.
+  (Precisamos adicionar documentação.)
 
 ## Combinações mais comuns (Collocations)
 
+### add a comment
+
+- Add a comment before submitting the form.
+  (Adicione um comentário antes de enviar o formulário.)
+
 ### add a file
 
-Please add the file to the project.
-
-(Por favor, adicione o arquivo ao projeto.)
-
----
+- Please add a file to the ticket.
+  (Por favor, adicione um arquivo ao chamado.)
 
 ### add information
 
-Add more information to the report.
-
-(Adicione mais informações ao relatório.)
-
----
-
-### add a comment
-
-Add a comment below.
-
-(Adicione um comentário abaixo.)
-
----
-
-### add support
-
-We added support for Linux.
-
-(Nós adicionamos suporte ao Linux.)
-
----
+- She added more information to the report.
+  (Ela adicionou mais informações ao relatório.)
 
 ### add value
 
-This feature adds value to the product.
+- This feature adds value to the product.
+  (Este recurso agrega valor ao produto.)
 
-(Este recurso agrega valor ao produto.)
+### add a user
 
----
+- The administrator added a user to the system.
+  (O administrador adicionou um usuário ao sistema.)
 
-## Expressões comuns (Common Expressions)
+## Expressões comuns
 
-### add fuel to the fire
-
-His comments added fuel to the fire.
-
-(Os comentários dele colocaram mais lenha na fogueira.)
-
----
-
-### add insult to injury
-
-The delay added insult to injury.
-
-(O atraso piorou ainda mais a situação.)
-
----
+- add fuel to the fire
+- add insult to injury
+- add value
+- add to the discussion
+- add your voice
 
 ## Erros comuns
 
-❌ Add the project this file.
+❌ Add in the group.
 
-✔ Add this file to the project.
+✔ Add to the group.
+
+O verbo normalmente usa **to** para indicar destino.
+
+---
+
+❌ I added for the list.
+
+✔ I added it to the list.
+
+A estrutura correta é **add + objeto + to + objeto**.
 
 ---
 
-❌ I add making changes.
+❌ I am add a new user.
 
-✔ I add new changes.
+✔ I am adding a new user.
 
-✔ I am adding new changes.
-
----
+Após o verbo **to be**, utiliza-se a forma em **-ING**.
 
 ## Observações importantes
 
-- É um dos verbos mais comuns da língua inglesa.
-- É extremamente frequente em tecnologia, programação e desenvolvimento de software.
-- A estrutura **add + objeto + to + destino** é a forma mais comum de uso.
+- "Add" é um dos verbos mais frequentes em tecnologia, especialmente em sistemas, bancos de dados, APIs e interfaces.
+- A estrutura mais importante para memorizar é **add something to something**.
+- O phrasal verb **add up** também é muito comum e significa somar ou fazer sentido.

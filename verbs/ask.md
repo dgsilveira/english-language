@@ -1,35 +1,42 @@
-# Ask
+## Verbo: ASK
 
-## Informações gerais
-
-**SIGNIFICADO(S):**
-
+### Traduções principais
 - perguntar
 - pedir
+
+### Informações gerais
+
+**Outras traduções**
+- questionar
 - solicitar
+- consultar
 
-**CEFR:** A1
+#### Palavras da mesma família
 
-**Relevância para TI:** Muito usado
+- question → pergunta
+- request → solicitação
+- asked → perguntou / pediu
+- asking → perguntando / pedindo
+- asker → pessoa que pergunta
 
-**Conjugação:** Regular
+#### CEFR
+- A1
 
----
+#### Relevância para TI
+- Muito usado
 
-## Pronúncia (AFI – IPA)
+#### Tipo de verbo
+- Regular
 
-- **Presente:** ask → /æsk/
-- **Presente (3ª pessoa):** asks → /æsks/
-- **Passado:** asked → /æskt/
-- **Particípio:** asked → /æskt/
+### Pronúncia (IPA – General American)
 
----
+- Presente: **ask** → /æsk/
+- Presente (3ª pessoa): **asks** → /æsks/
+- Passado: **asked** → /æskt/
+- Particípio: **asked** → /æskt/
+- Forma em **-ING**: **asking** → /ˈæskɪŋ/
 
-## Phrasal verbs
-
-O verbo **ask** é o verbo de origem.
-
-Phrasal verbs relacionados:
+### Phrasal verbs
 
 - ask for
 - ask around
@@ -37,264 +44,215 @@ Phrasal verbs relacionados:
 - ask over
 - ask back
 
----
-
-## Forma em -ING
+### Forma em -ING
 
 **ask → asking**
 
-O verbo apenas recebe **-ing**, sem alterações ortográficas.
+O verbo apenas recebe **-ING**.
 
-**Exemplos:**
+- ask → asking
+
+Pronúncia:
+
+- asking → /ˈæskɪŋ/
+
+Exemplos:
 
 - I am asking a question.
-  - (Estou fazendo uma pergunta.)
+  (Estou fazendo uma pergunta.)
 
-- She is asking for help.
-  - (Ela está pedindo ajuda.)
-
----
-
-## Palavras da mesma família (Word Family)
-
-- ask
-- asks
-- asked
-- asking
-- request (solicitação)
-- question (pergunta)
-
----
-
-## SIGNIFICADO(S)
-
-- perguntar
-- pedir
-- solicitar
-
----
+- She is asking about the project.
+  (Ela está perguntando sobre o projeto.)
 
 ## Frases (tempo verbal)
 
 ### Presente (1ª pessoa)
 
-I ask questions.
+I ask many questions.
 
-(Eu faço perguntas.)
-
----
+(Eu faço muitas perguntas.)
 
 ### Presente (3ª pessoa)
 
-She asks for help.
+She asks useful questions.
 
-(Ela pede ajuda.)
-
----
+(Ela faz perguntas úteis.)
 
 ### Passado
 
-I asked him.
+I asked about the issue.
 
-(Eu perguntei a ele. / Eu pedi a ele.)
-
----
+(Eu perguntei sobre o problema.)
 
 ### Futuro
 
-I will ask later.
+I will ask the manager.
 
-(Eu perguntarei mais tarde.)
-
----
+(Eu perguntarei ao gerente.)
 
 ### Particípio (Present Perfect)
 
-I have asked.
+I have asked several times.
 
-(Eu perguntei. / Eu tenho perguntado.)
-
----
+(Eu já perguntei várias vezes.)
 
 ## Estruturas importantes
 
 ### Estrutura principal
 
-**ask + pessoa + something**
+**ask + pessoa + pergunta**
 
-**Exemplos:**
+Exemplos:
 
-- I asked her a question.
-  - (Eu fiz uma pergunta a ela.)
+- I asked him a question.
+  (Eu fiz uma pergunta a ele.)
 
-- They asked me the time.
-  - (Eles me perguntaram as horas.)
+- She asked me my name.
+  (Ela me perguntou meu nome.)
 
-- She asked the teacher a question.
-  - (Ela fez uma pergunta ao professor.)
-
----
+- We asked the client some questions.
+  (Nós fizemos algumas perguntas ao cliente.)
 
 ### Outras formas comuns
 
-**ask + pessoa + to + infinitivo**
+#### ask + about + assunto
 
-**Exemplos:**
+Usado para perguntar sobre um tema.
 
-- I asked him to help.
-  - (Eu pedi para ele ajudar.)
+- I asked about the project.
+  (Eu perguntei sobre o projeto.)
 
-- She asked me to wait.
-  - (Ela pediu para eu esperar.)
+- She asked about the deadline.
+  (Ela perguntou sobre o prazo.)
 
-- We asked them to join us.
-  - (Nós pedimos para eles se juntarem a nós.)
+- We asked about the requirements.
+  (Nós perguntamos sobre os requisitos.)
 
----
+#### ask + to + infinitivo
 
-**ask about + assunto**
+Usado para pedir que alguém faça algo.
 
-**Exemplos:**
+- I asked him to wait.
+  (Eu pedi para ele esperar.)
 
-- He asked about the project.
-  - (Ele perguntou sobre o projeto.)
+- She asked me to help.
+  (Ela pediu para eu ajudar.)
 
-- She asked about the new feature.
-  - (Ela perguntou sobre o novo recurso.)
+- The manager asked us to test the feature.
+  (O gerente pediu para testarmos o recurso.)
 
-- They asked about the deadline.
-  - (Eles perguntaram sobre o prazo.)
+#### ask + if/whether
 
----
+Usado para perguntas indiretas.
+
+- I asked if he was available.
+  (Eu perguntei se ele estava disponível.)
+
+- She asked whether the system was online.
+  (Ela perguntou se o sistema estava online.)
 
 ## Uso com outros verbos
 
-### Usa ING?
+### Usa -ING?
 
-✔ **Não**
+- ✔ Não
 
-O verbo **ask** normalmente não é seguido por outro verbo no gerúndio.
+Normalmente não é seguido diretamente por um verbo em **-ING**.
 
----
+❌ I asked helping him.
+
+✔ I asked to help him.
+
+✔ I asked him to help.
 
 ### Usa TO + infinitivo?
 
-✔ **Sim**
+- ✔ Sim
 
-A estrutura **ask + pessoa + to + verbo** é muito comum para pedir que alguém realize uma ação.
+Muito comum quando significa pedir uma ação.
 
-**Exemplos:**
+Exemplos:
 
-- I asked him to help.
-  - (Eu pedi para ele ajudar.)
+- I asked her to call me.
+  (Eu pedi para ela me ligar.)
 
-- She asked me to wait.
-  - (Ela pediu para eu esperar.)
+- The manager asked us to update the document.
+  (O gerente pediu para atualizarmos o documento.)
 
-- We asked them to join us.
-  - (Nós pedimos para eles se juntarem a nós.)
+- She asked me to review the code.
+  (Ela me pediu para revisar o código.)
 
----
+### Preposição obrigatória?
 
-### Preposição obrigatória
+Não possui preposição obrigatória.
 
-O verbo **ask** não possui uma preposição obrigatória.
+As mais comuns são:
 
-As estruturas mais comuns são:
+- about
+- for
 
-- **ask + pessoa + something**
-- **ask about + assunto**
-- **ask for + coisa** *(estudado separadamente no phrasal verb)*
-- **ask + pessoa + to + infinitivo**
+Exemplos:
 
----
+- I asked about the problem.
+  (Eu perguntei sobre o problema.)
+
+- She asked for help.
+  (Ela pediu ajuda.)
+
+- We asked about the update.
+  (Nós perguntamos sobre a atualização.)
 
 ## Frases extras (uso real)
 
-- Can I ask you a question?
-  - (Posso te fazer uma pergunta?)
+- Don't be afraid to ask questions.
+  (Não tenha medo de fazer perguntas.)
 
-- Don't ask me why.
-  - (Não me pergunte por quê.)
+- The user asked about the new feature.
+  (O usuário perguntou sobre o novo recurso.)
 
-- The client asked for more information.
-  - (O cliente pediu mais informações.)
+- I asked the administrator for access.
+  (Eu pedi acesso ao administrador.)
 
-- I asked the API for the data.
-  - (Eu solicitei os dados à API.)
+- She asked me to check the logs.
+  (Ela me pediu para verificar os logs.)
 
-- Please ask your manager first.
-  - (Por favor, pergunte ao seu gerente primeiro.)
-
----
+- We asked if the deployment was complete.
+  (Nós perguntamos se a implantação estava concluída.)
 
 ## Combinações mais comuns (Collocations)
 
 ### ask a question
 
-Can I ask a question?
-
-(Posso fazer uma pergunta?)
-
----
+- Please ask a question if something is unclear.
+  (Por favor, faça uma pergunta se algo não estiver claro.)
 
 ### ask for help
 
-She asked for help.
-
-(Ela pediu ajuda.)
-
----
+- New developers often ask for help.
+  (Novos desenvolvedores frequentemente pedem ajuda.)
 
 ### ask for permission
 
-You should ask for permission.
-
-(Você deve pedir permissão.)
-
----
-
-### ask someone to help
-
-I asked John to help.
-
-(Eu pedi ao John para ajudar.)
-
----
+- Always ask for permission before making changes.
+  (Sempre peça permissão antes de fazer alterações.)
 
 ### ask about something
 
-He asked about the project.
+- The client asked about the schedule.
+  (O cliente perguntou sobre o cronograma.)
 
-(Ele perguntou sobre o projeto.)
+### ask someone to do something
 
----
+- The manager asked me to prepare the report.
+  (O gerente me pediu para preparar o relatório.)
 
-## Expressões comuns (Common Expressions)
+## Expressões comuns
 
-### ask a question
-
-Feel free to ask a question.
-
-(Fique à vontade para fazer uma pergunta.)
-
----
-
-### ask for help
-
-Don't be afraid to ask for help.
-
-(Não tenha medo de pedir ajuda.)
-
----
-
-### if you ask me
-
-If you ask me, this is the best solution.
-
-(Se você quer minha opinião, esta é a melhor solução.)
-
----
+- ask a question
+- ask for help
+- ask for permission
+- ask around
+- ask someone a favor
 
 ## Erros comuns
 
@@ -302,24 +260,26 @@ If you ask me, this is the best solution.
 
 ✔ I asked him a question.
 
----
-
-❌ I asked him help.
-
-✔ I asked him to help.
+Com **ask**, não se usa **to** antes da pessoa.
 
 ---
 
-❌ I asked about him the project.
+❌ I asked about him help.
 
-✔ I asked him about the project.
+✔ I asked him for help.
+
+Para pedir algo a alguém, a estrutura correta é **ask someone for something**.
 
 ---
+
+❌ She asked me help her.
+
+✔ She asked me to help her.
+
+Após a pessoa, utiliza-se **to + infinitive**.
 
 ## Observações importantes
 
-- **ask** pode significar **perguntar** ou **pedir**, dependendo da estrutura utilizada.
-- **ask + pessoa + something** é usado para fazer uma pergunta a alguém.
-- **ask + pessoa + to + verbo** significa pedir que alguém faça alguma coisa.
-- **ask for + coisa** significa pedir algo (ajuda, dinheiro, informações, permissão etc.) e merece estudo separado como **phrasal verb**.
-- É um dos verbos mais frequentes do inglês e aparece constantemente em reuniões, atendimento, documentação, APIs, feedbacks, suporte técnico e desenvolvimento de software.
+- **Ask** pode significar tanto "perguntar" quanto "pedir"; o contexto determina o significado.
+- A estrutura **ask someone to do something** é extremamente comum no inglês profissional.
+- Em TI, aparece frequentemente em contextos de suporte, requisitos, reuniões, permissões e revisões de código.

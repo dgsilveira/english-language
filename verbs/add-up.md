@@ -1,117 +1,105 @@
-# Add Up
+## Verbo: ADD UP
 
-## Informações gerais
-
-**SIGNIFICADO(S):**
-
+### Traduções principais
 - somar
 - totalizar
 - fazer sentido
 
-**CEFR:** B1
+### Informações gerais
 
-**Relevância para TI:** Usado
+**Outras traduções**
+- bater (valores, números)
+- fechar a conta
+- ser coerente
 
-**Conjugação:** Regular
+#### Palavras da mesma família
 
----
+- addition → adição
+- additional → adicional
+- added → adicionado
+- total → total
+- sum → soma
 
-## Pronúncia (AFI – IPA)
+#### CEFR
+- B1
 
-- **Presente:** add up → /æd ʌp/
-- **Presente (3ª pessoa):** adds up → /ædz ʌp/
-- **Passado:** added up → /ˈædɪd ʌp/
-- **Particípio:** added up → /ˈædɪd ʌp/
+#### Relevância para TI
+- Usado
 
----
+#### Tipo de verbo
+- Phrasal Verb
 
-## Phrasal verbs
+### Pronúncia (IPA – General American)
 
-**add up** é um **phrasal verb** derivado de **add**.
+- Presente: **add up** → /æd ʌp/
+- Presente (3ª pessoa): **adds up** → /ædz ʌp/
+- Passado: **added up** → /ˈædɪd ʌp/
+- Particípio: **added up** → /ˈædɪd ʌp/
+- Forma em **-ING**: **adding up** → /ˈædɪŋ ʌp/
 
-Outros phrasal verbs relacionados:
+### Phrasal verbs
+
+O próprio verbo estudado já é um phrasal verb.
+
+Outros relacionados:
 
 - add on
 - add in
+- add to
+- add up to
 
----
-
-## Forma em -ING
+### Forma em -ING
 
 **add up → adding up**
 
-O verbo principal apenas recebe **-ing**, sem alterações ortográficas.
+O verbo principal (**add**) dobra a consoante final antes de receber **-ING**:
 
-**Exemplos:**
+- add → adding
+- add up → adding up
+
+Pronúncia:
+
+- adding up → /ˈædɪŋ ʌp/
+
+Exemplos:
 
 - I am adding up the numbers.
-  - (Eu estou somando os números.)
+  (Estou somando os números.)
 
-- She is adding up the expenses.
-  - (Ela está somando as despesas.)
-
----
-
-## Palavras da mesma família (Word Family)
-
-- add
-- adding
-- added
-- addition
-- additional
-- additionally
-
----
-
-## SIGNIFICADO(S)
-
-- somar
-- totalizar
-- fazer sentido
-
----
+- The costs are adding up.
+  (Os custos estão se acumulando.)
 
 ## Frases (tempo verbal)
 
 ### Presente (1ª pessoa)
 
-I add up the numbers every day.
+I add up the expenses every month.
 
-(Eu somo os números todos os dias.)
-
----
+(Eu somo as despesas todos os meses.)
 
 ### Presente (3ª pessoa)
 
-She adds up the expenses carefully.
+She adds up the results quickly.
 
-(Ela soma as despesas com cuidado.)
-
----
+(Ela soma os resultados rapidamente.)
 
 ### Passado
 
-I added up all the bills yesterday.
+I added up all the values.
 
-(Eu somei todas as contas ontem.)
-
----
+(Eu somei todos os valores.)
 
 ### Futuro
 
-I will add up the results later.
+I will add up the costs later.
 
-(Eu somarei os resultados depois.)
-
----
+(Eu somarei os custos mais tarde.)
 
 ### Particípio (Present Perfect)
 
-I have added up everything already.
+I have added up the numbers.
 
-(Eu já somei tudo.)
-
----
+(Eu somei os números.)
 
 ## Estruturas importantes
 
@@ -119,174 +107,146 @@ I have added up everything already.
 
 **add up + objeto**
 
-**Exemplos:**
+Usado com o sentido de somar valores.
+
+Exemplos:
 
 - Add up the numbers.
-  - (Some os números.)
+  (Some os números.)
 
-- Add up all the expenses.
-  - (Some todas as despesas.)
+- I added up the expenses.
+  (Eu somei as despesas.)
 
-- Add up the values in this column.
-  - (Some os valores desta coluna.)
-
----
+- She added up the total cost.
+  (Ela somou o custo total.)
 
 ### Outras formas comuns
 
-**add up to + total / resultado**
+#### add up
 
-**Exemplos:**
-
-- The costs add up to $500.
-  - (Os custos totalizam US$ 500.)
-
-- The numbers add up to 100.
-  - (Os números somam 100.)
-
-- All the expenses add up to a large amount.
-  - (Todas as despesas totalizam um valor alto.)
-
-**add up** *(fazer sentido)*
-
-**Exemplos:**
-
-- His story doesn't add up.
-  - (A história dele não faz sentido.)
-
-- Something doesn't add up.
-  - (Alguma coisa não faz sentido.)
+Usado para indicar que algo faz sentido.
 
 - Your explanation adds up.
-  - (Sua explicação faz sentido.)
+  (Sua explicação faz sentido.)
 
----
+- The story does not add up.
+  (A história não faz sentido.)
+
+- Everything adds up now.
+  (Agora tudo faz sentido.)
+
+#### add up to + valor ou resultado
+
+Usado para indicar o total alcançado.
+
+- The costs add up to $500.
+  (Os custos totalizam 500 dólares.)
+
+- The points add up to 100.
+  (Os pontos totalizam 100.)
+
+- The numbers add up to the expected result.
+  (Os números totalizam o resultado esperado.)
 
 ## Uso com outros verbos
 
-### Usa ING?
+### Usa -ING?
 
-✔ **Não**
+- ✔ Sim
 
-Normalmente **add up** é seguido por um objeto ou utilizado de forma intransitiva ("fazer sentido"), e não por outro verbo.
+Exemplos:
 
----
+- We are adding up the results.
+  (Estamos somando os resultados.)
+
+- He spent the afternoon adding up expenses.
+  (Ele passou a tarde somando despesas.)
 
 ### Usa TO + infinitivo?
 
-✔ **Não**
+- ✔ Sim
 
-Não é comum utilizar **add up + to + verbo**.
+Exemplos:
 
-A estrutura **add up to** é seguida por um **valor**, **quantidade** ou **resultado**, e não por um verbo.
+- I need to add up these values.
+  (Preciso somar estes valores.)
 
----
+- She wants to add up the totals.
+  (Ela quer somar os totais.)
 
-### Preposição obrigatória
+### Preposição obrigatória?
 
-Quando significa **totalizar**, utiliza-se:
+Não possui preposição obrigatória.
 
-**add up to + total**
+Entretanto, a estrutura **add up to** é extremamente comum.
 
-**Exemplos:**
+Exemplos:
 
-- The prices add up to $200.
-  - (Os preços totalizam US$ 200.)
+- The costs add up to a large amount.
+  (Os custos totalizam um valor alto.)
 
-- The scores add up to 95.
-  - (As pontuações somam 95.)
-
-- All the costs add up to more than expected.
-  - (Todos os custos totalizam mais do que o esperado.)
-
----
+- The numbers add up to 1,000.
+  (Os números totalizam 1.000.)
 
 ## Frases extras (uso real)
 
-- The numbers don't add up.
-  - (Os números não batem.)
+- The database records add up correctly.
+  (Os registros do banco de dados somam corretamente.)
 
-- His explanation doesn't add up.
-  - (A explicação dele não faz sentido.)
+- These figures do not add up.
+  (Esses números não batem.)
 
-- Let's add up the total cost.
-  - (Vamos somar o custo total.)
+- The explanation does not add up.
+  (A explicação não faz sentido.)
 
-- The expenses add up quickly.
-  - (As despesas aumentam rapidamente.)
+- We need to add up all project costs.
+  (Precisamos somar todos os custos do projeto.)
 
-- Everything adds up now.
-  - (Agora tudo faz sentido.)
-
----
+- The logs add up to several gigabytes.
+  (Os logs totalizam vários gigabytes.)
 
 ## Combinações mais comuns (Collocations)
 
 ### add up the numbers
 
-Please add up the numbers again.
+- Please add up the numbers again.
+  (Por favor, some os números novamente.)
 
-(Por favor, some os números novamente.)
+### add up the costs
 
----
-
-### add up the total
-
-Let's add up the total.
-
-(Vamos calcular o total.)
-
----
+- We need to add up the costs before approval.
+  (Precisamos somar os custos antes da aprovação.)
 
 ### add up the expenses
 
-She added up the expenses.
+- She added up the expenses at the end of the month.
+  (Ela somou as despesas no fim do mês.)
 
-(Ela somou as despesas.)
+### add up correctly
 
----
+- The values add up correctly now.
+  (Os valores agora batem corretamente.)
 
-### add up to a total
+### add up to
 
-The values add up to a total of 300.
+- The invoices add up to a significant amount.
+  (As faturas totalizam um valor significativo.)
 
-(Os valores totalizam 300.)
+## Expressões comuns
 
----
-
-### doesn't add up
-
-His story doesn't add up.
-
-(A história dele não faz sentido.)
-
----
-
-## Expressões comuns (Common Expressions)
-
-### something doesn't add up
-
-Something doesn't add up here.
-
-(Alguma coisa não faz sentido aqui.)
-
----
-
-### it all adds up
-
-It all adds up now.
-
-(Agora tudo faz sentido.)
-
----
+- it doesn't add up
+- things don't add up
+- the numbers add up
+- add up the total
+- add up to
 
 ## Erros comuns
 
-❌ Add up the project.
+❌ The numbers don't make sense together, they don't add.
 
-✔ Add the project.
+✔ The numbers don't add up.
 
-> **Add up** não significa simplesmente "adicionar". Para isso, usa-se **add**.
+O phrasal verb correto para números que batem ou fazem sentido é **add up**.
 
 ---
 
@@ -294,16 +254,18 @@ It all adds up now.
 
 ✔ The costs add up to $500.
 
----
-
-❌ His explanation isn't making sense, it doesn't add.
-
-✔ His explanation doesn't add up.
+Após indicar o total, utiliza-se **add up to**.
 
 ---
+
+❌ I am add up the values.
+
+✔ I am adding up the values.
+
+Após o verbo **to be**, usa-se a forma em **-ING**.
 
 ## Observações importantes
 
-- **Add up** possui dois significados principais: **somar/totalizar** e **fazer sentido**.
-- A estrutura **add up to + valor** significa **totalizar**.
-- A expressão **doesn't add up** é muito comum para indicar que algo parece incorreto, inconsistente ou não faz sentido.
+- **Add up** possui dois significados muito frequentes: somar números e fazer sentido.
+- A expressão **it doesn't add up** é extremamente comum em conversação e reuniões.
+- A estrutura **add up to + valor** é muito usada para falar de totais, custos e métricas.

@@ -1,315 +1,281 @@
-# Allow
+## Verbo: ALLOW
 
-## Informações gerais
-
-**SIGNIFICADO(S):**
-
+### Traduções principais
 - permitir
+- deixar
+
+### Informações gerais
+
+**Outras traduções**
 - autorizar
-- deixar (alguém fazer algo)
+- conceder permissão
+- possibilitar
 
-**CEFR:** B1
+#### Palavras da mesma família
 
-**Relevância para TI:** Muito usado
+- allowed → permitido
+- allowance → permissão / mesada / tolerância
+- allowable → permitido
+- allowing → permitindo
+- disallow → não permitir
 
-**Conjugação:** Regular
+#### CEFR
+- A2
 
----
+#### Relevância para TI
+- Muito usado
 
-## Pronúncia (AFI – IPA)
+#### Tipo de verbo
+- Regular
 
-- **Presente:** allow → /əˈlaʊ/
-- **Presente (3ª pessoa):** allows → /əˈlaʊz/
-- **Passado:** allowed → /əˈlaʊd/
-- **Particípio:** allowed → /əˈlaʊd/
+### Pronúncia (IPA – General American)
 
----
+- Presente: **allow** → /əˈlaʊ/
+- Presente (3ª pessoa): **allows** → /əˈlaʊz/
+- Passado: **allowed** → /əˈlaʊd/
+- Particípio: **allowed** → /əˈlaʊd/
+- Forma em **-ING**: **allowing** → /əˈlaʊɪŋ/
 
-## Phrasal verbs
+### Phrasal verbs
 
-O verbo **allow** não possui phrasal verbs relevantes de uso comum.
+Não existem phrasal verbs muito relevantes derivados diretamente de **allow**.
 
----
-
-## Forma em -ING
+### Forma em -ING
 
 **allow → allowing**
 
-O verbo apenas recebe **-ing**, sem alterações ortográficas.
+O verbo apenas recebe **-ING**.
 
-**Exemplos:**
+- allow → allowing
+
+Pronúncia:
+
+- allowing → /əˈlaʊɪŋ/
+
+Exemplos:
 
 - The system is allowing new connections.
-  - (O sistema está permitindo novas conexões.)
+  (O sistema está permitindo novas conexões.)
 
-- We are allowing users to edit their profiles.
-  - (Estamos permitindo que os usuários editem seus perfis.)
-
----
-
-## Palavras da mesma família (Word Family)
-
-- allow
-- allows
-- allowed
-- allowing
-- allowance (permissão; mesada; tolerância)
-- allowable (permitido; aceitável)
-
----
-
-## SIGNIFICADO(S)
-
-- permitir
-- autorizar
-- deixar (alguém fazer algo)
-
----
+- We are allowing remote access.
+  (Estamos permitindo acesso remoto.)
 
 ## Frases (tempo verbal)
 
 ### Presente (1ª pessoa)
 
-I allow this.
+I allow access to the database.
 
-(Eu permito isso.)
-
----
+(Eu permito acesso ao banco de dados.)
 
 ### Presente (3ª pessoa)
 
-She allows it.
+She allows external connections.
 
-(Ela permite isso.)
-
----
+(Ela permite conexões externas.)
 
 ### Passado
 
-They allowed it.
+I allowed the change.
 
-(Eles permitiram isso.)
-
----
+(Eu permiti a alteração.)
 
 ### Futuro
 
-I will allow it.
+I will allow this request.
 
-(Eu permitirei isso.)
-
----
+(Eu permitirei esta solicitação.)
 
 ### Particípio (Present Perfect)
 
-I have allowed it.
+I have allowed temporary access.
 
-(Eu permiti isso. / Eu tenho permitido isso.)
-
----
+(Eu permiti acesso temporário.)
 
 ## Estruturas importantes
 
 ### Estrutura principal
 
-**allow + objeto + to + infinitivo**
+**allow + objeto**
 
-**Exemplos:**
+Exemplos:
 
-- I allow him to go.
-  - (Eu permito que ele vá.)
+- The system allows remote access.
+  (O sistema permite acesso remoto.)
 
-- The app allows users to upload files.
-  - (O aplicativo permite que os usuários enviem arquivos.)
+- This tool allows customization.
+  (Esta ferramenta permite personalização.)
 
-- The system allows administrators to change settings.
-  - (O sistema permite que os administradores alterem as configurações.)
-
----
+- The policy allows exceptions.
+  (A política permite exceções.)
 
 ### Outras formas comuns
 
-**allow + objeto**
+#### allow + pessoa + to + infinitivo
 
-**Exemplos:**
+Estrutura mais importante do verbo.
 
-- The system allows this action.
-  - (O sistema permite esta ação.)
+- The manager allowed me to leave early.
+  (O gerente me permitiu sair mais cedo.)
 
-- This software allows multiple connections.
-  - (Este software permite múltiplas conexões.)
+- The system allows users to upload files.
+  (O sistema permite que os usuários enviem arquivos.)
 
-- The policy allows remote work.
-  - (A política permite trabalho remoto.)
+- The application allows customers to register online.
+  (O aplicativo permite que os clientes se cadastrem online.)
 
----
+#### allow + something + for + something
 
-**be allowed to + infinitivo**
+Usado para reservar espaço, tempo ou possibilidade.
 
-**Exemplos:**
+- We must allow for delays.
+  (Devemos considerar atrasos.)
 
-- Employees are allowed to work from home.
-  - (Os funcionários têm permissão para trabalhar de casa.)
+- The budget allows for upgrades.
+  (O orçamento prevê atualizações.)
 
-- Users are allowed to reset their passwords.
-  - (Os usuários têm permissão para redefinir suas senhas.)
+- The schedule allows for testing.
+  (O cronograma prevê testes.)
 
-- You are not allowed to enter this area.
-  - (Você não tem permissão para entrar nesta área.)
+#### allow that + oração
 
----
+Menos comum, usado para admitir um fato.
+
+- I allow that it is possible.
+  (Admito que isso é possível.)
+
+- She allowed that the idea was good.
+  (Ela admitiu que a ideia era boa.)
 
 ## Uso com outros verbos
 
-### Usa ING?
+### Usa -ING?
 
-✔ **Sim**
+- ✔ Não
 
-Quando uma atividade é tratada como um substantivo (gerúndio).
+Normalmente não é seguido diretamente por um verbo em **-ING**.
 
-**Exemplos:**
+❌ The system allows uploading.
 
-- Smoking is not allowed.
-  - (Fumar não é permitido.)
+✔ The system allows users to upload files.
 
-- Parking is not allowed here.
-  - (Estacionar não é permitido aqui.)
-
-- Running is not allowed in the building.
-  - (Correr não é permitido no prédio.)
-
----
+✔ The system allows file uploading.
 
 ### Usa TO + infinitivo?
 
-✔ **Sim**
+- ✔ Sim
 
-É a estrutura mais comum para indicar que alguém recebe permissão para realizar uma ação.
+Essa é a estrutura mais importante do verbo.
 
-**Exemplos:**
+Exemplos:
 
-- I allow her to speak.
-  - (Eu permito que ela fale.)
+- The software allows users to edit documents.
+  (O software permite que os usuários editem documentos.)
 
-- They allowed us to enter.
-  - (Eles nos permitiram entrar.)
+- My manager allowed me to work remotely.
+  (Meu gerente me permitiu trabalhar remotamente.)
 
-- The application allows users to download reports.
-  - (O aplicativo permite que os usuários baixem relatórios.)
+- The API allows developers to create integrations.
+  (A API permite que desenvolvedores criem integrações.)
 
----
+### Preposição obrigatória?
 
-### Preposição obrigatória
+Não possui preposição obrigatória.
 
-O verbo **allow** não exige uma preposição obrigatória.
+A combinação mais importante é:
 
-A estrutura mais comum é:
+**allow + pessoa + to + infinitivo**
 
-**allow + objeto + to + infinitivo**
+Também é comum:
 
----
+**allow for + substantivo**
+
+Exemplos:
+
+- We must allow for errors.
+  (Precisamos considerar erros.)
+
+- The plan allows for growth.
+  (O plano prevê crescimento.)
 
 ## Frases extras (uso real)
 
-- The app allows users to upload files.
-  - (O aplicativo permite que os usuários enviem arquivos.)
+- The firewall allows trusted traffic.
+  (O firewall permite tráfego confiável.)
 
-- This feature allows you to edit documents.
-  - (Este recurso permite que você edite documentos.)
+- This API allows integration with other systems.
+  (Esta API permite integração com outros sistemas.)
 
-- Children are not allowed here.
-  - (Crianças não são permitidas aqui.)
+- The administrator allowed access to the server.
+  (O administrador permitiu acesso ao servidor.)
 
-- The firewall allows secure connections.
-  - (O firewall permite conexões seguras.)
+- The application allows users to reset passwords.
+  (A aplicação permite que os usuários redefinam senhas.)
 
-- Our API allows developers to access the data.
-  - (Nossa API permite que desenvolvedores acessem os dados.)
-
----
+- Our policy does not allow personal devices.
+  (Nossa política não permite dispositivos pessoais.)
 
 ## Combinações mais comuns (Collocations)
 
 ### allow access
 
-The system allows access to authorized users.
-
-(O sistema permite acesso a usuários autorizados.)
-
----
+- The administrator allowed access to the database.
+  (O administrador permitiu acesso ao banco de dados.)
 
 ### allow users
 
-The application allows users to create accounts.
-
-(O aplicativo permite que os usuários criem contas.)
-
----
+- The platform allows users to create reports.
+  (A plataforma permite que os usuários criem relatórios.)
 
 ### allow changes
 
-The administrator allowed changes to the configuration.
+- The system allows changes after approval.
+  (O sistema permite alterações após aprovação.)
 
-(O administrador permitiu alterações na configuração.)
+### allow time
 
----
+- Please allow time for testing.
+  (Por favor, reserve tempo para testes.)
 
-### allow permission
+### allow flexibility
 
-The policy allows permission requests online.
+- The new process allows more flexibility.
+  (O novo processo permite mais flexibilidade.)
 
-(A política permite solicitações de permissão online.)
+## Expressões comuns
 
----
-
-### allow entry
-
-Security does not allow entry without identification.
-
-(A segurança não permite entrada sem identificação.)
-
----
-
-## Expressões comuns (Common Expressions)
-
-### be allowed to
-
-You are allowed to leave early today.
-
-(Você tem permissão para sair mais cedo hoje.)
-
----
-
-### not allowed
-
-Photos are not allowed.
-
-(Fotos não são permitidas.)
-
----
+- allow access
+- allow for errors
+- allow for delays
+- allow someone to do something
+- not allow
 
 ## Erros comuns
 
-❌ I allow him go.
+❌ The system allows to create reports.
 
-✔ I allow him to go.
+✔ The system allows users to create reports.
 
----
-
-❌ The system allows to upload files.
-
-✔ The system allows users to upload files.
+Normalmente é necessário informar quem recebe a permissão.
 
 ---
 
-❌ I am allowed going.
+❌ My manager allowed me work remotely.
 
-✔ I am allowed to go.
+✔ My manager allowed me to work remotely.
+
+Após a pessoa, utiliza-se **to + infinitive**.
 
 ---
+
+❌ The policy allows for to change settings.
+
+✔ The policy allows users to change settings.
+
+A estrutura **allow for** não é usada com **to + infinitive**.
 
 ## Observações importantes
 
-- **allow + objeto + to + infinitivo** é a estrutura mais comum do verbo.
-- **be allowed to** significa **ter permissão para** e aparece frequentemente na voz passiva.
-- É um verbo extremamente comum em documentação técnica, APIs, permissões de usuários, autenticação, sistemas operacionais e desenvolvimento de software.
+- A estrutura mais importante para memorizar é **allow someone to do something**.
+- Em documentação técnica, **allow** aparece frequentemente em permissões, configurações e segurança.
+- **Allow for** possui significado diferente e geralmente significa considerar, prever ou acomodar uma possibilidade.

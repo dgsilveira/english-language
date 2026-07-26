@@ -1,331 +1,279 @@
-# Attach
+## Verbo: ATTACH
 
-## Informações gerais
-
-**SIGNIFICADO(S):**
-
+### Traduções principais
 - anexar
 - prender
+
+### Informações gerais
+
+**Outras traduções**
 - conectar
 - fixar
+- vincular
 
-**CEFR:** A2
+#### Palavras da mesma família
 
-**Relevância para TI:** Muito usado
+- attachment → anexo
+- attached → anexado
+- attaching → anexando
+- detachable → removível
+- attachment file → arquivo anexado
 
-**Conjugação:** Regular
+#### CEFR
+- B1
 
----
+#### Relevância para TI
+- Muito usado
 
-## Pronúncia (AFI – IPA)
+#### Tipo de verbo
+- Regular
 
-- **Presente:** attach → /əˈtætʃ/
-- **Presente (3ª pessoa):** attaches → /əˈtætʃɪz/
-- **Passado:** attached → /əˈtætʃt/
-- **Particípio:** attached → /əˈtætʃt/
+### Pronúncia (IPA – General American)
 
----
+- Presente: **attach** → /əˈtætʃ/
+- Presente (3ª pessoa): **attaches** → /əˈtætʃɪz/
+- Passado: **attached** → /əˈtætʃt/
+- Particípio: **attached** → /əˈtætʃt/
+- Forma em **-ING**: **attaching** → /əˈtætʃɪŋ/
 
-## Phrasal verbs
+### Phrasal verbs
 
-**attach** é o verbo de origem.
+Não existem phrasal verbs muito relevantes derivados diretamente de **attach**.
 
-Não possui phrasal verbs relevantes de uso frequente.
-
----
-
-## Forma em -ING
+### Forma em -ING
 
 **attach → attaching**
 
-O verbo apenas recebe **-ing**, sem alterações ortográficas.
+O verbo apenas recebe **-ING**.
 
-**Exemplos:**
+- attach → attaching
+
+Pronúncia:
+
+- attaching → /əˈtætʃɪŋ/
+
+Exemplos:
 
 - I am attaching the file.
-  - (Estou anexando o arquivo.)
+  (Estou anexando o arquivo.)
 
-- She is attaching the image to the report.
-  - (Ela está anexando a imagem ao relatório.)
-
----
-
-## Palavras da mesma família (Word Family)
-
-- attach
-- attaches
-- attached
-- attaching
-- attachment (anexo)
-- detachable (removível)
-- attached (apegado, anexado)
-
----
-
-## SIGNIFICADO(S)
-
-- anexar
-- prender
-- conectar
-- fixar
-
----
+- She is attaching a screenshot.
+  (Ela está anexando uma captura de tela.)
 
 ## Frases (tempo verbal)
 
 ### Presente (1ª pessoa)
 
-I attach the file.
+I attach the report to the email.
 
-(Eu anexo o arquivo.)
-
----
+(Eu anexo o relatório ao e-mail.)
 
 ### Presente (3ª pessoa)
 
-She attaches documents.
+She attaches screenshots to tickets.
 
-(Ela anexa documentos.)
-
----
+(Ela anexa capturas de tela aos chamados.)
 
 ### Passado
 
-I attached it.
+I attached the document yesterday.
 
-(Eu anexei isso.)
-
----
+(Eu anexei o documento ontem.)
 
 ### Futuro
 
-I will attach it.
+I will attach the logs later.
 
-(Eu anexarei isso.)
-
----
+(Eu anexarei os logs mais tarde.)
 
 ### Particípio (Present Perfect)
 
-I have attached it.
+I have attached the requested files.
 
-(Eu anexei isso. / Eu tenho anexado isso.)
-
----
+(Eu anexei os arquivos solicitados.)
 
 ## Estruturas importantes
 
 ### Estrutura principal
 
-**attach + objeto**
+**attach + objeto + to + objeto**
 
-**Exemplos:**
+Exemplos:
 
-- I attached the document.
-  - (Eu anexei o documento.)
+- Attach the file to the email.
+  (Anexe o arquivo ao e-mail.)
 
-- Please attach the image.
-  - (Por favor, anexe a imagem.)
+- I attached the image to the report.
+  (Anexei a imagem ao relatório.)
 
-- She attached the invoice.
-  - (Ela anexou a nota fiscal.)
-
----
+- She attached the document to the ticket.
+  (Ela anexou o documento ao chamado.)
 
 ### Outras formas comuns
 
-**attach + objeto + to + objeto**
+#### attach + arquivo/documento
 
-**Exemplos:**
+Usado para anexar arquivos.
 
-- Attach the file to the email.
-  - (Anexe o arquivo ao e-mail.)
+- Please attach the PDF.
+  (Por favor, anexe o PDF.)
 
-- Attach the image to the report.
-  - (Anexe a imagem ao relatório.)
+- I attached the invoice.
+  (Anexei a fatura.)
 
-- Attach the logs to the ticket.
-  - (Anexe os logs ao chamado.)
+- She attached the logs.
+  (Ela anexou os logs.)
 
----
+#### be attached to
 
-**be attached to**
-
-**Exemplos:**
-
-- The report is attached to the message.
-  - (O relatório está anexado à mensagem.)
-
-- The screenshot is attached to the issue.
-  - (A captura de tela está anexada ao chamado.)
+Usado para algo que está anexado ou conectado.
 
 - The file is attached to the email.
-  - (O arquivo está anexado ao e-mail.)
+  (O arquivo está anexado ao e-mail.)
 
----
+- The image is attached to the report.
+  (A imagem está anexada ao relatório.)
+
+- The device is attached to the server.
+  (O dispositivo está conectado ao servidor.)
+
+#### attach importance to
+
+Expressão comum que significa dar importância.
+
+- We attach great importance to security.
+  (Damos grande importância à segurança.)
+
+- The company attaches importance to quality.
+  (A empresa dá importância à qualidade.)
 
 ## Uso com outros verbos
 
-### Usa ING?
+### Usa -ING?
 
-✔ **Não**
+- ✔ Sim
 
-O verbo **attach** normalmente não é seguido por outro verbo no gerúndio.
+Principalmente após preposições.
 
-**Exemplo:**
+Exemplos:
 
-❌ Attach helping files.
+- Thank you for attaching the file.
+  (Obrigado por anexar o arquivo.)
 
-✔ Attach the files.
-
----
+- She is responsible for attaching the documents.
+  (Ela é responsável por anexar os documentos.)
 
 ### Usa TO + infinitivo?
 
-✔ **Sim (em contexto de finalidade)**
+- ✔ Não
 
-O **to** não faz parte da regência de **attach**, mas introduz o verbo que indica a finalidade da ação.
+Normalmente **attach** não é seguido diretamente por **to + infinitive**.
 
-**Exemplos:**
+❌ I attached to send the report.
 
-- He attached a note to explain the problem.
-  - (Ele anexou uma nota para explicar o problema.)
+✔ I attached the report.
 
-- I attached a screenshot to show the error.
-  - (Anexei uma captura de tela para mostrar o erro.)
+✔ I sent the report.
 
----
+### Preposição obrigatória?
 
-### Preposição obrigatória
+A preposição mais importante é:
 
-✔ **to**
+- to
 
-Quando se informa **aonde** algo será anexado.
+Estrutura:
 
-**Exemplos:**
+**attach + objeto + to + objeto**
 
-- Attach the image to the report.
-  - (Anexe a imagem ao relatório.)
+Exemplos:
 
-- The file is attached to the email.
-  - (O arquivo está anexado ao e-mail.)
+- Attach the document to the email.
+  (Anexe o documento ao e-mail.)
 
-- Attach the logs to the support ticket.
-  - (Anexe os logs ao chamado de suporte.)
+- I attached a screenshot to the ticket.
+  (Anexei uma captura de tela ao chamado.)
 
----
+- She attached the logs to the report.
+  (Ela anexou os logs ao relatório.)
 
 ## Frases extras (uso real)
 
-- Please attach your resume.
-  - (Por favor, anexe seu currículo.)
+- Please attach your resume to the email.
+  (Por favor, anexe seu currículo ao e-mail.)
 
-- I forgot to attach the file.
-  - (Eu esqueci de anexar o arquivo.)
+- I attached the server logs for analysis.
+  (Anexei os logs do servidor para análise.)
 
-- The image is attached to the ticket.
-  - (A imagem está anexada ao chamado.)
+- The user forgot to attach the document.
+  (O usuário esqueceu de anexar o documento.)
 
-- Please attach the logs before opening the issue.
-  - (Por favor, anexe os logs antes de abrir o chamado.)
+- We attached a screenshot of the error.
+  (Anexamos uma captura de tela do erro.)
 
-- The system automatically attaches the report.
-  - (O sistema anexa automaticamente o relatório.)
-
----
+- The support team attached additional information.
+  (A equipe de suporte anexou informações adicionais.)
 
 ## Combinações mais comuns (Collocations)
 
 ### attach a file
 
-Please attach the file before sending the email.
-
-(Por favor, anexe o arquivo antes de enviar o e-mail.)
-
----
+- Please attach a file before submitting the form.
+  (Por favor, anexe um arquivo antes de enviar o formulário.)
 
 ### attach a document
 
-She attached the document to the request.
-
-(Ela anexou o documento à solicitação.)
-
----
+- She attached a document to the email.
+  (Ela anexou um documento ao e-mail.)
 
 ### attach an image
 
-Please attach an image of the error.
-
-(Por favor, anexe uma imagem do erro.)
-
----
-
-### attach a screenshot
-
-Attach a screenshot to the bug report.
-
-(Anexe uma captura de tela ao relatório de erro.)
-
----
+- I attached an image showing the issue.
+  (Anexei uma imagem mostrando o problema.)
 
 ### attach logs
 
-Please attach the logs for analysis.
+- Please attach logs for troubleshooting.
+  (Por favor, anexe os logs para análise do problema.)
 
-(Por favor, anexe os logs para análise.)
+### attach a screenshot
 
----
+- The user attached a screenshot of the error.
+  (O usuário anexou uma captura de tela do erro.)
 
-## Expressões comuns (Common Expressions)
+## Expressões comuns
 
-### attach a file
-
-Don't forget to attach the file.
-
-(Não se esqueça de anexar o arquivo.)
-
----
-
-### attached file
-
-See the attached file.
-
-(Consulte o arquivo anexado.)
-
----
-
-### attached document
-
-Please review the attached document.
-
-(Por favor, revise o documento anexado.)
-
----
+- attach a file
+- attach a document
+- attach importance to
+- be attached to
+- attach a screenshot
 
 ## Erros comuns
 
-❌ Attach the file in the email.
+❌ Please attach in the email.
 
-✔ Attach the file to the email.
+✔ Please attach it to the email.
 
----
-
-❌ I forgot attach the file.
-
-✔ I forgot to attach the file.
+A estrutura correta é **attach something to something**.
 
 ---
 
-❌ The report is attached on the email.
+❌ I attached the email.
 
-✔ The report is attached to the email.
+✔ I attached the file to the email.
+
+Normalmente o objeto anexado é o arquivo, não o e-mail.
 
 ---
+
+❌ The document is attached with the email.
+
+✔ The document is attached to the email.
+
+A preposição mais natural nesse contexto é **to**.
 
 ## Observações importantes
 
-- **attach** significa anexar, prender ou fixar algo a outra coisa.
-- A estrutura mais comum é **attach + objeto + to + objeto**.
-- **be attached to** é extremamente frequente em e-mails e documentação técnica.
-- Não confunda **attach** (anexar) com **add** (adicionar).
-- Em TI, é um dos verbos mais usados em e-mails, sistemas de chamados, documentação, APIs, relatórios de bugs e suporte técnico. As combinações **attach a file**, **attach logs**, **attach a screenshot** e **attached document** aparecem constantemente.
+- **Attach** é um dos verbos mais usados em e-mails, sistemas de chamados e suporte técnico.
+- A estrutura fundamental é **attach something to something**.
+- Em contexto profissional, **attachment** é a palavra mais comum para "anexo".

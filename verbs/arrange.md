@@ -1,111 +1,98 @@
-# Arrange
+## Verbo: ARRANGE
 
-## Informações gerais
-
-**SIGNIFICADO(S):**
-
+### Traduções principais
 - organizar
 - combinar
 - providenciar
 
-**CEFR:** B1
+### Informações gerais
 
-**Relevância para TI:** Usado
+**Outras traduções**
+- planejar
+- agendar
+- arrumar
+- preparar
 
-**Conjugação:** Regular
+#### Palavras da mesma família
 
----
+- arrangement → arranjo / organização / acordo
+- arranged → organizado / combinado
+- arranging → organizando
+- rearrange → reorganizar
+- rearrangement → reorganização
 
-## Pronúncia (AFI – IPA)
+#### CEFR
+- B1
 
-- **Presente:** arrange → /əˈreɪndʒ/
-- **Presente (3ª pessoa):** arranges → /əˈreɪndʒɪz/
-- **Passado:** arranged → /əˈreɪndʒd/
-- **Particípio:** arranged → /əˈreɪndʒd/
+#### Relevância para TI
+- Usado
 
----
+#### Tipo de verbo
+- Regular
 
-## Phrasal verbs
+### Pronúncia (IPA – General American)
 
-O verbo **arrange** não possui phrasal verbs relevantes de uso comum.
+- Presente: **arrange** → /əˈreɪndʒ/
+- Presente (3ª pessoa): **arranges** → /əˈreɪndʒɪz/
+- Passado: **arranged** → /əˈreɪndʒd/
+- Particípio: **arranged** → /əˈreɪndʒd/
+- Forma em **-ING**: **arranging** → /əˈreɪndʒɪŋ/
 
----
+### Phrasal verbs
 
-## Forma em -ING
+Não existem phrasal verbs muito relevantes derivados diretamente de **arrange**.
+
+### Forma em -ING
 
 **arrange → arranging**
 
-O verbo apenas recebe **-ing**, sem alterações ortográficas.
+O **e** final é removido antes de adicionar **-ING**.
 
-**Exemplos:**
+- arrange → arranging
+
+Pronúncia:
+
+- arranging → /əˈreɪndʒɪŋ/
+
+Exemplos:
 
 - I am arranging a meeting.
-  - (Eu estou organizando uma reunião.)
+  (Estou organizando uma reunião.)
 
 - She is arranging the schedule.
-  - (Ela está organizando o cronograma.)
-
----
-
-## Palavras da mesma família (Word Family)
-
-- arrange
-- arranges
-- arranged
-- arranging
-- arrangement (arranjo; organização; acordo)
-
----
-
-## SIGNIFICADO(S)
-
-- organizar
-- combinar
-- providenciar
-
----
+  (Ela está organizando o cronograma.)
 
 ## Frases (tempo verbal)
 
 ### Presente (1ª pessoa)
 
-I arrange meetings.
+I arrange my tasks every morning.
 
-(Eu organizo reuniões.)
-
----
+(Eu organizo minhas tarefas todas as manhãs.)
 
 ### Presente (3ª pessoa)
 
-She arranges everything.
+She arranges the project schedule.
 
-(Ela organiza tudo.)
-
----
+(Ela organiza o cronograma do projeto.)
 
 ### Passado
 
-I arranged it.
+I arranged a meeting with the client.
 
-(Eu organizei isso.)
-
----
+(Eu organizei uma reunião com o cliente.)
 
 ### Futuro
 
-I will arrange it.
+I will arrange everything tomorrow.
 
-(Eu organizarei isso.)
-
----
+(Eu organizarei tudo amanhã.)
 
 ### Particípio (Present Perfect)
 
-I have arranged it.
+I have arranged the documentation.
 
-(Eu organizei isso. / Eu tenho organizado isso.)
-
----
+(Eu organizei a documentação.)
 
 ## Estruturas importantes
 
@@ -113,197 +100,182 @@ I have arranged it.
 
 **arrange + objeto**
 
-**Exemplos:**
+Exemplos:
 
-- I arranged the documents.
-  - (Eu organizei os documentos.)
+- I arranged the files.
+  (Eu organizei os arquivos.)
 
-- She arranged the schedule.
-  - (Ela organizou o cronograma.)
+- She arranged the agenda.
+  (Ela organizou a pauta.)
 
-- We arranged the meeting room.
-  - (Nós organizamos a sala de reunião.)
-
----
+- We arranged the equipment.
+  (Nós organizamos os equipamentos.)
 
 ### Outras formas comuns
 
-**arrange to + infinitivo**
+#### arrange + objeto + for + pessoa
 
-**Exemplos:**
+Usado para providenciar algo para alguém.
 
-- I arranged to meet him.
-  - (Eu combinei de encontrá-lo.)
+- I arranged a meeting for the team.
+  (Eu organizei uma reunião para a equipe.)
 
-- She arranged to travel tomorrow.
-  - (Ela combinou de viajar amanhã.)
+- She arranged transportation for the guests.
+  (Ela providenciou transporte para os convidados.)
 
-- They arranged to call later.
-  - (Eles combinaram de ligar mais tarde.)
+- We arranged training for new employees.
+  (Nós providenciamos treinamento para novos funcionários.)
 
----
+#### arrange to + infinitivo
 
-**arrange for + pessoa + to + infinitivo**
+Usado para combinar ou planejar uma ação.
 
-**Exemplos:**
+- I arranged to call him later.
+  (Eu combinei de ligar para ele mais tarde.)
 
-- She arranged for him to stay at a hotel.
-  - (Ela providenciou para que ele ficasse em um hotel.)
+- She arranged to meet the client.
+  (Ela combinou de encontrar o cliente.)
 
-- We arranged for a technician to visit.
-  - (Providenciamos para que um técnico viesse.)
+- We arranged to review the code.
+  (Nós combinamos de revisar o código.)
 
-- They arranged for everyone to attend the meeting.
-  - (Eles providenciaram para que todos participassem da reunião.)
+#### arrange for + substantivo
 
----
+Usado para providenciar algo.
+
+- We arranged for additional testing.
+  (Providenciamos testes adicionais.)
+
+- She arranged for technical support.
+  (Ela providenciou suporte técnico.)
 
 ## Uso com outros verbos
 
-### Usa ING?
+### Usa -ING?
 
-✔ **Não**
+- ✔ Não
 
-O verbo **arrange** normalmente não é seguido por outro verbo no gerúndio.
+Normalmente não é seguido diretamente por um verbo em **-ING**.
 
----
+❌ I arranged meeting the client.
+
+✔ I arranged to meet the client.
 
 ### Usa TO + infinitivo?
 
-✔ **Sim**
+- ✔ Sim
 
-A estrutura **arrange to + verbo** significa combinar ou planejar fazer alguma ação.
+Uma das estruturas mais importantes do verbo.
 
-**Exemplos:**
+Exemplos:
 
-- I arranged to meet him.
-  - (Eu combinei de encontrá-lo.)
+- We arranged to deploy the update.
+  (Nós combinamos de implantar a atualização.)
 
-- She arranged to travel tomorrow.
-  - (Ela combinou de viajar amanhã.)
+- She arranged to join the meeting.
+  (Ela combinou de participar da reunião.)
 
-- They arranged to call later.
-  - (Eles combinaram de ligar mais tarde.)
+- I arranged to test the application.
+  (Eu combinei de testar a aplicação.)
 
----
+### Preposição obrigatória?
 
-### Preposição obrigatória
+As preposições mais comuns são:
 
-O verbo **arrange** não possui preposição obrigatória.
+- for
+- with
 
-As estruturas mais comuns são:
+Exemplos:
 
-- **arrange + objeto**
-- **arrange to + infinitivo**
-- **arrange for + pessoa + to + infinitivo**
+- I arranged a meeting for the team.
+  (Eu organizei uma reunião para a equipe.)
 
----
+- She arranged everything with the client.
+  (Ela organizou tudo com o cliente.)
+
+- We arranged for technical support.
+  (Nós providenciamos suporte técnico.)
 
 ## Frases extras (uso real)
 
-- Can we arrange a meeting?
-  - (Podemos marcar uma reunião?)
+- We arranged a deployment schedule.
+  (Nós organizamos um cronograma de implantação.)
 
-- I arranged everything in advance.
-  - (Eu organizei tudo com antecedência.)
+- The manager arranged a meeting for Friday.
+  (O gerente organizou uma reunião para sexta-feira.)
 
-- We arranged the schedule yesterday.
-  - (Nós organizamos o cronograma ontem.)
+- I arranged the project files by date.
+  (Eu organizei os arquivos do projeto por data.)
 
-- They arranged a video call.
-  - (Eles organizaram uma chamada de vídeo.)
+- The team arranged additional testing.
+  (A equipe providenciou testes adicionais.)
 
-- I'll arrange the deployment tomorrow.
-  - (Vou organizar a implantação amanhã.)
-
----
+- She arranged to update the documentation.
+  (Ela combinou de atualizar a documentação.)
 
 ## Combinações mais comuns (Collocations)
 
 ### arrange a meeting
 
-Let's arrange a meeting for tomorrow.
-
-(Vamos marcar uma reunião para amanhã.)
-
----
+- We arranged a meeting with the client.
+  (Nós organizamos uma reunião com o cliente.)
 
 ### arrange a schedule
 
-She arranged the project schedule.
-
-(Ela organizou o cronograma do projeto.)
-
----
+- She arranged the schedule for next week.
+  (Ela organizou o cronograma da próxima semana.)
 
 ### arrange transportation
 
-They arranged transportation for the team.
-
-(Eles providenciaram o transporte da equipe.)
-
----
+- They arranged transportation for visitors.
+  (Eles providenciaram transporte para os visitantes.)
 
 ### arrange an appointment
 
-I arranged an appointment with the client.
+- I arranged an appointment with the technician.
+  (Eu marquei um horário com o técnico.)
 
-(Eu marquei um compromisso com o cliente.)
+### arrange details
 
----
+- We arranged all project details.
+  (Nós organizamos todos os detalhes do projeto.)
 
-### arrange the documents
+## Expressões comuns
 
-Please arrange the documents by date.
-
-(Por favor, organize os documentos por data.)
-
----
-
-## Expressões comuns (Common Expressions)
-
-### arrange a meeting
-
-Can we arrange a meeting?
-
-(Podemos marcar uma reunião?)
-
----
-
-### arrange in advance
-
-Everything was arranged in advance.
-
-(Tudo foi organizado com antecedência.)
-
----
+- arrange a meeting
+- arrange an appointment
+- arrange for something
+- arrange details
+- arrange in advance
 
 ## Erros comuns
 
-❌ I arranged meeting him.
+❌ I arranged meet the client.
 
-✔ I arranged to meet him.
+✔ I arranged to meet the client.
 
----
-
-❌ She arranged him stay at a hotel.
-
-✔ She arranged for him to stay at a hotel.
+Após **arrange**, normalmente usa-se **to + infinitive** para ações.
 
 ---
 
-❌ We arranged about the meeting.
+❌ We arranged a support.
 
-✔ We arranged the meeting.
+✔ We arranged support.
 
-ou
-
-✔ We arranged a meeting.
+Normalmente **support** é incontável nesse contexto.
 
 ---
+
+❌ I arranged for meet the customer.
+
+✔ I arranged to meet the customer.
+
+✔ I arranged for a meeting with the customer.
+
+As estruturas **arrange to** e **arrange for** possuem usos diferentes.
 
 ## Observações importantes
 
-- **arrange** pode significar **organizar**, **combinar** ou **providenciar**, dependendo do contexto.
-- **arrange to + infinitivo** significa combinar ou planejar realizar uma ação.
-- É muito utilizado em ambiente corporativo e em TI para reuniões, cronogramas, implantações, agendas, suporte e organização de projetos.
+- **Arrange** é muito comum para reuniões, agendas, cronogramas e planejamento.
+- A estrutura **arrange to + infinitive** é uma das mais frequentes no inglês profissional.
+- Em TI, aparece frequentemente em contextos de organização de projetos, deploys, suporte e documentação.

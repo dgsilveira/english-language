@@ -1,312 +1,281 @@
-# Arrive
+## Verbo: ARRIVE
 
-## Informações gerais
-
-**SIGNIFICADO(S):**
-
+### Traduções principais
 - chegar
-- chegar a um destino
-- vir (em alguns contextos)
+- vir
 
-**CEFR:** A2
+### Informações gerais
 
-**Relevância para TI:** Pouco usado
+**Outras traduções**
+- alcançar um local
+- atingir um destino
+- aparecer (em alguns contextos)
 
-**Conjugação:** Regular
+#### Palavras da mesma família
 
----
+- arrival → chegada
+- arrivals → chegadas
+- arrived → chegado
+- arriving → chegando
+- arrival time → horário de chegada
 
-## Pronúncia (AFI – IPA)
+#### CEFR
+- A1
 
-- **Presente:** arrive → /əˈraɪv/
-- **Presente (3ª pessoa):** arrives → /əˈraɪvz/
-- **Passado:** arrived → /əˈraɪvd/
-- **Particípio:** arrived → /əˈraɪvd/
+#### Relevância para TI
+- Usado
 
----
+#### Tipo de verbo
+- Regular
 
-## Phrasal verbs
+### Pronúncia (IPA – General American)
 
-O verbo **arrive** não possui phrasal verbs relevantes de uso comum.
+- Presente: **arrive** → /əˈraɪv/
+- Presente (3ª pessoa): **arrives** → /əˈraɪvz/
+- Passado: **arrived** → /əˈraɪvd/
+- Particípio: **arrived** → /əˈraɪvd/
+- Forma em **-ING**: **arriving** → /əˈraɪvɪŋ/
 
----
+### Phrasal verbs
 
-## Forma em -ING
+Não existem phrasal verbs muito relevantes derivados diretamente de **arrive**.
+
+### Forma em -ING
 
 **arrive → arriving**
 
-O verbo apenas recebe **-ing**, sem alterações ortográficas.
+O **e** final é removido antes de adicionar **-ING**.
 
-**Exemplos:**
+- arrive → arriving
 
-- I am arriving now.
-  - (Estou chegando agora.)
+Pronúncia:
+
+- arriving → /əˈraɪvɪŋ/
+
+Exemplos:
+
+- I am arriving tomorrow.
+  (Estou chegando amanhã.)
 
 - The package is arriving today.
-  - (O pacote está chegando hoje.)
-
----
-
-## Palavras da mesma família (Word Family)
-
-- arrive
-- arrives
-- arrived
-- arriving
-- arrival (chegada)
-
----
-
-## SIGNIFICADO(S)
-
-- chegar
-- chegar a um destino
-- vir (em alguns contextos)
-
----
+  (O pacote está chegando hoje.)
 
 ## Frases (tempo verbal)
 
 ### Presente (1ª pessoa)
 
-I arrive early.
+I arrive at work at 8 a.m.
 
-(Eu chego cedo.)
-
----
+(Eu chego ao trabalho às 8h.)
 
 ### Presente (3ª pessoa)
 
-He arrives late.
+She arrives early every day.
 
-(Ele chega atrasado.)
-
----
+(Ela chega cedo todos os dias.)
 
 ### Passado
 
-They arrived.
+I arrived home late.
 
-(Eles chegaram.)
-
----
+(Eu cheguei em casa tarde.)
 
 ### Futuro
 
-I will arrive soon.
+I will arrive tomorrow morning.
 
-(Eu chegarei em breve.)
-
----
+(Eu chegarei amanhã de manhã.)
 
 ### Particípio (Present Perfect)
 
-I have arrived.
+I have arrived at the office.
 
-(Eu cheguei. / Eu tenho chegado.)
-
----
+(Eu cheguei ao escritório.)
 
 ## Estruturas importantes
 
 ### Estrutura principal
 
-**arrive in + cidade / país / região**
+**arrive at/in + lugar**
 
-**Exemplos:**
+Exemplos:
 
-- I arrived in Brazil.
-  - (Eu cheguei ao Brasil.)
+- I arrived at the office.
+  (Eu cheguei ao escritório.)
 
-- She arrived in Paris.
-  - (Ela chegou a Paris.)
+- We arrived at the airport.
+  (Nós chegamos ao aeroporto.)
 
-- They arrived in Europe last week.
-  - (Eles chegaram à Europa na semana passada.)
-
----
+- She arrived in Brazil.
+  (Ela chegou ao Brasil.)
 
 ### Outras formas comuns
 
-**arrive at + lugar específico**
+#### arrive + advérbio
 
-**Exemplos:**
+- I arrived early.
+  (Eu cheguei cedo.)
 
-- We arrived at the airport.
-  - (Nós chegamos ao aeroporto.)
+- They arrived late.
+  (Eles chegaram tarde.)
 
-- He arrived at the party.
-  - (Ele chegou à festa.)
+- She arrived safely.
+  (Ela chegou em segurança.)
 
-- She arrived at work early.
-  - (Ela chegou ao trabalho cedo.)
+#### arrive at + conclusão/decisão
 
----
+Usado para indicar que alguém chegou a uma conclusão.
 
-**arrive on + dia / data**
+- We arrived at a solution.
+  (Chegamos a uma solução.)
 
-**Exemplos:**
+- They arrived at a decision.
+  (Eles chegaram a uma decisão.)
 
-- The package arrived on Monday.
-  - (O pacote chegou na segunda-feira.)
+- The team arrived at an agreement.
+  (A equipe chegou a um acordo.)
 
-- We arrived on July 10.
-  - (Chegamos em 10 de julho.)
+#### arrive in + cidade, país ou região
 
-- The shipment arrived on time.
-  - (A remessa chegou no prazo.)
+- We arrived in New York.
+  (Chegamos em Nova York.)
 
----
+- She arrived in Canada.
+  (Ela chegou ao Canadá.)
+
+- They arrived in Europe.
+  (Eles chegaram à Europa.)
 
 ## Uso com outros verbos
 
-### Usa ING?
+### Usa -ING?
 
-✔ **Não**
+- ✔ Não
 
-O verbo **arrive** normalmente não é seguido por outro verbo no gerúndio.
+Normalmente não é seguido diretamente por um verbo em **-ING**.
 
----
+❌ I arrived working.
+
+✔ I arrived and started working.
 
 ### Usa TO + infinitivo?
 
-✔ **Não**
+- ✔ Não
 
-O verbo **arrive** normalmente não é seguido diretamente por outro verbo.
-
-Após **arrive**, normalmente aparecem preposições como **in**, **at** e **on**.
-
----
-
-### Preposição obrigatória
-
-As preposições mais comuns são:
-
-- **arrive in** → cidades, países, regiões
-- **arrive at** → lugares específicos
-- **arrive on** → dias e datas
-
-**Exemplos:**
-
-- We arrived in Canada.
-  - (Nós chegamos ao Canadá.)
-
-- She arrived at the station.
-  - (Ela chegou à estação.)
-
-- The package arrived on Friday.
-  - (O pacote chegou na sexta-feira.)
-
----
-
-## Frases extras (uso real)
-
-- Please arrive on time.
-  - (Por favor, chegue no horário.)
-
-- The package arrived yesterday.
-  - (O pacote chegou ontem.)
-
-- When did you arrive?
-  - (Quando você chegou?)
-
-- The email arrived a few minutes ago.
-  - (O e-mail chegou há alguns minutos.)
-
-- The request arrived successfully.
-  - (A solicitação chegou com sucesso.)
-
----
-
-## Combinações mais comuns (Collocations)
-
-### arrive on time
-
-Please arrive on time.
-
-(Por favor, chegue no horário.)
-
----
-
-### arrive at the airport
-
-We arrived at the airport early.
-
-(Nós chegamos cedo ao aeroporto.)
-
----
-
-### arrive in a city
-
-She arrived in New York yesterday.
-
-(Ela chegou a Nova York ontem.)
-
----
-
-### arrive safely
-
-They arrived safely.
-
-(Eles chegaram em segurança.)
-
----
-
-### arrive late
-
-He arrived late for the meeting.
-
-(Ele chegou atrasado para a reunião.)
-
----
-
-## Expressões comuns (Common Expressions)
-
-### arrive on time
-
-Always arrive on time.
-
-(Sempre chegue no horário.)
-
----
-
-### arrive safely
-
-Text me when you arrive safely.
-
-(Me envie uma mensagem quando você chegar em segurança.)
-
----
-
-## Erros comuns
-
-❌ I arrived the airport.
-
-✔ I arrived at the airport.
-
----
-
-❌ We arrived Brazil.
-
-✔ We arrived in Brazil.
-
----
+**Arrive** normalmente não é seguido por **to + infinitive**.
 
 ❌ I arrived to work.
 
 ✔ I arrived at work.
 
-> **Observação:** usa-se **arrive at work**, mas **arrive home** é uma exceção e **não** usa preposição.
+✔ I arrived to work on the project. *(aqui "to work" expressa finalidade, não complemento de arrive)*
 
-✔ I arrived home.
+### Preposição obrigatória?
 
-(Eu cheguei em casa.)
+As preposições mais importantes são:
+
+- at
+- in
+
+**arrive at** → locais específicos
+
+- arrive at the office
+- arrive at the station
+
+**arrive in** → cidades, estados, países e regiões
+
+- arrive in London
+- arrive in Brazil
+
+Exemplos:
+
+- We arrived at the hotel.
+  (Chegamos ao hotel.)
+
+- She arrived in São Paulo.
+  (Ela chegou em São Paulo.)
+
+- The package arrived at the warehouse.
+  (O pacote chegou ao depósito.)
+
+## Frases extras (uso real)
+
+- The update arrived earlier than expected.
+  (A atualização chegou antes do esperado.)
+
+- The support team arrived on time.
+  (A equipe de suporte chegou no horário.)
+
+- The notification arrived instantly.
+  (A notificação chegou instantaneamente.)
+
+- New data arrived from the API.
+  (Novos dados chegaram da API.)
+
+- The package arrived without damage.
+  (O pacote chegou sem danos.)
+
+## Combinações mais comuns (Collocations)
+
+### arrive at the office
+
+- I arrived at the office before everyone else.
+  (Eu cheguei ao escritório antes de todos.)
+
+### arrive on time
+
+- Please arrive on time for the meeting.
+  (Por favor, chegue no horário para a reunião.)
+
+### arrive safely
+
+- The equipment arrived safely.
+  (O equipamento chegou em segurança.)
+
+### arrive late
+
+- He arrived late for the presentation.
+  (Ele chegou atrasado para a apresentação.)
+
+### arrive at a decision
+
+- The team finally arrived at a decision.
+  (A equipe finalmente chegou a uma decisão.)
+
+## Expressões comuns
+
+- arrive on time
+- arrive safely
+- arrive at a decision
+- arrive at a conclusion
+- arrive late
+
+## Erros comuns
+
+❌ I arrived to the office.
+
+✔ I arrived at the office.
+
+Para locais específicos, utiliza-se **arrive at**.
 
 ---
 
+❌ I arrived in the office.
+
+✔ I arrived at the office.
+
+**In** é normalmente usado para cidades, países e regiões.
+
+---
+
+❌ She arrived Brazil yesterday.
+
+✔ She arrived in Brazil yesterday.
+
+Após países e cidades, utiliza-se **in**.
+
 ## Observações importantes
 
-- **arrive** é um verbo **intransitivo**, ou seja, não recebe objeto direto.
-- Use **arrive in** para cidades, estados, países e regiões, e **arrive at** para locais específicos.
-- **Home** é uma exceção: dizemos **arrive home**, sem **at**.
-- Em TI, aparece ocasionalmente em logs, filas de mensagens, eventos e redes (*The request arrived*, *The packet arrived*), mas é menos frequente que verbos como **receive**, **send** e **deliver**.
+- **Arrive at** é usado com lugares específicos como airport, office, hotel e station.
+- **Arrive in** é usado com cidades, estados, países e regiões.
+- Um erro muito comum entre brasileiros é usar **arrive to**, mas normalmente o correto é **arrive at** ou **arrive in**.

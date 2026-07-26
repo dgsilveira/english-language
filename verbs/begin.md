@@ -1,83 +1,72 @@
-# Begin
+## Verbo: BEGIN
 
-## Informações gerais
-
-**SIGNIFICADO(S):**
-
+### Traduções principais
 - começar
 - iniciar
+
+### Informações gerais
+
+**Outras traduções**
 - dar início
+- ter início
+- principiar
 
-**CEFR:** A1
+#### Palavras da mesma família
 
-**Relevância para TI:** Muito usado
+- beginning → começo / início
+- beginner → iniciante
+- beginnings → origens / começos
+- beginner-friendly → amigável para iniciantes
 
-**Conjugação:** Irregular
+#### CEFR
+- A1
 
----
+#### Relevância para TI
+- Muito usado
 
-## Pronúncia (AFI – IPA)
+#### Tipo de verbo
+- Irregular
 
-- **Presente:** begin → /bɪˈɡɪn/
-- **Presente (3ª pessoa):** begins → /bɪˈɡɪnz/
-- **Passado:** began → /bɪˈɡæn/
-- **Particípio:** begun → /bɪˈɡʌn/
+### Pronúncia (IPA – General American)
 
----
+- Presente: **begin** → /bɪˈɡɪn/
+- Presente (3ª pessoa): **begins** → /bɪˈɡɪnz/
+- Passado: **began** → /bɪˈɡæn/
+- Particípio: **begun** → /bɪˈɡʌn/
+- Forma em **-ING**: **beginning** → /bɪˈɡɪnɪŋ/
 
-## Phrasal verbs
+### Phrasal verbs
 
-**begin** é o verbo de origem.
+- begin with
+- begin by
 
-Não possui phrasal verbs relevantes de uso frequente.
-
----
-
-## Forma em -ING
+### Forma em -ING
 
 **begin → beginning**
 
-O verbo termina em **consoante-vogal-consoante (CVC)**, por isso **dobra o N** antes de acrescentar **-ing**.
+O verbo dobra a consoante final (**n**) antes de adicionar **-ING**.
 
-**Exemplos:**
+- begin → beginning
+
+Pronúncia:
+
+- beginning → /bɪˈɡɪnɪŋ/
+
+Exemplos:
 
 - I am beginning a new project.
-  - (Estou começando um novo projeto.)
+  (Estou começando um novo projeto.)
 
-- The meeting is beginning.
-  - (A reunião está começando.)
-
----
-
-## Palavras da mesma família (Word Family)
-
-- begin
-- begins
-- began
-- begun
-- beginning
-- beginner
-- beginning (substantivo)
-
----
-
-## SIGNIFICADO(S)
-
-- começar
-- iniciar
-- dar início
-
----
+- The system is beginning to respond.
+  (O sistema está começando a responder.)
 
 ## Frases (tempo verbal)
 
 ### Presente (1ª pessoa)
 
-I begin my work at eight.
+I begin work at 8 a.m.
 
-(Eu começo meu trabalho às oito.)
-
----
+(Eu começo o trabalho às 8h.)
 
 ### Presente (3ª pessoa)
 
@@ -85,31 +74,23 @@ She begins every meeting on time.
 
 (Ela começa todas as reuniões no horário.)
 
----
-
 ### Passado
 
-I began the project yesterday.
+I began learning English last year.
 
-(Eu comecei o projeto ontem.)
-
----
+(Eu comecei a aprender inglês no ano passado.)
 
 ### Futuro
 
-I will begin tomorrow.
+I will begin the task tomorrow.
 
-(Eu começarei amanhã.)
-
----
+(Eu começarei a tarefa amanhã.)
 
 ### Particípio (Present Perfect)
 
-I have begun the course.
+I have begun a new course.
 
-(Eu comecei o curso.)
-
----
+(Eu comecei um novo curso.)
 
 ## Estruturas importantes
 
@@ -117,210 +98,193 @@ I have begun the course.
 
 **begin + objeto**
 
-**Exemplos:**
+Exemplos:
 
-- We began the meeting.
-  - (Nós começamos a reunião.)
+- Let's begin the meeting.
+  (Vamos começar a reunião.)
 
-- He began the project.
-  - (Ele começou o projeto.)
+- I began the project yesterday.
+  (Eu comecei o projeto ontem.)
 
-- They began the migration.
-  - (Eles iniciaram a migração.)
-
----
+- She began a new job.
+  (Ela começou um novo emprego.)
 
 ### Outras formas comuns
 
 #### begin + to + infinitivo
 
-**Exemplos:**
+Muito comum para indicar o início de uma ação.
 
-- I began to study English.
-  - (Eu comecei a estudar inglês.)
+- I began to understand the problem.
+  (Comecei a entender o problema.)
 
-- She began to understand the problem.
-  - (Ela começou a entender o problema.)
+- The application began to fail.
+  (A aplicação começou a falhar.)
 
-- The server began to respond slowly.
-  - (O servidor começou a responder lentamente.)
+- She began to study programming.
+  (Ela começou a estudar programação.)
 
----
+#### begin + verbo em -ING
 
-#### begin + verbo + ING
-
-**Exemplos:**
+Também muito comum.
 
 - I began studying English.
-  - (Eu comecei a estudar inglês.)
+  (Comecei a estudar inglês.)
 
-- She began working remotely.
-  - (Ela começou a trabalhar remotamente.)
+- We began testing the feature.
+  (Começamos a testar o recurso.)
 
-- They began using a new framework.
-  - (Eles começaram a usar um novo framework.)
+- They began developing the system.
+  (Eles começaram a desenvolver o sistema.)
 
----
+#### begin with + substantivo
+
+Usado para indicar o ponto de partida.
+
+- Let's begin with the basics.
+  (Vamos começar pelo básico.)
+
+- We began with a simple example.
+  (Começamos com um exemplo simples.)
+
+- The presentation began with an introduction.
+  (A apresentação começou com uma introdução.)
 
 ## Uso com outros verbos
 
-### Usa ING?
+### Usa -ING?
 
-✔ **Sim**
+- ✔ Sim
 
-Após **begin**, é comum usar outro verbo no gerúndio.
+Muito comum.
 
-**Exemplos:**
+Exemplos:
 
 - I began learning English.
-  - (Eu comecei a aprender inglês.)
+  (Comecei a aprender inglês.)
 
-- She began working here last year.
-  - (Ela começou a trabalhar aqui no ano passado.)
+- She began working remotely.
+  (Ela começou a trabalhar remotamente.)
 
----
+- We began testing the API.
+  (Começamos a testar a API.)
 
 ### Usa TO + infinitivo?
 
-✔ **Sim**
+- ✔ Sim
 
-Também é comum utilizar **begin + to + verbo**.
+Muito comum.
 
-**Exemplos:**
+Exemplos:
 
-- I began to study English.
-  - (Eu comecei a estudar inglês.)
+- I began to understand the issue.
+  (Comecei a entender o problema.)
 
-- The application began to load.
-  - (O aplicativo começou a carregar.)
+- The service began to respond.
+  (O serviço começou a responder.)
 
-> **Observação:** Na maioria dos casos, **begin + ING** e **begin + to + infinitivo** possuem o mesmo significado.
+- She began to write documentation.
+  (Ela começou a escrever documentação.)
 
----
+### Preposição obrigatória?
 
-### Preposição obrigatória
+Não possui preposição obrigatória.
 
-✔ **Não possui.**
+A combinação mais comum é:
 
-O verbo **begin** normalmente é seguido por:
+- begin with
 
-- substantivo;
-- verbo no infinitivo com **to**;
-- verbo terminado em **-ing**.
+Exemplos:
 
----
+- Let's begin with the introduction.
+  (Vamos começar pela introdução.)
+
+- The course begins with basic concepts.
+  (O curso começa com conceitos básicos.)
+
+- We began with a quick test.
+  (Começamos com um teste rápido.)
 
 ## Frases extras (uso real)
 
-- Let's begin.
-  - (Vamos começar.)
+- The deployment will begin tonight.
+  (A implantação começará hoje à noite.)
 
-- The meeting begins at nine.
-  - (A reunião começa às nove.)
+- We began testing the new feature.
+  (Começamos a testar o novo recurso.)
 
-- The application began to load.
-  - (O aplicativo começou a carregar.)
+- The server began responding normally.
+  (O servidor começou a responder normalmente.)
 
-- We began using Docker last year.
-  - (Começamos a usar Docker no ano passado.)
+- The project began in January.
+  (O projeto começou em janeiro.)
 
-- The deployment began successfully.
-  - (A implantação começou com sucesso.)
-
----
+- Developers often begin with simple examples.
+  (Desenvolvedores frequentemente começam com exemplos simples.)
 
 ## Combinações mais comuns (Collocations)
 
 ### begin a project
 
-We began a new project this week.
+- We began a project last month.
+  (Começamos um projeto no mês passado.)
 
-(Nós começamos um novo projeto esta semana.)
+### begin work
 
----
+- I usually begin work at 8 a.m.
+  (Eu normalmente começo o trabalho às 8h.)
 
-### begin a meeting
+### begin testing
 
-Let's begin the meeting.
-
-(Vamos começar a reunião.)
-
----
-
-### begin a course
-
-She began a programming course.
-
-(Ela começou um curso de programação.)
-
----
-
-### begin working
-
-I began working at this company in 2024.
-
-(Eu comecei a trabalhar nesta empresa em 2024.)
-
----
-
-### begin using
-
-The team began using GitHub Actions.
-
-(A equipe começou a usar o GitHub Actions.)
-
----
-
-## Expressões comuns (Common Expressions)
+- The team began testing the application.
+  (A equipe começou a testar a aplicação.)
 
 ### begin with
 
-Let's begin with the basics.
+- Let's begin with the requirements.
+  (Vamos começar pelos requisitos.)
 
-(Vamos começar pelo básico.)
+### begin a meeting
 
----
+- She began the meeting on time.
+  (Ela começou a reunião no horário.)
 
-### begin again
+## Expressões comuns
 
-You can begin again.
-
-(Você pode começar novamente.)
-
----
-
-### begin from scratch
-
-We had to begin from scratch.
-
-(Tivemos que começar do zero.)
-
----
+- begin with
+- begin from scratch
+- begin a journey
+- begin work
+- begin to understand
 
 ## Erros comuns
 
-❌ I begun yesterday.
+❌ I have began a new project.
 
-✔ I began yesterday.
+✔ I have begun a new project.
 
----
-
-❌ I have began the project.
-
-✔ I have begun the project.
+No Present Perfect, utiliza-se o particípio **begun**.
 
 ---
 
-❌ I begined the course.
+❌ The meeting begun at 9 a.m.
 
-✔ I began the course.
+✔ The meeting began at 9 a.m.
+
+No passado simples, utiliza-se **began**.
 
 ---
+
+❌ I began to studying English.
+
+✔ I began studying English.
+
+✔ I began to study English.
+
+Após **begin**, usa-se **-ING** ou **to + infinitive**, mas não ambos juntos.
 
 ## Observações importantes
 
-- **begin** é um verbo **irregular**: **begin → began → begun**.
-- A forma **-ING** é **beginning**, com **duplicação da letra N**.
-- Pode ser seguido tanto por **to + infinitivo** quanto por **verbo + ING**, normalmente sem mudança de significado.
-- É muito utilizado em inglês falado e escrito para indicar o início de ações, eventos, projetos, reuniões e processos.
-- Em TI aparece frequentemente em logs, documentação e sistemas: **begin transaction**, **begin processing**, **begin installation**, **begin deployment** e **begin execution**.
+- **Begin** aceita tanto **-ING** quanto **to + infinitive**, sem grande diferença de significado na maioria dos contextos.
+- Como verbo irregular, suas formas principais são **begin → began → begun**.
+- Em TI, é muito comum em documentação, tutoriais, apresentações, treinamentos e processos de implantação.

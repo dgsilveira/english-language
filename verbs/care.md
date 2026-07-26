@@ -1,61 +1,74 @@
-# Care
+## Verbo: CARE
 
-## Informações gerais
+### Traduções principais
+- importar-se
+- cuidar
 
-**CEFR:** A1
+### Informações gerais
 
-**Relevância para TI:** Usado
+**Outras traduções**
+- preocupar-se
+- zelar
+- tomar conta
+- ter interesse
 
-**Regular ou irregular?** Regular
+#### Palavras da mesma família
 
----
+- care → cuidado
+- careful → cuidadoso
+- carefully → cuidadosamente
+- careless → descuidado
+- caregiver → cuidador
 
-## Pronúncia (AFI – IPA)
+#### CEFR
+- A2
 
-- **Presente:** care → /ker/
-- **Presente (3ª pessoa):** cares → /kerz/
-- **Passado:** cared → /kerd/
-- **Particípio:** cared → /kerd/
+#### Relevância para TI
+- Usado
 
----
+#### Tipo de verbo
+- Regular
 
-## Phrasal verbs relacionados
+### Pronúncia (IPA – General American)
+
+- Presente: **care** → /ker/
+- Presente (3ª pessoa): **cares** → /kerz/
+- Passado: **cared** → /kerd/
+- Particípio: **cared** → /kerd/
+- Forma em **-ING**: **caring** → /ˈkerɪŋ/
+
+### Phrasal verbs
 
 - care for
 - care about
-- care of *(mais comum na expressão **take care of**)*
 
----
-
-## Forma do -ING
+### Forma em -ING
 
 **care → caring**
 
-O verbo apenas acrescenta **-ing**, sem alterações na escrita.
+O **e** final é removido antes de adicionar **-ING**.
 
-**Exemplos:**
+- care → caring
 
-- caring for children
-- caring about others
-- caring for customers
+Pronúncia:
 
----
+- caring → /ˈkerɪŋ/
 
-## Significados
+Exemplos:
 
-- importar-se
-- cuidar
-- preocupar-se
+- She is caring for her parents.
+  (Ela está cuidando dos pais.)
 
----
+- I am caring about the outcome.
+  (Eu me importo com o resultado.)
 
 ## Frases (tempo verbal)
 
 ### Presente (1ª pessoa)
 
-I care about my family.
+I care about quality.
 
-(Eu me importo com minha família.)
+(Eu me importo com qualidade.)
 
 ### Presente (3ª pessoa)
 
@@ -65,182 +78,207 @@ She cares about her work.
 
 ### Passado
 
-I cared about the project.
+I cared about that project.
 
-(Eu me importei com o projeto.)
+(Eu me importava com aquele projeto.)
 
 ### Futuro
 
-I will care for the patient.
+I will care for the system.
 
-(Eu cuidarei do paciente.)
+(Eu cuidarei do sistema.)
 
 ### Particípio (Present Perfect)
 
-I have cared for many people.
+I have cared about this issue for years.
 
-(Eu cuidei de muitas pessoas. / Eu tenho cuidado de muitas pessoas.)
-
----
+(Eu me importo com esse problema há anos.)
 
 ## Estruturas importantes
 
 ### Estrutura principal
 
-**care about + pessoa/coisa**
+**care about + substantivo**
 
-**Exemplos:**
+Usado para dizer que algo é importante para alguém.
 
-- I care about you.
-  (Eu me importo com você.)
+Exemplos:
 
-- She cares about quality.
-  (Ela se importa com a qualidade.)
+- I care about security.
+  (Eu me importo com segurança.)
 
-- We care about our customers.
-  (Nós nos importamos com nossos clientes.)
+- She cares about customer satisfaction.
+  (Ela se importa com a satisfação dos clientes.)
+
+- We care about quality.
+  (Nós nos importamos com qualidade.)
 
 ### Outras formas comuns
 
 #### care for + pessoa
 
-**Exemplos:**
+Usado para cuidar de alguém.
 
-- She cares for her grandmother.
-  (Ela cuida da avó.)
+- She cares for her children.
+  (Ela cuida dos filhos.)
 
-- Nurses care for patients.
-  (Enfermeiros cuidam de pacientes.)
+- He cares for his grandfather.
+  (Ele cuida do avô.)
 
-- He cared for his father.
-  (Ele cuidou do pai.)
+- The nurse cares for patients.
+  (A enfermeira cuida dos pacientes.)
 
-#### take care of + objeto/pessoa
+#### care for + objeto
 
-**Exemplos:**
+Usado para tomar conta de algo.
 
-- I'll take care of it.
-  (Eu cuidarei disso.)
+- We care for the equipment.
+  (Nós cuidamos dos equipamentos.)
 
-- Please take care of the documents.
-  (Por favor, cuide dos documentos.)
+- The team cares for the servers.
+  (A equipe cuida dos servidores.)
 
-- She takes care of the children.
-  (Ela cuida das crianças.)
+- She cares for company assets.
+  (Ela cuida dos ativos da empresa.)
 
----
+#### care + if/whether
+
+Usado para perguntar se alguém se importa com algo.
+
+- Do you care if I leave early?
+  (Você se importa se eu sair mais cedo?)
+
+- I don't care whether we leave now or later.
+  (Não me importo se sairmos agora ou depois.)
 
 ## Uso com outros verbos
 
-### Usa ING?
+### Usa -ING?
 
-✔ Não
+- ✔ Sim
 
-O verbo **care** normalmente não é seguido diretamente por outro verbo no gerúndio.
+Principalmente após preposições.
+
+Exemplos:
+
+- Thank you for caring about the project.
+  (Obrigado por se importar com o projeto.)
+
+- She is interested in caring for animals.
+  (Ela está interessada em cuidar de animais.)
 
 ### Usa TO + infinitivo?
 
-✔ Sim
+- ✔ Não
 
-A estrutura **care to + verbo** significa **importar-se em**, **ter vontade de** ou **aceitar fazer algo**, sendo mais formal.
+Normalmente **care** não é seguido diretamente por **to + infinitive**.
 
-**Exemplos:**
+❌ I care to improve the system.
 
-- Would you care to join us?
-  (Você gostaria de se juntar a nós?)
+✔ I care about improving the system.
 
-- I don't care to discuss it.
-  (Eu prefiro não discutir isso.)
+✔ I want to improve the system.
 
----
+### Preposição obrigatória?
 
-## Preposição obrigatória?
+As preposições mais importantes são:
 
-Dependendo do significado, sim.
+- about
+- for
 
-As mais comuns são:
+**care about** → importar-se com
 
-- **care about** → importar-se com
-- **care for** → cuidar de; gostar de (mais formal)
+**care for** → cuidar de
 
----
+Exemplos:
+
+- I care about the project.
+  (Eu me importo com o projeto.)
+
+- She cares for her family.
+  (Ela cuida da família.)
+
+- We care about customer experience.
+  (Nós nos importamos com a experiência do cliente.)
 
 ## Frases extras (uso real)
 
-- I don't care about money.
-  (Eu não me importo com dinheiro.)
+- We care about software quality.
+  (Nós nos importamos com a qualidade do software.)
 
-- We care about security.
-  (Nós nos importamos com a segurança.)
+- The support team cares about customer satisfaction.
+  (A equipe de suporte se importa com a satisfação dos clientes.)
 
-- The company cares about customer satisfaction.
-  (A empresa se preocupa com a satisfação dos clientes.)
+- She cares for the documentation.
+  (Ela cuida da documentação.)
 
-- Please take care of this issue.
-  (Por favor, cuide deste problema.)
+- Developers should care about security.
+  (Desenvolvedores devem se importar com segurança.)
 
-- Do you care about performance?
-  (Você se importa com desempenho?)
-
----
+- I don't care about minor issues.
+  (Eu não me importo com problemas pequenos.)
 
 ## Combinações mais comuns (Collocations)
 
-### care about people
-
-We care about people.
-
-(Nós nos importamos com as pessoas.)
-
 ### care about quality
 
-They care about quality.
+- Successful teams care about quality.
+  (Equipes de sucesso se importam com qualidade.)
 
-(Eles se importam com a qualidade.)
+### care about customers
+
+- Good companies care about customers.
+  (Boas empresas se importam com os clientes.)
+
+### care for someone
+
+- She cares for her elderly parents.
+  (Ela cuida dos pais idosos.)
+
+### care for equipment
+
+- Technicians care for expensive equipment.
+  (Técnicos cuidam de equipamentos caros.)
 
 ### care about security
 
-Developers care about security.
+- Developers must care about security.
+  (Desenvolvedores devem se importar com segurança.)
 
-(Desenvolvedores se preocupam com a segurança.)
+## Expressões comuns
 
-### care for patients
-
-Doctors care for patients.
-
-(Médicos cuidam de pacientes.)
-
-### take care of
-
-I'll take care of everything.
-
-(Eu cuidarei de tudo.)
-
----
+- care about
+- care for
+- take care
+- take care of
+- I don't care
 
 ## Erros comuns
 
-❌ I care you.
+❌ I care the project.
 
-✔ I care about you.
+✔ I care about the project.
 
----
-
-❌ She cares the children.
-
-✔ She cares for the children.
+Após **care** com o sentido de "importar-se", utiliza-se **about**.
 
 ---
 
-❌ I care to him.
+❌ She cares her father.
 
-✔ I care about him.
+✔ She cares for her father.
+
+Após **care** com o sentido de "cuidar", utiliza-se **for**.
 
 ---
+
+❌ I don't care of that.
+
+✔ I don't care about that.
+
+A preposição correta é **about**.
 
 ## Observações importantes
 
-- **care about** significa **importar-se com**.
-- **care for** normalmente significa **cuidar de**, mas também pode significar **gostar de** em um inglês mais formal (*I don't care for coffee.* = *Eu não gosto de café.*).
-- A expressão **take care of** é muito mais comum do que o verbo **care** isoladamente quando o sentido é "cuidar de".
-- Em TI, aparecem frequentemente expressões como **care about performance**, **care about security**, **care about code quality** e **take care of a bug**, especialmente em reuniões e documentação.
+- **Care about** significa importar-se com algo.
+- **Care for** normalmente significa cuidar de alguém ou alguma coisa.
+- A expressão **take care of** é extremamente comum e muitas vezes substitui **care for** no inglês cotidiano.
