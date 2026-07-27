@@ -1,242 +1,281 @@
-# Verbs
+## Verbo: END
 
-Cada verbo possui seu próprio arquivo Markdown.
+### Traduções principais
+- terminar
+- encerrar
 
-## Índice de verbos
+### Informações gerais
 
-* [Add](add.md)
-* [Add on](add-on.md)
-* [Add up](add-up.md)
-* [Agree](agree.md)
-* [Allow](allow.md)
-* [Appear](appear.md)
-* [Arrange](arrange.md)
-* [Arrive](arrive.md)
-* [Ask](ask.md)
-* [Ask for](ask-for.md)
-* [Attach](attach.md)
-* [Avoid](avoid.md)
-* [Be](be.md)
-* [Be about to](be-about-to.md)
-* [Be back](be-back.md)
-* [Be in](be-in.md)
-* [Be off](be-off.md)
-* [Be on](be-on.md)
-* [Be out](be-out.md)
-* [Be over](be-over.md)
-* [Be up to](be-up-to.md)
-* [Become](become.md)
-* [Begin](begin.md)
-* [Believe](believe.md)
-* [Belong](belong.md)
-* [Borrow](borrow.md)
-* [Break](break.md)
-* [Breathe](breathe.md)
-* [Bring](bring.md)
-* [Build](build.md)
-* [Buy](buy.md)
-* [Call](call.md)
-* [Calm down](calm-down.md)
-* [Care](care.md)
-* [Carry on](carry-on.md)
-* [Catch](catch.md)
-* [Catch up](catch-up.md)
-* [Charge](charge.md)
-* [Check](check.md)
-* [Check in](check-in.md)
-* [Check out](check-out.md)
-* [Choose](choose.md)
-* [Clean](clean.md)
-* [Close](close.md)
-* [Come](come.md)
-* [Compare](compare.md)
-* [Complete](complete.md)
-* [Connect](connect.md)
-* [Continue](continue.md)
-* [Cook](cook.md)
-* [Cost](cost.md)
-* [Create](create.md)
-* [Dance](dance.md)
-* [Decide](decide.md)
-* [Design](design.md)
-* [Destroy](destroy.md)
-* [Detach](detach.md)
-* [Develop](develop.md)
-* [Die](die.md)
-* [Disagree](disagree.md)
-* [Disconnect](disconnect.md)
-* [Discover](discover.md)
-* [Dislike](dislike.md)
-* [Divide](divide.md)
-* [Do](do.md)
-* [Download](download.md)
-* [Draw](draw.md)
-* [Dream](dream.md)
-* [Drink](drink.md)
-* [Drive](drive.md)
-* [Earn](earn.md)
-* [Eat](eat.md)
-* [Encourage](encourage.md)
-* [End](end.md)
-* [Enjoy](enjoy.md)
-* [Exercise](exercise.md)
-* [Expect](expect.md)
-* [Explain](explain.md)
-* [Explore](explore.md)
-* [Fail](fail.md)
-* [Fall](fall.md)
-* [Feel](feel.md)
-* [Fill out](fill-out.md)
-* [Find](find.md)
-* [Find out](find-out.md)
-* [Finish](finish.md)
-* [Fish](fish.md)
-* [Fix](fix.md)
-* [Fly](fly.md)
-* [Forbid](forbid.md)
-* [Force](force.md)
-* [Forget](forget.md)
-* [Get](get.md)
-* [Give](give.md)
-* [Give up](give-up.md)
-* [Go](go.md)
-* [Go back](go-back.md)
-* [Grow](grow.md)
-* [Guess](guess.md)
-* [Happen](happen.md)
-* [Hate](hate.md)
-* [Have](have.md)
-* [Hear](hear.md)
-* [Help](help.md)
-* [Hold](hold.md)
-* [Hope](hope.md)
-* [Imagine](imagine.md)
-* [Improve](improve.md)
-* [Intend](intend.md)
-* [Invent](invent.md)
-* [Invite](invite.md)
-* [Join](join.md)
-* [Join in](join-in.md)
-* [Keep](keep.md)
-* [Know](know.md)
-* [Learn](learn.md)
-* [Leave](leave.md)
-* [Lend](lend.md)
-* [Let](let.md)
-* [Like](like.md)
-* [Listen](listen.md)
-* [Live](live.md)
-* [Look](look.md)
-* [Look after](look-after.md)
-* [Look at](look-at.md)
-* [Look for](look-for.md)
-* [Look up](look-up.md)
-* [Lose](lose.md)
-* [Love](love.md)
-* [Make](make.md)
-* [Meet](meet.md)
-* [Melt](melt.md)
-* [Miss](miss.md)
-* [Move](move.md)
-* [Multiply](multiply.md)
-* [Need](need.md)
-* [Notice](notice.md)
-* [Occur](occur.md)
-* [Open](open.md)
-* [Order](order.md)
-* [Organize](organize.md)
-* [Owe](owe.md)
-* [Pass](pass.md)
-* [Pay](pay.md)
-* [Persuade](persuade.md)
-* [Pick up](pick-up.md)
-* [Plan](plan.md)
-* [Play](play.md)
-* [Practice](practice.md)
-* [Prefer](prefer.md)
-* [Prescribe](prescribe.md)
-* [Press](press.md)
-* [Produce](produce.md)
-* [Promise](promise.md)
-* [Pull](pull.md)
-* [Push](push.md)
-* [Put](put.md)
-* [Read](read.md)
-* [Receive](receive.md)
-* [Recommend](recommend.md)
-* [Refuse](refuse.md)
-* [Remain](remain.md)
-* [Remember](remember.md)
-* [Remind](remind.md)
-* [Repair](repair.md)
-* [Research](research.md)
-* [Rest](rest.md)
-* [Review](review.md)
-* [Run](run.md)
-* [Save](save.md)
-* [Say](say.md)
-* [Search](search.md)
-* [See](see.md)
-* [Seem](seem.md)
-* [Sell](sell.md)
-* [Send](send.md)
-* [Share](share.md)
-* [Show](show.md)
-* [Sing](sing.md)
-* [Sit](sit.md)
-* [Sleep](sleep.md)
-* [Smell](smell.md)
-* [Smoke](smoke.md)
-* [Sound](sound.md)
-* [Speak](speak.md)
-* [Spend](spend.md)
-* [Split](split.md)
-* [Stand](stand.md)
-* [Start](start.md)
-* [Stay](stay.md)
-* [Stop](stop.md)
-* [Study](study.md)
-* [Subtract](subtract.md)
-* [Suggest](suggest.md)
-* [Suppose](suppose.md)
-* [Swim](swim.md)
-* [Switch](switch.md)
-* [Take](take.md)
-* [Take a nap](take-a-nap.md)
-* [Take care](take-care.md)
-* [Talk](talk.md)
-* [Taste](taste.md)
-* [Teach](teach.md)
-* [Tell](tell.md)
-* [Test](test.md)
-* [Think](think.md)
-* [Throw](throw.md)
-* [Touch](touch.md)
-* [Train](train.md)
-* [Travel](travel.md)
-* [Trust](trust.md)
-* [Try](try.md)
-* [Turn](turn.md)
-* [Turn off](turn-off.md)
-* [Turn on](turn-on.md)
-* [Understand](understand.md)
-* [Upload](upload.md)
-* [Use](use.md)
-* [Wait](wait.md)
-* [Wake](wake.md)
-* [Walk](walk.md)
-* [Want](want.md)
-* [Warn](warn.md)
-* [Watch](watch.md)
-* [Wear](wear.md)
-* [Win](win.md)
-* [Wish](wish.md)
-* [Wonder](wonder.md)
-* [Work](work.md)
-* [Work out](work-out.md)
-* [Write](write.md)
+**Outras traduções**
+- finalizar
+- concluir
+- acabar
+- chegar ao fim
 
+#### Palavras da mesma família
 
-> O índice será atualizado conforme novos verbos forem adicionados.
+- end → fim
+- ending → final / encerramento
+- ended → terminado
+- endless → interminável
+- end-user → usuário final
+
+#### CEFR
+- A1
+
+#### Relevância para TI
+- Muito usado
+
+#### Tipo de verbo
+- Regular
+
+### Pronúncia (IPA – General American)
+
+- Presente: **end** → /end/
+- Presente (3ª pessoa): **ends** → /endz/
+- Passado: **ended** → /ˈendɪd/
+- Particípio: **ended** → /ˈendɪd/
+- Forma em **-ING**: **ending** → /ˈendɪŋ/
+
+### Phrasal verbs
+
+- end up
+- end off
+
+### Forma em -ING
+
+**end → ending**
+
+O verbo apenas recebe **-ING**.
+
+- end → ending
+
+Pronúncia:
+
+- ending → /ˈendɪŋ/
+
+Exemplos:
+
+- The meeting is ending.
+  (A reunião está terminando.)
+
+- We are ending the deployment process.
+  (Estamos encerrando o processo de implantação.)
+
+## Frases (tempo verbal)
+
+### Presente (1ª pessoa)
+
+I end my work at 6 p.m.
+
+(Eu termino meu trabalho às 18h.)
+
+### Presente (3ª pessoa)
+
+She ends her presentation with a summary.
+
+(Ela encerra sua apresentação com um resumo.)
+
+### Passado
+
+I ended the project last month.
+
+(Eu encerrei o projeto no mês passado.)
+
+### Futuro
+
+I will end the meeting soon.
+
+(Eu encerraria a reunião em breve.)
+
+### Particípio (Present Perfect)
+
+I have ended the session.
+
+(Eu encerrei a sessão.)
+
+## Estruturas importantes
+
+### Estrutura principal
+
+**end + objeto**
+
+Exemplos:
+
+- End the meeting.
+  (Encerre a reunião.)
+
+- I ended the call.
+  (Eu encerrei a ligação.)
+
+- She ended the discussion.
+  (Ela encerrou a discussão.)
+
+### Outras formas comuns
+
+#### end + processo/projeto
+
+Muito comum em ambientes profissionais.
+
+- We ended the migration.
+  (Encerramos a migração.)
+
+- The team ended the deployment.
+  (A equipe encerrou a implantação.)
+
+- She ended the project successfully.
+  (Ela encerrou o projeto com sucesso.)
+
+#### end with + resultado
+
+- The meeting ended with an agreement.
+  (A reunião terminou com um acordo.)
+
+- The project ended with positive results.
+  (O projeto terminou com resultados positivos.)
+
+- The presentation ended with questions.
+  (A apresentação terminou com perguntas.)
+
+#### end in + resultado
+
+- The discussion ended in confusion.
+  (A discussão terminou em confusão.)
+
+- The outage ended in a complete shutdown.
+  (A indisponibilidade terminou em um desligamento completo.)
+
+## Uso com outros verbos
+
+### Usa -ING?
+
+- ✔ Sim
+
+Exemplos:
+
+- Ending a project requires planning.
+  (Encerrar um projeto requer planejamento.)
+
+- We are ending the session now.
+  (Estamos encerrando a sessão agora.)
+
+- She enjoys ending meetings on time.
+  (Ela gosta de encerrar reuniões no horário.)
+
+### Usa TO + infinitivo?
+
+- ✔ Sim
+
+Exemplos:
+
+- I need to end the call.
+  (Preciso encerrar a ligação.)
+
+- We want to end the process safely.
+  (Queremos encerrar o processo com segurança.)
+
+- She plans to end the project next week.
+  (Ela planeja encerrar o projeto na próxima semana.)
+
+### Preposição obrigatória?
+
+Não possui preposição obrigatória.
+
+As combinações mais comuns são:
+
+- end with
+- end in
+- end up
+
+Exemplos:
+
+- The meeting ended with applause.
+  (A reunião terminou com aplausos.)
+
+- The discussion ended in disagreement.
+  (A discussão terminou em discordância.)
+
+- We ended up choosing another solution.
+  (Acabamos escolhendo outra solução.)
+
+## Frases extras (uso real)
+
+- The system automatically ends inactive sessions.
+  (O sistema encerra automaticamente sessões inativas.)
+
+- We need to end the maintenance window.
+  (Precisamos encerrar a janela de manutenção.)
+
+- The deployment ended successfully.
+  (A implantação terminou com sucesso.)
+
+- She ended the support call politely.
+  (Ela encerrou a chamada de suporte educadamente.)
+
+- The project ended ahead of schedule.
+  (O projeto terminou antes do prazo.)
+
+## Combinações mais comuns (Collocations)
+
+### end a meeting
+
+- The manager ended the meeting early.
+  (O gerente encerrou a reunião mais cedo.)
+
+### end a call
+
+- Please end the call when finished.
+  (Por favor, encerre a ligação quando terminar.)
+
+### end a project
+
+- They ended the project successfully.
+  (Eles encerraram o projeto com sucesso.)
+
+### end with success
+
+- The migration ended with success.
+  (A migração terminou com sucesso.)
+
+### end a session
+
+- The application ends inactive sessions automatically.
+  (A aplicação encerra sessões inativas automaticamente.)
+
+## Expressões comuns
+
+- end a meeting
+- end a project
+- end a session
+- end with
+- end up
+
+## Erros comuns
+
+❌ I have end the project.
+
+✔ I have ended the project.
+
+No Present Perfect, utiliza-se o particípio **ended**.
 
 ---
+
+❌ The meeting ended by an agreement.
+
+✔ The meeting ended with an agreement.
+
+A preposição correta é **with**.
+
+---
+
+❌ We ended to use another tool.
+
+✔ We ended up using another tool.
+
+Para indicar o resultado final de uma situação, usa-se **end up + ING**.
+
+## Observações importantes
+
+- **End** pode ser transitivo (*end the meeting*) ou intransitivo (*the meeting ended*).
+- Em TI, é muito comum para sessões, processos, reuniões, deploys, projetos e conexões.
+- A expressão **end up** é extremamente comum e significa "acabar fazendo algo" ou "terminar em determinada situação".
